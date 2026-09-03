@@ -1,0 +1,52 @@
+name: CodeChef Practice Auto-Grinder
+
+on:
+  schedule:
+    # Runs twice a day (04:00 UTC and 16:00 UTC = 09:30 AM & 09:30 PM IST)
+    - cron: '0 4,16 * * *'
+  workflow_dispatch: # Allows manual one-click trigger from GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  grind-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run CodeChef Practice Grinder
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CODECHEF_SESSION: ${{ secrets.CODECHEF_SESSION }}
+          PROBLEMS_PER_RUN: "4"
+          LANGUAGE: "cpp"
+          MIN_DIFFICULTY: "200"
+          MAX_DIFFICULTY: "1400"
+          SUBMISSION_DELAY_SECONDS: "30"
+        run: |
+          python -m src.runner
+
+      - name: Commit & Push Solved Solutions
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto: Grinded CodeChef Practice Problems [skip ci]"
+          file_pattern: "solutions/** data/**"
+          commit_user_name: "CodeChef Grinder Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "CodeChef Grinder Bot <actions@github.com>"
