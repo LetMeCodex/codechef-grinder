@@ -1,6 +1,8 @@
+import datetime
 import json
 import logging
 import os
+import random
 import sys
 import time
 from pathlib import Path
@@ -36,6 +38,12 @@ def save_solved_database(data_path: Path, data: dict) -> None:
         json.dump(data, f, indent=2)
 
 
+def count_problems_solved_today(history: list) -> int:
+    """Count how many problems were already solved on the current calendar date."""
+    today_str = datetime.date.today().isoformat()
+    return sum(1 for item in history if str(item.get("time", "")).startswith(today_str))
+
+
 def save_solution_files(
     solutions_dir: Path,
     problem_code: str,
@@ -61,7 +69,7 @@ def save_solution_files(
 
 def run():
     logger.info("=== Starting CodeChef Practice Archive Auto-Grinder ===")
-    
+
     client = CodeChefClient()
     solver = CodeChefSolver()
 
@@ -82,13 +90,33 @@ def run():
     db = load_solved_database(config.data_file)
     solved_set = set(db.get("solved_codes", []))
     failed_set = set(db.get("failed_codes", []))
-    logger.info(f"Database loaded: {len(solved_set)} solved, {len(failed_set)} skipped/failed.")
+    history = db.get("history", [])
 
-    # 2. Discover Unsolved Candidate Problems
+    today_solved = count_problems_solved_today(history)
+    logger.info(f"Database loaded: {len(solved_set)} total solved, {len(failed_set)} skipped/failed.")
+    logger.info(f"Problems solved today so far: {today_solved} (Daily Target Range: {config.daily_target_min}-{config.daily_target_max})")
+
+    # Check if daily upper bound is reached
+    if today_solved >= config.daily_target_max:
+        logger.info(f"Daily quota of {today_solved} problems reached for today! Resting until tomorrow to maintain human-like activity.")
+        return
+
+    # 2. Determine Random Session Target
+    if config.randomize_batch:
+        # Pick random number for this run (e.g. 2 to 5 problems)
+        target_this_run = random.randint(config.min_problems_per_run, config.max_problems_per_run)
+        # Cap so we don't exceed daily_target_max
+        remaining_today = config.daily_target_max - today_solved
+        target_this_run = min(target_this_run, remaining_today)
+    else:
+        target_this_run = config.min_problems_per_run
+
+    logger.info(f"Targeting {target_this_run} problem(s) in this randomized session.")
+
+    # 3. Discover Unsolved Candidate Problems
     candidate_problems = []
     page = 0
-    while len(candidate_problems) < config.problems_per_run and page < 8:
-        logger.info(f"Fetching practice problems page {page} from CodeChef...")
+    while len(candidate_problems) < target_this_run and page < 10:
         try:
             problems = client.fetch_practice_problems(
                 page=page,
@@ -97,7 +125,7 @@ def run():
                 sort_order="desc"
             )
         except Exception as e:
-            logger.error(f"Failed to fetch problems from CodeChef API: {e}")
+            logger.error(f"Failed to fetch problems page {page}: {e}")
             break
 
         if not problems:
@@ -119,7 +147,7 @@ def run():
 
             if code not in [cp["code"] for cp in candidate_problems]:
                 candidate_problems.append(p)
-                if len(candidate_problems) >= config.problems_per_run:
+                if len(candidate_problems) >= target_this_run:
                     break
 
         page += 1
@@ -132,7 +160,7 @@ def run():
     for i, p in enumerate(candidate_problems, 1):
         logger.info(f"  {i}. {p.get('code')} - {p.get('name')} (Rating: {p.get('difficulty_rating')})")
 
-    # 3. Solve & Submit Each Problem
+    # 4. Solve & Submit Each Problem
     solved_this_run = 0
 
     for idx, p_meta in enumerate(candidate_problems, 1):
@@ -187,7 +215,7 @@ def run():
                     break
 
                 # Live Submission
-                logger.info(f"Submitting to CodeChef IDE...")
+                logger.info("Submitting to CodeChef IDE...")
                 solution_id = client.submit_solution(code, sol_code, config.language)
                 logger.info(f"Submitted. Solution ID: {solution_id}. Polling verdict...")
 
@@ -237,10 +265,10 @@ def run():
                 db["failed_codes"].append(code)
             save_solved_database(config.data_file, db)
 
-        # Human-like delay between different problems
+        # Human-like randomized delay between different problems
         if is_solved and idx < len(candidate_problems) and not config.dry_run:
-            pacing_delay = config.submission_delay_seconds
-            logger.info(f"Waiting {pacing_delay}s before starting next problem (human pacing)...")
+            pacing_delay = random.randint(config.min_delay_seconds, config.max_delay_seconds)
+            logger.info(f"Waiting {pacing_delay}s before starting next problem (human randomized pacing)...")
             time.sleep(pacing_delay)
 
     logger.info(f"\n=== Session Finished: Solved {solved_this_run}/{len(candidate_problems)} problems ===")

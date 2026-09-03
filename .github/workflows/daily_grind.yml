@@ -2,8 +2,16 @@ name: CodeChef Practice Auto-Grinder
 
 on:
   schedule:
-    # Runs twice a day (04:00 UTC and 16:00 UTC = 09:30 AM & 09:30 PM IST)
-    - cron: '0 4,16 * * *'
+    # 4 Randomized Human Time-Slots per day (IST = UTC + 5:30)
+    # 1. Morning (~10:17 AM IST)
+    - cron: '47 4 * * *'
+    # 2. Afternoon (~02:34 PM IST)
+    - cron: '4 9 * * *'
+    # 3. Evening (~07:18 PM IST)
+    - cron: '48 13 * * *'
+    # 4. Late Night (~11:21 PM IST)
+    - cron: '51 17 * * *'
+
   workflow_dispatch: # Allows manual one-click trigger from GitHub Actions
 
 permissions:
@@ -30,15 +38,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run CodeChef Practice Grinder
+      - name: Run CodeChef Practice Grinder (Randomized Mode)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CODECHEF_SESSION: ${{ secrets.CODECHEF_SESSION }}
-          PROBLEMS_PER_RUN: "4"
+          RANDOMIZE_BATCH: "true"
+          MIN_PROBLEMS_PER_RUN: "2"
+          MAX_PROBLEMS_PER_RUN: "5"
+          DAILY_TARGET_MIN: "8"
+          DAILY_TARGET_MAX: "20"
+          MIN_DELAY_SECONDS: "40"
+          MAX_DELAY_SECONDS: "110"
           LANGUAGE: "cpp"
           MIN_DIFFICULTY: "200"
           MAX_DIFFICULTY: "1400"
-          SUBMISSION_DELAY_SECONDS: "30"
         run: |
           python -m src.runner
 
