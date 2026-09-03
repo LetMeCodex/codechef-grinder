@@ -46,7 +46,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto: Grinded CodeChef Practice Problems [skip ci]"
-          file_pattern: "solutions/** data/**"
+          file_pattern: "."
           commit_user_name: "CodeChef Grinder Bot"
           commit_user_email: "actions@github.com"
           commit_author: "CodeChef Grinder Bot <actions@github.com>"
