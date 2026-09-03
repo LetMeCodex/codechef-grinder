@@ -18,7 +18,7 @@ logger = logging.getLogger("CodeChefAutoGrinder")
 
 
 def load_solved_database(data_path: Path) -> dict:
-    """Load or initialize database tracking solved problem codes."""
+    """Load or initialize database tracking solved and failed problem codes."""
     if data_path.exists():
         try:
             with open(data_path, "r", encoding="utf-8") as f:
@@ -26,7 +26,7 @@ def load_solved_database(data_path: Path) -> dict:
         except Exception as e:
             logger.warning(f"Failed to read {data_path}, creating fresh state: {e}")
 
-    return {"total_solved": 0, "solved_codes": [], "history": []}
+    return {"total_solved": 0, "solved_codes": [], "failed_codes": [], "history": []}
 
 
 def save_solved_database(data_path: Path, data: dict) -> None:
@@ -81,12 +81,13 @@ def run():
     # 1. Load Solved Database
     db = load_solved_database(config.data_file)
     solved_set = set(db.get("solved_codes", []))
-    logger.info(f"Database loaded: {len(solved_set)} problems already solved.")
+    failed_set = set(db.get("failed_codes", []))
+    logger.info(f"Database loaded: {len(solved_set)} solved, {len(failed_set)} skipped/failed.")
 
     # 2. Discover Unsolved Candidate Problems
     candidate_problems = []
     page = 0
-    while len(candidate_problems) < config.problems_per_run and page < 5:
+    while len(candidate_problems) < config.problems_per_run and page < 8:
         logger.info(f"Fetching practice problems page {page} from CodeChef...")
         try:
             problems = client.fetch_practice_problems(
@@ -112,7 +113,11 @@ def run():
             if diff > 0 and (diff < config.min_difficulty or diff > config.max_difficulty):
                 continue
 
-            if code not in solved_set and code not in [cp["code"] for cp in candidate_problems]:
+            # Skip already solved or already marked as broken/failed
+            if code in solved_set or code in failed_set:
+                continue
+
+            if code not in [cp["code"] for cp in candidate_problems]:
                 candidate_problems.append(p)
                 if len(candidate_problems) >= config.problems_per_run:
                     break
@@ -139,6 +144,16 @@ def run():
             details = client.fetch_problem_details(code)
         except Exception as e:
             logger.error(f"Failed to fetch details for {code}: {e}")
+            continue
+
+        clean_content = details.get("cleanContent", "")
+        # Filter out example tutorial / author guide problems
+        if "example problem statement" in clean_content.lower() or "mini guide on writing statements" in clean_content.lower():
+            logger.warning(f"Skipping dummy/tutorial template problem: {code}")
+            if "failed_codes" not in db:
+                db["failed_codes"] = []
+            db["failed_codes"].append(code)
+            save_solved_database(config.data_file, db)
             continue
 
         attempt = 1
@@ -192,6 +207,7 @@ def run():
                     db["history"].append({
                         "code": code,
                         "name": name,
+                        "status": "Accepted",
                         "attempts": attempt,
                         "time": time.strftime("%Y-%m-%d %H:%M:%S")
                     })
@@ -212,6 +228,14 @@ def run():
                 time.sleep(10)
 
             attempt += 1
+
+        if not is_solved and not config.dry_run:
+            logger.warning(f"Problem {code} failed all {config.max_retries} attempts. Adding to skip list.")
+            if "failed_codes" not in db:
+                db["failed_codes"] = []
+            if code not in db["failed_codes"]:
+                db["failed_codes"].append(code)
+            save_solved_database(config.data_file, db)
 
         # Human-like delay between different problems
         if is_solved and idx < len(candidate_problems) and not config.dry_run:

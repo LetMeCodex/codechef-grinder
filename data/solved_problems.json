@@ -1,5 +1,31 @@
 {
-  "total_solved": 0,
-  "solved_codes": [],
-  "history": []
+  "total_solved": 3,
+  "solved_codes": [
+    "START01",
+    "FLOW001",
+    "HS08TEST"
+  ],
+  "failed_codes": [
+    "CCLEARN"
+  ],
+  "history": [
+    {
+      "code": "START01",
+      "name": "Number Mirror",
+      "status": "Accepted",
+      "score": 100
+    },
+    {
+      "code": "FLOW001",
+      "name": "Add Two Numbers",
+      "status": "Accepted",
+      "score": 100
+    },
+    {
+      "code": "HS08TEST",
+      "name": "ATM",
+      "status": "Accepted",
+      "score": 100
+    }
+  ]
 }
