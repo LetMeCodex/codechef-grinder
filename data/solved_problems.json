@@ -6,7 +6,11 @@
     "HS08TEST"
   ],
   "failed_codes": [
-    "CCLEARN"
+    "CCLEARN",
+    "INSTNOODLE",
+    "INTEST",
+    "GDTURN",
+    "CBSPEED"
   ],
   "history": [
     {
