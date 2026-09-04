@@ -10,7 +10,11 @@
     "INSTNOODLE",
     "INTEST",
     "GDTURN",
-    "CBSPEED"
+    "CBSPEED",
+    "FLOW002",
+    "FLOW006",
+    "WATERCONS",
+    "MARKSTW"
   ],
   "history": [
     {
