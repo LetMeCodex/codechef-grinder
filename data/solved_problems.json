@@ -14,7 +14,10 @@
     "FLOW002",
     "FLOW006",
     "WATERCONS",
-    "MARKSTW"
+    "MARKSTW",
+    "FLOW007",
+    "ONEFULPAIRS",
+    "FIT"
   ],
   "history": [
     {
