@@ -1,5 +1,5 @@
 {
-  "total_solved": 7,
+  "total_solved": 10,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -7,7 +7,10 @@
     "INTEST",
     "FLOW002",
     "FLOW006",
-    "FLOW007"
+    "FLOW007",
+    "INSTNOODLE",
+    "GDTURN",
+    "CBSPEED"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -58,6 +61,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-06 12:47:10"
+    },
+    {
+      "code": "INSTNOODLE",
+      "name": "Chef and Instant Noodles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 19:35:14"
+    },
+    {
+      "code": "GDTURN",
+      "name": "Good Turn",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 19:36:38"
+    },
+    {
+      "code": "CBSPEED",
+      "name": "Chef and Brain Speed",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 19:38:32"
     }
   ]
 }
