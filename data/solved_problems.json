@@ -1,15 +1,17 @@
 {
-  "total_solved": 4,
+  "total_solved": 5,
   "solved_codes": [
     "START01",
     "FLOW001",
     "HS08TEST",
-    "INTEST"
+    "INTEST",
+    "FLOW002"
   ],
   "failed_codes": [
     "CCLEARN",
     "INSTNOODLE",
-    "GDTURN"
+    "GDTURN",
+    "CBSPEED"
   ],
   "history": [
     {
@@ -36,6 +38,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-06 08:41:56"
+    },
+    {
+      "code": "FLOW002",
+      "name": "Find Remainder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 09:01:55"
     }
   ]
 }
