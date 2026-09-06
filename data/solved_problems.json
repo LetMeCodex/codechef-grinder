@@ -15,7 +15,9 @@
     "GDTURN",
     "CBSPEED",
     "WATERCONS",
-    "MARKSTW"
+    "MARKSTW",
+    "ONEFULPAIRS",
+    "FIT"
   ],
   "history": [
     {
