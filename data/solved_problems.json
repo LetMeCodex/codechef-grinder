@@ -1,17 +1,21 @@
 {
-  "total_solved": 5,
+  "total_solved": 7,
   "solved_codes": [
     "START01",
     "FLOW001",
     "HS08TEST",
     "INTEST",
-    "FLOW002"
+    "FLOW002",
+    "FLOW006",
+    "FLOW007"
   ],
   "failed_codes": [
     "CCLEARN",
     "INSTNOODLE",
     "GDTURN",
-    "CBSPEED"
+    "CBSPEED",
+    "WATERCONS",
+    "MARKSTW"
   ],
   "history": [
     {
@@ -45,6 +49,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-06 09:01:55"
+    },
+    {
+      "code": "FLOW006",
+      "name": "Sum of Digits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 12:42:53"
+    },
+    {
+      "code": "FLOW007",
+      "name": "Reverse The Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-06 12:47:10"
     }
   ]
 }
