@@ -116,7 +116,7 @@ def run():
     # 3. Discover Unsolved Candidate Problems
     candidate_problems = []
     page = 0
-    while len(candidate_problems) < target_this_run and page < 10:
+    while len(candidate_problems) < target_this_run and page < 50:
         try:
             problems = client.fetch_practice_problems(
                 page=page,

@@ -157,9 +157,16 @@ class CodeChefClient:
 
     def parse_verdict(self, raw_result: Dict[str, Any]) -> Dict[str, Any]:
         """Normalize CodeChef judging result into a structured feedback object."""
-        result_code = raw_result.get("result_code", "unknown")
-        # 'correct' means Accepted / AC on CodeChef
-        passed = (result_code == "correct" or raw_result.get("status") == "correct")
+        result_code = str(raw_result.get("result_code", "unknown")).lower()
+        status = str(raw_result.get("status", "")).lower()
+        score = raw_result.get("score")
+        
+        # 'accepted' or 'correct' or 100 score means Accepted / AC on CodeChef
+        passed = (
+            result_code in ("correct", "accepted", "ac")
+            or status in ("correct", "accepted")
+            or score == 100
+        )
 
         time_taken = raw_result.get("time", "N/A")
         memory_taken = raw_result.get("memory", "N/A")

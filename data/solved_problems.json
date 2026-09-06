@@ -6,33 +6,7 @@
     "HS08TEST"
   ],
   "failed_codes": [
-    "CCLEARN",
-    "INSTNOODLE",
-    "INTEST",
-    "GDTURN",
-    "CBSPEED",
-    "FLOW002",
-    "FLOW006",
-    "WATERCONS",
-    "MARKSTW",
-    "FLOW007",
-    "ONEFULPAIRS",
-    "FIT",
-    "BESTOFTWO",
-    "FLOW004",
-    "BIRYANI",
-    "TAXSAVING",
-    "TEST",
-    "PRACTICEPERF",
-    "FCTRL2",
-    "AVGPROBLEM",
-    "AMR15A",
-    "PRACLIST",
-    "DETSCORE",
-    "SNDMAX",
-    "TOP10",
-    "CWC23QUALIF",
-    "LUDO"
+    "CCLEARN"
   ],
   "history": [
     {
