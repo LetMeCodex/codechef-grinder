@@ -84,8 +84,37 @@ class CodeChefClient:
         if data.get("status") != "success":
             raise ValueError(f"Could not retrieve details for {problem_code}: {data}")
 
-        # Clean problem description
-        data["cleanContent"] = self._clean_html(data.get("body", ""))
+        # Check if modern structured problemComponents exist
+        comps = data.get("problemComponents")
+        if comps and isinstance(comps, dict) and comps.get("statement"):
+            parts = []
+            if comps.get("statement"):
+                parts.append(f"### Problem Statement:\n{self._clean_html(comps['statement'])}")
+            if comps.get("inputFormat"):
+                parts.append(f"### Input Format:\n{self._clean_html(comps['inputFormat'])}")
+            if comps.get("outputFormat"):
+                parts.append(f"### Output Format:\n{self._clean_html(comps['outputFormat'])}")
+            if comps.get("constraints"):
+                parts.append(f"### Constraints:\n{self._clean_html(comps['constraints'])}")
+            if comps.get("sampleTestCases"):
+                parts.append("### Sample Test Cases:")
+                for stc in comps["sampleTestCases"]:
+                    inp = stc.get("input", "").strip()
+                    outp = stc.get("output", "").strip()
+                    expl = stc.get("explanation", "").strip()
+                    parts.append(f"Input:\n```\n{inp}\n```\nOutput:\n```\n{outp}\n```\nExplanation: {expl}")
+            clean_content = "\n\n".join(parts)
+        else:
+            raw_body = data.get("body", "")
+            raw_body = re.sub(
+                r"^This is an example statement in markdown\..*?email us at help@codechef\.com\.\s*",
+                "",
+                raw_body,
+                flags=re.DOTALL | re.IGNORECASE
+            )
+            clean_content = self._clean_html(raw_body)
+
+        data["cleanContent"] = clean_content
         return data
 
     def get_csrf_token(self, problem_code: str) -> str:
