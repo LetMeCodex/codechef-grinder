@@ -1,5 +1,5 @@
 {
-  "total_solved": 15,
+  "total_solved": 19,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -15,7 +15,11 @@
     "MARKSTW",
     "ONEFULPAIRS",
     "FIT",
-    "BESTOFTWO"
+    "BESTOFTWO",
+    "FLOW004",
+    "BIRYANI",
+    "TAXSAVING",
+    "TEST"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -122,6 +126,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-07 15:03:39"
+    },
+    {
+      "code": "FLOW004",
+      "name": "First and Last Digit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 18:25:49"
+    },
+    {
+      "code": "BIRYANI",
+      "name": "Biryani classes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 18:27:24"
+    },
+    {
+      "code": "TAXSAVING",
+      "name": "Saving Taxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 18:29:13"
+    },
+    {
+      "code": "TEST",
+      "name": "Life, the Universe, and Everything",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 18:30:59"
     }
   ]
 }
