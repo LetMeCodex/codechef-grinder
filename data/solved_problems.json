@@ -1,5 +1,5 @@
 {
-  "total_solved": 19,
+  "total_solved": 23,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -19,7 +19,11 @@
     "FLOW004",
     "BIRYANI",
     "TAXSAVING",
-    "TEST"
+    "TEST",
+    "PRACTICEPERF",
+    "FCTRL2",
+    "AVGPROBLEM",
+    "AMR15A"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -154,6 +158,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-07 18:30:59"
+    },
+    {
+      "code": "PRACTICEPERF",
+      "name": "Practice makes us perfect",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 20:48:01"
+    },
+    {
+      "code": "FCTRL2",
+      "name": "Small factorials",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 20:49:28"
+    },
+    {
+      "code": "AVGPROBLEM",
+      "name": "Greater Average",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 20:51:39"
+    },
+    {
+      "code": "AMR15A",
+      "name": "Mahasena",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 20:53:47"
     }
   ]
 }
