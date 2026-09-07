@@ -1,5 +1,5 @@
 {
-  "total_solved": 12,
+  "total_solved": 15,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -12,7 +12,10 @@
     "GDTURN",
     "CBSPEED",
     "WATERCONS",
-    "MARKSTW"
+    "MARKSTW",
+    "ONEFULPAIRS",
+    "FIT",
+    "BESTOFTWO"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -98,6 +101,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-09-07 09:45:23"
+    },
+    {
+      "code": "ONEFULPAIRS",
+      "name": "Oneful Pairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 14:56:21"
+    },
+    {
+      "code": "FIT",
+      "name": "Fitness",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 15:00:32"
+    },
+    {
+      "code": "BESTOFTWO",
+      "name": "Best of Two",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-07 15:03:39"
     }
   ]
 }
