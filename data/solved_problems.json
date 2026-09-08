@@ -1,5 +1,5 @@
 {
-  "total_solved": 31,
+  "total_solved": 35,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -31,7 +31,11 @@
     "CWC23QUALIF",
     "LUDO",
     "LUCKYSEVEN",
-    "CABS"
+    "CABS",
+    "TSORT",
+    "TALLER",
+    "AUDIBLE",
+    "SEARCHINARR"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -250,6 +254,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-08 13:29:53"
+    },
+    {
+      "code": "TSORT",
+      "name": "Simple Sorting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 17:34:32"
+    },
+    {
+      "code": "TALLER",
+      "name": "Who is taller!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 17:36:02"
+    },
+    {
+      "code": "AUDIBLE",
+      "name": "Audible Range",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 17:38:09"
+    },
+    {
+      "code": "SEARCHINARR",
+      "name": "Search an element in an array",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-08 17:39:57"
     }
   ]
 }
