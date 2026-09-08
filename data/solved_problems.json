@@ -1,5 +1,5 @@
 {
-  "total_solved": 28,
+  "total_solved": 31,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -28,7 +28,10 @@
     "DETSCORE",
     "SNDMAX",
     "TOP10",
-    "CWC23QUALIF"
+    "CWC23QUALIF",
+    "LUDO",
+    "LUCKYSEVEN",
+    "CABS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -226,6 +229,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-08 09:11:34"
+    },
+    {
+      "code": "LUDO",
+      "name": "Chef Plays Ludo",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 13:25:30"
+    },
+    {
+      "code": "LUCKYSEVEN",
+      "name": "Lucky Seven",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 13:27:51"
+    },
+    {
+      "code": "CABS",
+      "name": "The Cheaper Cab",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 13:29:53"
     }
   ]
 }
