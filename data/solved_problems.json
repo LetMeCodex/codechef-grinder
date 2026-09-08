@@ -1,5 +1,5 @@
 {
-  "total_solved": 23,
+  "total_solved": 28,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -23,7 +23,12 @@
     "PRACTICEPERF",
     "FCTRL2",
     "AVGPROBLEM",
-    "AMR15A"
+    "AMR15A",
+    "PRACLIST",
+    "DETSCORE",
+    "SNDMAX",
+    "TOP10",
+    "CWC23QUALIF"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -186,6 +191,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-07 20:53:47"
+    },
+    {
+      "code": "PRACLIST",
+      "name": "How many unattempted problems",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 09:05:41"
+    },
+    {
+      "code": "DETSCORE",
+      "name": "Determine the Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 09:06:52"
+    },
+    {
+      "code": "SNDMAX",
+      "name": "Second Max of Three Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 09:08:29"
+    },
+    {
+      "code": "TOP10",
+      "name": "Masterchef finals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 09:10:24"
+    },
+    {
+      "code": "CWC23QUALIF",
+      "name": "Cricket World Cup Qualifier",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-08 09:11:34"
     }
   ]
 }
