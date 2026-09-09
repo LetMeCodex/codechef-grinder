@@ -1,5 +1,5 @@
 {
-  "total_solved": 40,
+  "total_solved": 42,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -40,7 +40,9 @@
     "CLEARDAY",
     "TIMELY",
     "REACHTARGET",
-    "PRIZEPOOL"
+    "PRIZEPOOL",
+    "MINHEIGHT",
+    "TODOLIST"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -322,6 +324,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-09 09:12:38"
+    },
+    {
+      "code": "MINHEIGHT",
+      "name": "Roller Coaster",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 13:34:57"
+    },
+    {
+      "code": "TODOLIST",
+      "name": "Problems in your to-do list",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 13:36:27"
     }
   ]
 }
