@@ -1,5 +1,5 @@
 {
-  "total_solved": 42,
+  "total_solved": 46,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -42,7 +42,11 @@
     "REACHTARGET",
     "PRIZEPOOL",
     "MINHEIGHT",
-    "TODOLIST"
+    "TODOLIST",
+    "FSQRT",
+    "VOLCONTROL",
+    "PAR2",
+    "SUBSCRIBE_"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -338,6 +342,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-09 13:36:27"
+    },
+    {
+      "code": "FSQRT",
+      "name": "Finding Square Roots",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 17:21:12"
+    },
+    {
+      "code": "VOLCONTROL",
+      "name": "Volume Control",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-09 17:23:50"
+    },
+    {
+      "code": "PAR2",
+      "name": "Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 17:25:56"
+    },
+    {
+      "code": "SUBSCRIBE_",
+      "name": "Subscriptions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 17:27:39"
     }
   ]
 }
