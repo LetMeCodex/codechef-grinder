@@ -1,5 +1,5 @@
 {
-  "total_solved": 46,
+  "total_solved": 48,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -46,7 +46,9 @@
     "FSQRT",
     "VOLCONTROL",
     "PAR2",
-    "SUBSCRIBE_"
+    "SUBSCRIBE_",
+    "CHEFONDATE",
+    "BURGERS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -370,6 +372,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-09 17:27:39"
+    },
+    {
+      "code": "CHEFONDATE",
+      "name": "Chef On Date",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 20:03:01"
+    },
+    {
+      "code": "BURGERS",
+      "name": "Burgers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-09 20:04:37"
     }
   ]
 }
