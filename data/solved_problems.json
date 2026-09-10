@@ -1,5 +1,5 @@
 {
-  "total_solved": 59,
+  "total_solved": 64,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -59,7 +59,12 @@
     "IPLTRSH",
     "CHAIRS_",
     "WORDLE",
-    "FLOW017"
+    "FLOW017",
+    "CANDIVIDE",
+    "JERRYCHASE",
+    "OFFICE",
+    "WAITTIME",
+    "PUZHUNT"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -474,6 +479,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-10 17:21:32"
+    },
+    {
+      "code": "CANDIVIDE",
+      "name": "Candy Division",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 20:05:34"
+    },
+    {
+      "code": "JERRYCHASE",
+      "name": "Tom and Jerry Chase",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 20:08:01"
+    },
+    {
+      "code": "OFFICE",
+      "name": "Chef in his Office",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 20:09:54"
+    },
+    {
+      "code": "WAITTIME",
+      "name": "Waiting Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 20:11:56"
+    },
+    {
+      "code": "PUZHUNT",
+      "name": "Puzzle Hunt",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 20:14:23"
     }
   ]
 }
