@@ -1,5 +1,5 @@
 {
-  "total_solved": 52,
+  "total_solved": 56,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -52,7 +52,11 @@
     "DOUBLERENT",
     "BTRYHLTH",
     "JASSIGNMENTS",
-    "TLG"
+    "TLG",
+    "CNTWRD",
+    "UWCOI20A",
+    "CHOPRT",
+    "IPLTRSH"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -418,6 +422,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-10 09:15:49"
+    },
+    {
+      "code": "CNTWRD",
+      "name": "Counting Words",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 13:26:04"
+    },
+    {
+      "code": "UWCOI20A",
+      "name": "Find maximum in an Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 13:28:08"
+    },
+    {
+      "code": "CHOPRT",
+      "name": "Chef And Operators",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 13:29:57"
+    },
+    {
+      "code": "IPLTRSH",
+      "name": "IPL Ticket Rush",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 13:32:17"
     }
   ]
 }
