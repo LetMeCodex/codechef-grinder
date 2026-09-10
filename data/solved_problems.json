@@ -1,5 +1,5 @@
 {
-  "total_solved": 48,
+  "total_solved": 52,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -48,7 +48,11 @@
     "PAR2",
     "SUBSCRIBE_",
     "CHEFONDATE",
-    "BURGERS"
+    "BURGERS",
+    "DOUBLERENT",
+    "BTRYHLTH",
+    "JASSIGNMENTS",
+    "TLG"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -386,6 +390,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-09 20:04:37"
+    },
+    {
+      "code": "DOUBLERENT",
+      "name": "Double Rent",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 09:11:21"
+    },
+    {
+      "code": "BTRYHLTH",
+      "name": "Battery Health",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 09:13:12"
+    },
+    {
+      "code": "JASSIGNMENTS",
+      "name": "Janmansh and Assignments",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 09:14:15"
+    },
+    {
+      "code": "TLG",
+      "name": "The Lead Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-10 09:15:49"
     }
   ]
 }
