@@ -1,5 +1,5 @@
 {
-  "total_solved": 74,
+  "total_solved": 76,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -74,7 +74,9 @@
     "DECINC",
     "FEVER",
     "OFFBY1",
-    "CCHOCOLATES"
+    "CCHOCOLATES",
+    "CREDSCORE",
+    "BATTERYLOW"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -594,6 +596,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-11 13:30:25"
+    },
+    {
+      "code": "CREDSCORE",
+      "name": "Credit score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 17:20:01"
+    },
+    {
+      "code": "BATTERYLOW",
+      "name": "Battery Low",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 17:22:25"
     }
   ]
 }
