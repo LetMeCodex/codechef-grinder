@@ -1,5 +1,5 @@
 {
-  "total_solved": 76,
+  "total_solved": 81,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -76,7 +76,12 @@
     "OFFBY1",
     "CCHOCOLATES",
     "CREDSCORE",
-    "BATTERYLOW"
+    "BATTERYLOW",
+    "LTIME",
+    "BULLBEAR",
+    "ATM2",
+    "FLOW013",
+    "EXAMCHEF"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -610,6 +615,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-11 17:22:25"
+    },
+    {
+      "code": "LTIME",
+      "name": "Lunchtime",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 20:04:43"
+    },
+    {
+      "code": "BULLBEAR",
+      "name": "Bull or Bear",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 20:06:36"
+    },
+    {
+      "code": "ATM2",
+      "name": "ATM Machine",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 20:08:28"
+    },
+    {
+      "code": "FLOW013",
+      "name": "Valid Triangles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 20:10:36"
+    },
+    {
+      "code": "EXAMCHEF",
+      "name": "Exams",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 20:12:35"
     }
   ]
 }
