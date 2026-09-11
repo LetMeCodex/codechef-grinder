@@ -1,5 +1,5 @@
 {
-  "total_solved": 64,
+  "total_solved": 69,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -64,7 +64,12 @@
     "JERRYCHASE",
     "OFFICE",
     "WAITTIME",
-    "PUZHUNT"
+    "PUZHUNT",
+    "DONDRIVE",
+    "MANIPULATE",
+    "SUBSCRIBE",
+    "EZSPEAK",
+    "COURSEREG"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -514,6 +519,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-10 20:14:23"
+    },
+    {
+      "code": "DONDRIVE",
+      "name": "Donation Drive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 09:09:12"
+    },
+    {
+      "code": "MANIPULATE",
+      "name": "Ezio and Guards",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 09:10:16"
+    },
+    {
+      "code": "SUBSCRIBE",
+      "name": "Get Subscription",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 09:12:02"
+    },
+    {
+      "code": "EZSPEAK",
+      "name": "Easy Pronunciation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 09:13:43"
+    },
+    {
+      "code": "COURSEREG",
+      "name": "Course Registration",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 09:15:00"
     }
   ]
 }
