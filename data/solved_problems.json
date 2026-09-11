@@ -1,5 +1,5 @@
 {
-  "total_solved": 69,
+  "total_solved": 74,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -69,7 +69,12 @@
     "MANIPULATE",
     "SUBSCRIBE",
     "EZSPEAK",
-    "COURSEREG"
+    "COURSEREG",
+    "TAXES",
+    "DECINC",
+    "FEVER",
+    "OFFBY1",
+    "CCHOCOLATES"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -554,6 +559,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-11 09:15:00"
+    },
+    {
+      "code": "TAXES",
+      "name": "Tax in Chefland",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 13:23:21"
+    },
+    {
+      "code": "DECINC",
+      "name": "Decrement OR Increment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 13:25:23"
+    },
+    {
+      "code": "FEVER",
+      "name": "Fever",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 13:26:50"
+    },
+    {
+      "code": "OFFBY1",
+      "name": "Off By One",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 13:28:33"
+    },
+    {
+      "code": "CCHOCOLATES",
+      "name": "Chef and Chocolates",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-11 13:30:25"
     }
   ]
 }
