@@ -1,5 +1,5 @@
 {
-  "total_solved": 88,
+  "total_solved": 92,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -88,7 +88,11 @@
     "SCALENE",
     "READPAGES",
     "CHESSTIME",
-    "AUCTION"
+    "AUCTION",
+    "AGEING",
+    "RIP2000",
+    "ONEMORE",
+    "CREDCOINS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -706,6 +710,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-12 12:46:38"
+    },
+    {
+      "code": "AGEING",
+      "name": "Ageing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 16:32:16"
+    },
+    {
+      "code": "RIP2000",
+      "name": "2000",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-12 16:36:49"
+    },
+    {
+      "code": "ONEMORE",
+      "name": "Just One More Episode",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 16:38:06"
+    },
+    {
+      "code": "CREDCOINS",
+      "name": "CRED Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 16:40:11"
     }
   ]
 }
