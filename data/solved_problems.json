@@ -1,5 +1,5 @@
 {
-  "total_solved": 92,
+  "total_solved": 97,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -92,7 +92,12 @@
     "AGEING",
     "RIP2000",
     "ONEMORE",
-    "CREDCOINS"
+    "CREDCOINS",
+    "MINPIZZA",
+    "PASSORFAIL",
+    "NOTEBOOK",
+    "THREETOPICS",
+    "FAIRPASS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -738,6 +743,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-12 16:40:11"
+    },
+    {
+      "code": "MINPIZZA",
+      "name": "Minimum Pizzas",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 19:39:43"
+    },
+    {
+      "code": "PASSORFAIL",
+      "name": "Pass or Fail",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 19:41:39"
+    },
+    {
+      "code": "NOTEBOOK",
+      "name": "Count the Notebooks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 19:42:44"
+    },
+    {
+      "code": "THREETOPICS",
+      "name": "The Three Topics",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 19:43:42"
+    },
+    {
+      "code": "FAIRPASS",
+      "name": "Passes for Fair",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 19:45:10"
     }
   ]
 }
