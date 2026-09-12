@@ -1,5 +1,5 @@
 {
-  "total_solved": 86,
+  "total_solved": 88,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -86,7 +86,9 @@
     "HOTCOLD",
     "INCRIQ",
     "SCALENE",
-    "READPAGES"
+    "READPAGES",
+    "CHESSTIME",
+    "AUCTION"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -690,6 +692,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-12 08:55:54"
+    },
+    {
+      "code": "CHESSTIME",
+      "name": "Chess Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 12:44:54"
+    },
+    {
+      "code": "AUCTION",
+      "name": "Bidding",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 12:46:38"
     }
   ]
 }
