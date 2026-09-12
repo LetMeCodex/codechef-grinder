@@ -1,5 +1,5 @@
 {
-  "total_solved": 81,
+  "total_solved": 86,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -81,7 +81,12 @@
     "BULLBEAR",
     "ATM2",
     "FLOW013",
-    "EXAMCHEF"
+    "EXAMCHEF",
+    "FLOW018",
+    "HOTCOLD",
+    "INCRIQ",
+    "SCALENE",
+    "READPAGES"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -650,6 +655,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-11 20:12:35"
+    },
+    {
+      "code": "FLOW018",
+      "name": "Small Factorial",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 08:50:13"
+    },
+    {
+      "code": "HOTCOLD",
+      "name": "Is it hot or cold",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 08:51:22"
+    },
+    {
+      "code": "INCRIQ",
+      "name": "Increase IQ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 08:53:13"
+    },
+    {
+      "code": "SCALENE",
+      "name": "Scalene Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 08:54:33"
+    },
+    {
+      "code": "READPAGES",
+      "name": "Read Pages",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-12 08:55:54"
     }
   ]
 }
