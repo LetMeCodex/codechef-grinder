@@ -1,5 +1,5 @@
 {
-  "total_solved": 104,
+  "total_solved": 109,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -104,7 +104,12 @@
     "F1RULE",
     "SUMM",
     "SALESEASON",
-    "CHEFGAMES"
+    "CHEFGAMES",
+    "ERROR404",
+    "INSTAGRAM",
+    "POPULATION",
+    "M1ENROL",
+    "CWIREFRAME"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -834,6 +839,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-13 17:13:15"
+    },
+    {
+      "code": "ERROR404",
+      "name": "404 Not Found",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 19:52:57"
+    },
+    {
+      "code": "INSTAGRAM",
+      "name": "Instagram",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 19:54:36"
+    },
+    {
+      "code": "POPULATION",
+      "name": "Final Population",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 19:56:48"
+    },
+    {
+      "code": "M1ENROL",
+      "name": "MATH1 Enrolment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 19:58:24"
+    },
+    {
+      "code": "CWIREFRAME",
+      "name": "Chef and Wire Frames",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 20:00:29"
     }
   ]
 }
