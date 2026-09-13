@@ -1,5 +1,5 @@
 {
-  "total_solved": 97,
+  "total_solved": 99,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -97,7 +97,9 @@
     "PASSORFAIL",
     "NOTEBOOK",
     "THREETOPICS",
-    "FAIRPASS"
+    "FAIRPASS",
+    "WATERREQ",
+    "SIXFRIENDS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -778,6 +780,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-12 19:45:10"
+    },
+    {
+      "code": "WATERREQ",
+      "name": "Water Requirement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 09:46:29"
+    },
+    {
+      "code": "SIXFRIENDS",
+      "name": "Six Friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 09:54:17"
     }
   ]
 }
