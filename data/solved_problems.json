@@ -1,5 +1,5 @@
 {
-  "total_solved": 99,
+  "total_solved": 101,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -99,7 +99,9 @@
     "THREETOPICS",
     "FAIRPASS",
     "WATERREQ",
-    "SIXFRIENDS"
+    "SIXFRIENDS",
+    "DISCNT",
+    "F1RULE"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -794,6 +796,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-13 09:54:17"
+    },
+    {
+      "code": "DISCNT",
+      "name": "Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 13:44:00"
+    },
+    {
+      "code": "F1RULE",
+      "name": "Miami GP",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 13:45:29"
     }
   ]
 }
