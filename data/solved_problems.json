@@ -1,5 +1,5 @@
 {
-  "total_solved": 101,
+  "total_solved": 104,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -101,7 +101,10 @@
     "WATERREQ",
     "SIXFRIENDS",
     "DISCNT",
-    "F1RULE"
+    "F1RULE",
+    "SUMM",
+    "SALESEASON",
+    "CHEFGAMES"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -810,6 +813,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-13 13:45:29"
+    },
+    {
+      "code": "SUMM",
+      "name": "Sum it",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 17:08:11"
+    },
+    {
+      "code": "SALESEASON",
+      "name": "Sale Season",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 17:10:29"
+    },
+    {
+      "code": "CHEFGAMES",
+      "name": "Chefland Games",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-13 17:13:15"
     }
   ]
 }
