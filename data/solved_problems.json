@@ -1,5 +1,5 @@
 {
-  "total_solved": 114,
+  "total_solved": 118,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -114,7 +114,11 @@
     "HELIUM3",
     "SUGARCANE",
     "SLEEP",
-    "FBC"
+    "FBC",
+    "SEMCOURSES",
+    "MUFFINS3",
+    "PALL01",
+    "FLOW010"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -914,6 +918,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-14 10:13:58"
+    },
+    {
+      "code": "SEMCOURSES",
+      "name": "Chef and Chapters",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 15:46:51"
+    },
+    {
+      "code": "MUFFINS3",
+      "name": "Packaging Cupcakes",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-14 15:49:07"
+    },
+    {
+      "code": "PALL01",
+      "name": "The Block Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 15:50:44"
+    },
+    {
+      "code": "FLOW010",
+      "name": "Id and Ship",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 15:56:25"
     }
   ]
 }
