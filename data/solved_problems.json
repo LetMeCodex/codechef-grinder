@@ -1,5 +1,5 @@
 {
-  "total_solved": 122,
+  "total_solved": 127,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -122,7 +122,12 @@
     "TRUESCORE",
     "RAINFALL1",
     "CARTRIP",
-    "MISSP"
+    "MISSP",
+    "DNATION",
+    "EXPERT",
+    "MANAPTS",
+    "FOURTICKETS",
+    "WATERFILLING"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -978,6 +983,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-09-14 19:03:05"
+    },
+    {
+      "code": "DNATION",
+      "name": "Chef and Donation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 21:04:44"
+    },
+    {
+      "code": "EXPERT",
+      "name": "Expert Setter",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 21:06:48"
+    },
+    {
+      "code": "MANAPTS",
+      "name": "Mana Points",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 21:09:15"
+    },
+    {
+      "code": "FOURTICKETS",
+      "name": "Four Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 21:11:47"
+    },
+    {
+      "code": "WATERFILLING",
+      "name": "Water Filling",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 21:13:17"
     }
   ]
 }
