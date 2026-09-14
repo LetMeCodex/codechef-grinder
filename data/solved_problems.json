@@ -1,5 +1,5 @@
 {
-  "total_solved": 109,
+  "total_solved": 114,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -109,7 +109,12 @@
     "INSTAGRAM",
     "POPULATION",
     "M1ENROL",
-    "CWIREFRAME"
+    "CWIREFRAME",
+    "RIGHTTHERE",
+    "HELIUM3",
+    "SUGARCANE",
+    "SLEEP",
+    "FBC"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -874,6 +879,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-13 20:00:29"
+    },
+    {
+      "code": "RIGHTTHERE",
+      "name": "Right There",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 10:07:35"
+    },
+    {
+      "code": "HELIUM3",
+      "name": "Chef and NextGen",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 10:09:32"
+    },
+    {
+      "code": "SUGARCANE",
+      "name": "Sugarcane Juice Business",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 10:11:25"
+    },
+    {
+      "code": "SLEEP",
+      "name": "Sleep deprivation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 10:12:22"
+    },
+    {
+      "code": "FBC",
+      "name": "Fill the Bucket",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 10:13:58"
     }
   ]
 }
