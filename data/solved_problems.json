@@ -1,5 +1,5 @@
 {
-  "total_solved": 118,
+  "total_solved": 122,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -118,7 +118,11 @@
     "SEMCOURSES",
     "MUFFINS3",
     "PALL01",
-    "FLOW010"
+    "FLOW010",
+    "TRUESCORE",
+    "RAINFALL1",
+    "CARTRIP",
+    "MISSP"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -946,6 +950,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-14 15:56:25"
+    },
+    {
+      "code": "TRUESCORE",
+      "name": "Is the Score Consistent",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 18:54:16"
+    },
+    {
+      "code": "RAINFALL1",
+      "name": "Rain in Chefland",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 18:56:21"
+    },
+    {
+      "code": "CARTRIP",
+      "name": "Car Trip",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-14 18:58:00"
+    },
+    {
+      "code": "MISSP",
+      "name": "Chef and Dolls",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-14 19:03:05"
     }
   ]
 }
