@@ -1,5 +1,5 @@
 {
-  "total_solved": 131,
+  "total_solved": 134,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -131,7 +131,10 @@
     "MAXIMUMSUBS",
     "PRB01",
     "CHEFCAND",
-    "CMASKS"
+    "CMASKS",
+    "TVDISC",
+    "DIFFSUM",
+    "SPECIALITY"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1050,6 +1053,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-15 09:41:51"
+    },
+    {
+      "code": "TVDISC",
+      "name": "TV Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 14:14:43"
+    },
+    {
+      "code": "DIFFSUM",
+      "name": "Sum OR Difference",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 14:16:58"
+    },
+    {
+      "code": "SPECIALITY",
+      "name": "Speciality",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 14:18:20"
     }
   ]
 }
