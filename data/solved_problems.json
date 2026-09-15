@@ -1,5 +1,5 @@
 {
-  "total_solved": 127,
+  "total_solved": 131,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -127,7 +127,11 @@
     "EXPERT",
     "MANAPTS",
     "FOURTICKETS",
-    "WATERFILLING"
+    "WATERFILLING",
+    "MAXIMUMSUBS",
+    "PRB01",
+    "CHEFCAND",
+    "CMASKS"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1018,6 +1022,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-14 21:13:17"
+    },
+    {
+      "code": "MAXIMUMSUBS",
+      "name": "Maximum Submissions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 09:36:55"
+    },
+    {
+      "code": "PRB01",
+      "name": "Primality Test",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 09:38:56"
+    },
+    {
+      "code": "CHEFCAND",
+      "name": "Chef and Candies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 09:40:34"
+    },
+    {
+      "code": "CMASKS",
+      "name": "Chef and Masks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 09:41:51"
     }
   ]
 }
