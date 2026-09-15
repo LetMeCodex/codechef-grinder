@@ -1,5 +1,5 @@
 {
-  "total_solved": 134,
+  "total_solved": 139,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -134,7 +134,12 @@
     "CMASKS",
     "TVDISC",
     "DIFFSUM",
-    "SPECIALITY"
+    "SPECIALITY",
+    "KITCHENCOST",
+    "KNGTOR",
+    "DISCUS",
+    "LAPIN",
+    "FAVOURITENUM"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1074,6 +1079,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-15 14:18:20"
+    },
+    {
+      "code": "KITCHENCOST",
+      "name": "Cost of Groceries",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-15 17:47:50"
+    },
+    {
+      "code": "KNGTOR",
+      "name": "Tour of King",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-15 17:50:16"
+    },
+    {
+      "code": "DISCUS",
+      "name": "Discus Throw",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 17:52:09"
+    },
+    {
+      "code": "LAPIN",
+      "name": "Lapindromes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 17:54:56"
+    },
+    {
+      "code": "FAVOURITENUM",
+      "name": "Favourite Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 17:57:32"
     }
   ]
 }
