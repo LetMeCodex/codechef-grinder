@@ -1,5 +1,5 @@
 {
-  "total_solved": 139,
+  "total_solved": 142,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -139,7 +139,10 @@
     "KNGTOR",
     "DISCUS",
     "LAPIN",
-    "FAVOURITENUM"
+    "FAVOURITENUM",
+    "CREDS",
+    "HEIGHTRATION",
+    "PARTY2"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1114,6 +1117,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-15 17:57:32"
+    },
+    {
+      "code": "CREDS",
+      "name": "Number of Credits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 20:29:29"
+    },
+    {
+      "code": "HEIGHTRATION",
+      "name": "Height of Rationals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 20:31:29"
+    },
+    {
+      "code": "PARTY2",
+      "name": "Chef gives Party",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-15 20:33:36"
     }
   ]
 }
