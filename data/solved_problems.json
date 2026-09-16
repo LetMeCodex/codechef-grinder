@@ -1,5 +1,5 @@
 {
-  "total_solved": 145,
+  "total_solved": 149,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -145,7 +145,11 @@
     "PARTY2",
     "INTRDSGN",
     "INSURANCE",
-    "MVR"
+    "MVR",
+    "LARGESECOND",
+    "FLOW008",
+    "CANDYSTORE",
+    "NETFLIX"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1162,6 +1166,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-16 09:34:47"
+    },
+    {
+      "code": "LARGESECOND",
+      "name": "Largest and Second Largest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 14:06:58"
+    },
+    {
+      "code": "FLOW008",
+      "name": "Helping Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 14:08:47"
+    },
+    {
+      "code": "CANDYSTORE",
+      "name": "Candy Store",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 14:10:35"
+    },
+    {
+      "code": "NETFLIX",
+      "name": "Netflix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 14:12:37"
     }
   ]
 }
