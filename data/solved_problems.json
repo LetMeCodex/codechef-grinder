@@ -1,5 +1,5 @@
 {
-  "total_solved": 142,
+  "total_solved": 145,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -142,7 +142,10 @@
     "FAVOURITENUM",
     "CREDS",
     "HEIGHTRATION",
-    "PARTY2"
+    "PARTY2",
+    "INTRDSGN",
+    "INSURANCE",
+    "MVR"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1138,6 +1141,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-15 20:33:36"
+    },
+    {
+      "code": "INTRDSGN",
+      "name": "Interior Design",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 09:30:57"
+    },
+    {
+      "code": "INSURANCE",
+      "name": "Insurance",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 09:32:58"
+    },
+    {
+      "code": "MVR",
+      "name": "Messi vs Ronaldo",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 09:34:47"
     }
   ]
 }
