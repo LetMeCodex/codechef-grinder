@@ -1,5 +1,5 @@
 {
-  "total_solved": 154,
+  "total_solved": 156,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -154,7 +154,9 @@
     "REACH_HOME",
     "AIRINDEX",
     "CHEAPFOOD",
-    "ACTEMP"
+    "ACTEMP",
+    "BNE_APT",
+    "RECENTCONT"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1234,6 +1236,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-16 17:51:48"
+    },
+    {
+      "code": "BNE_APT",
+      "name": "Bone Appetit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 20:27:39"
+    },
+    {
+      "code": "RECENTCONT",
+      "name": "Recent contest problems",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 20:29:02"
     }
   ]
 }
