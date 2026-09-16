@@ -1,5 +1,5 @@
 {
-  "total_solved": 149,
+  "total_solved": 154,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -149,7 +149,12 @@
     "LARGESECOND",
     "FLOW008",
     "CANDYSTORE",
-    "NETFLIX"
+    "NETFLIX",
+    "NEARESTEXIT",
+    "REACH_HOME",
+    "AIRINDEX",
+    "CHEAPFOOD",
+    "ACTEMP"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1194,6 +1199,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-16 14:12:37"
+    },
+    {
+      "code": "NEARESTEXIT",
+      "name": "Nearest Exit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 17:46:19"
+    },
+    {
+      "code": "REACH_HOME",
+      "name": "Reach Home",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 17:47:26"
+    },
+    {
+      "code": "AIRINDEX",
+      "name": "Air Quality Index",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 17:48:49"
+    },
+    {
+      "code": "CHEAPFOOD",
+      "name": "Best Coupon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 17:50:03"
+    },
+    {
+      "code": "ACTEMP",
+      "name": "Air Conditioner Temperature",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-16 17:51:48"
     }
   ]
 }
