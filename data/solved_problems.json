@@ -1,5 +1,5 @@
 {
-  "total_solved": 159,
+  "total_solved": 160,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -159,10 +159,13 @@
     "RECENTCONT",
     "TYRE",
     "BROKENPHONE",
-    "CANDYDIST"
+    "CANDYDIST",
+    "BOBBANK"
   ],
   "failed_codes": [
-    "CCLEARN"
+    "CCLEARN",
+    "FINE",
+    "MINCOINSREQ"
   ],
   "history": [
     {
@@ -1274,6 +1277,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-17 09:47:03"
+    },
+    {
+      "code": "BOBBANK",
+      "name": "Bob at the Bank",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-17 14:19:24"
     }
   ]
 }
