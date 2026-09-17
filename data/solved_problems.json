@@ -1,5 +1,5 @@
 {
-  "total_solved": 156,
+  "total_solved": 159,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -156,7 +156,10 @@
     "CHEAPFOOD",
     "ACTEMP",
     "BNE_APT",
-    "RECENTCONT"
+    "RECENTCONT",
+    "TYRE",
+    "BROKENPHONE",
+    "CANDYDIST"
   ],
   "failed_codes": [
     "CCLEARN"
@@ -1250,6 +1253,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-16 20:29:02"
+    },
+    {
+      "code": "TYRE",
+      "name": "Tyre problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 09:40:32"
+    },
+    {
+      "code": "BROKENPHONE",
+      "name": "Broken Phone",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 09:44:41"
+    },
+    {
+      "code": "CANDYDIST",
+      "name": "Candy Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 09:47:03"
     }
   ]
 }
