@@ -1,5 +1,5 @@
 {
-  "total_solved": 160,
+  "total_solved": 163,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -160,7 +160,10 @@
     "TYRE",
     "BROKENPHONE",
     "CANDYDIST",
-    "BOBBANK"
+    "BOBBANK",
+    "COUGAME",
+    "CHRISTGREET",
+    "MOVIE2X"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1284,6 +1287,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-09-17 14:19:24"
+    },
+    {
+      "code": "COUGAME",
+      "name": "Couple Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 17:46:10"
+    },
+    {
+      "code": "CHRISTGREET",
+      "name": "Christmas Greetings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 17:48:09"
+    },
+    {
+      "code": "MOVIE2X",
+      "name": "Watching Movies at 2x",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-17 17:50:01"
     }
   ]
 }
