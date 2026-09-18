@@ -1,5 +1,5 @@
 {
-  "total_solved": 166,
+  "total_solved": 169,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -166,7 +166,10 @@
     "MOVIE2X",
     "FCTRL",
     "TFPAPER",
-    "DNASTORAGE"
+    "DNASTORAGE",
+    "COMPLEXITY",
+    "NIBBLE",
+    "TCKTFINE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1335,6 +1338,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 09:17:12"
+    },
+    {
+      "code": "COMPLEXITY",
+      "name": "Time Complexity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:30:29"
+    },
+    {
+      "code": "NIBBLE",
+      "name": "Good Program",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:32:01"
+    },
+    {
+      "code": "TCKTFINE",
+      "name": "Ticket Fine",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:35:21"
     }
   ]
 }
