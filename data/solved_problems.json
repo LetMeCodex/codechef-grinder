@@ -1,5 +1,5 @@
 {
-  "total_solved": 169,
+  "total_solved": 172,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -169,7 +169,10 @@
     "DNASTORAGE",
     "COMPLEXITY",
     "NIBBLE",
-    "TCKTFINE"
+    "TCKTFINE",
+    "FINDSHOES",
+    "INVESTMENT",
+    "HAPPYSTR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1359,6 +1362,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 13:35:21"
+    },
+    {
+      "code": "FINDSHOES",
+      "name": "Finding Shoes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 17:17:46"
+    },
+    {
+      "code": "INVESTMENT",
+      "name": "Good Investment or Not",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 17:19:19"
+    },
+    {
+      "code": "HAPPYSTR",
+      "name": "Chef and Happy String ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 17:20:36"
     }
   ]
 }
