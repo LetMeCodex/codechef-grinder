@@ -1,5 +1,5 @@
 {
-  "total_solved": 172,
+  "total_solved": 176,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -172,7 +172,11 @@
     "TCKTFINE",
     "FINDSHOES",
     "INVESTMENT",
-    "HAPPYSTR"
+    "HAPPYSTR",
+    "BUDGET_",
+    "RATINGINPRAC",
+    "EQUALDIST",
+    "LASTLEVELS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1383,6 +1387,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 17:20:36"
+    },
+    {
+      "code": "BUDGET_",
+      "name": "Monthly Budget",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 19:59:45"
+    },
+    {
+      "code": "RATINGINPRAC",
+      "name": "Difficulty Rating Order",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 20:02:08"
+    },
+    {
+      "code": "EQUALDIST",
+      "name": "Equal Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 20:04:19"
+    },
+    {
+      "code": "LASTLEVELS",
+      "name": "The Last Levels",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 20:06:43"
     }
   ]
 }
