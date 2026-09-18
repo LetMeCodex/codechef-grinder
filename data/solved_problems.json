@@ -1,5 +1,5 @@
 {
-  "total_solved": 163,
+  "total_solved": 166,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -163,7 +163,10 @@
     "BOBBANK",
     "COUGAME",
     "CHRISTGREET",
-    "MOVIE2X"
+    "MOVIE2X",
+    "FCTRL",
+    "TFPAPER",
+    "DNASTORAGE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1311,6 +1314,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-17 17:50:01"
+    },
+    {
+      "code": "FCTRL",
+      "name": "Factorial",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 09:12:52"
+    },
+    {
+      "code": "TFPAPER",
+      "name": "True and False Paper",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 09:14:35"
+    },
+    {
+      "code": "DNASTORAGE",
+      "name": "DNA Storage",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 09:17:12"
     }
   ]
 }
