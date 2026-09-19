@@ -1,5 +1,5 @@
 {
-  "total_solved": 181,
+  "total_solved": 185,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -181,7 +181,11 @@
     "TABLETS",
     "PARLIAMENT",
     "ELECTN",
-    "DOLL"
+    "DOLL",
+    "NUM239",
+    "CHEFSCORE",
+    "WGHTS",
+    "PODIUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1455,6 +1459,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-19 09:05:06"
+    },
+    {
+      "code": "NUM239",
+      "name": "Counting Pretty Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 12:58:59"
+    },
+    {
+      "code": "CHEFSCORE",
+      "name": "Test Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 13:01:31"
+    },
+    {
+      "code": "WGHTS",
+      "name": "Weights",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 13:04:00"
+    },
+    {
+      "code": "PODIUM",
+      "name": "Podium Finish",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 13:05:25"
     }
   ]
 }
