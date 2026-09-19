@@ -1,5 +1,5 @@
 {
-  "total_solved": 188,
+  "total_solved": 190,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -188,7 +188,9 @@
     "PODIUM",
     "KITCHENSPICE",
     "MONOPOLY",
-    "SST"
+    "SST",
+    "QUALIFY",
+    "DOREWARD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1511,6 +1513,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-19 16:53:20"
+    },
+    {
+      "code": "QUALIFY",
+      "name": "Qualify the round",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 19:37:22"
+    },
+    {
+      "code": "DOREWARD",
+      "name": "Donation Rewards",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 19:39:48"
     }
   ]
 }
