@@ -1,5 +1,5 @@
 {
-  "total_solved": 185,
+  "total_solved": 188,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -185,7 +185,10 @@
     "NUM239",
     "CHEFSCORE",
     "WGHTS",
-    "PODIUM"
+    "PODIUM",
+    "KITCHENSPICE",
+    "MONOPOLY",
+    "SST"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1487,6 +1490,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-19 13:05:25"
+    },
+    {
+      "code": "KITCHENSPICE",
+      "name": "Spice Level",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 16:50:07"
+    },
+    {
+      "code": "MONOPOLY",
+      "name": "Monopoly in Chefland",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 16:51:32"
+    },
+    {
+      "code": "SST",
+      "name": "Sasta Shark Tank",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 16:53:20"
     }
   ]
 }
