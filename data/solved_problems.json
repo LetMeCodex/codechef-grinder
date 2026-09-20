@@ -1,5 +1,5 @@
 {
-  "total_solved": 194,
+  "total_solved": 199,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -194,7 +194,12 @@
     "MAXTASTE",
     "CHEFBOTTLE",
     "TASTEDEC",
-    "ASSIGNMNT"
+    "ASSIGNMNT",
+    "OCTATHON",
+    "PROINC",
+    "CHEFCHOCO",
+    "WATERFLOW",
+    "RUNCOMPARE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1559,6 +1564,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 09:31:59"
+    },
+    {
+      "code": "OCTATHON",
+      "name": "October Marathon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:30:46"
+    },
+    {
+      "code": "PROINC",
+      "name": "Profit Increment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:32:23"
+    },
+    {
+      "code": "CHEFCHOCO",
+      "name": "Chef and Chocolates",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:33:40"
+    },
+    {
+      "code": "WATERFLOW",
+      "name": "Bucket and Water Flow ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:35:17"
+    },
+    {
+      "code": "RUNCOMPARE",
+      "name": "Running Comparison",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:37:38"
     }
   ]
 }
