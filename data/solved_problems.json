@@ -1,5 +1,5 @@
 {
-  "total_solved": 190,
+  "total_solved": 194,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -190,7 +190,11 @@
     "MONOPOLY",
     "SST",
     "QUALIFY",
-    "DOREWARD"
+    "DOREWARD",
+    "MAXTASTE",
+    "CHEFBOTTLE",
+    "TASTEDEC",
+    "ASSIGNMNT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1527,6 +1531,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-19 19:39:48"
+    },
+    {
+      "code": "MAXTASTE",
+      "name": "Maximise the Tastiness",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 09:27:37"
+    },
+    {
+      "code": "CHEFBOTTLE",
+      "name": "Chef and Water Bottles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 09:29:07"
+    },
+    {
+      "code": "TASTEDEC",
+      "name": "Tasty Decisions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 09:30:21"
+    },
+    {
+      "code": "ASSIGNMNT",
+      "name": "Pending Assignments",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 09:31:59"
     }
   ]
 }
