@@ -1,5 +1,5 @@
 {
-  "total_solved": 199,
+  "total_solved": 201,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -199,7 +199,9 @@
     "PROINC",
     "CHEFCHOCO",
     "WATERFLOW",
-    "RUNCOMPARE"
+    "RUNCOMPARE",
+    "CHN15A",
+    "MINCOINS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1599,6 +1601,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 13:37:38"
+    },
+    {
+      "code": "CHN15A",
+      "name": "Mutated Minions",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-20 17:02:53"
+    },
+    {
+      "code": "MINCOINS",
+      "name": "Minimum number of coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:04:20"
     }
   ]
 }
