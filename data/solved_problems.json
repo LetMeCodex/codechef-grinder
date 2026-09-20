@@ -1,5 +1,5 @@
 {
-  "total_solved": 201,
+  "total_solved": 204,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -201,7 +201,10 @@
     "WATERFLOW",
     "RUNCOMPARE",
     "CHN15A",
-    "MINCOINS"
+    "MINCOINS",
+    "POLTHIEF",
+    "TRICOIN",
+    "DOMINANT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1615,6 +1618,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 17:04:20"
+    },
+    {
+      "code": "POLTHIEF",
+      "name": "Police and Thief",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:49:42"
+    },
+    {
+      "code": "TRICOIN",
+      "name": "Coins And Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:51:30"
+    },
+    {
+      "code": "DOMINANT",
+      "name": "Dominant Army",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:52:44"
     }
   ]
 }
