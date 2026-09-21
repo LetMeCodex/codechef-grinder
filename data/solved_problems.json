@@ -1,5 +1,5 @@
 {
-  "total_solved": 204,
+  "total_solved": 208,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -204,7 +204,11 @@
     "MINCOINS",
     "POLTHIEF",
     "TRICOIN",
-    "DOMINANT"
+    "DOMINANT",
+    "HORSES",
+    "MANGOLASSI",
+    "FLOW005",
+    "BATH"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1639,6 +1643,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 19:52:44"
+    },
+    {
+      "code": "HORSES",
+      "name": "Racing Horses",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:13:14"
+    },
+    {
+      "code": "MANGOLASSI",
+      "name": "Summer Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:16:12"
+    },
+    {
+      "code": "FLOW005",
+      "name": "Smallest Numbers of Notes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:20:05"
+    },
+    {
+      "code": "BATH",
+      "name": "Bath in Winters",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:23:18"
     }
   ]
 }
