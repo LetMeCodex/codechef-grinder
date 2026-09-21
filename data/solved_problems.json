@@ -1,5 +1,5 @@
 {
-  "total_solved": 208,
+  "total_solved": 210,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -208,7 +208,9 @@
     "HORSES",
     "MANGOLASSI",
     "FLOW005",
-    "BATH"
+    "BATH",
+    "JENGA",
+    "MANGOES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1671,6 +1673,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-21 10:23:18"
+    },
+    {
+      "code": "JENGA",
+      "name": "Jenga Night",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 15:46:19"
+    },
+    {
+      "code": "MANGOES",
+      "name": "The Mango Truck",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 15:47:26"
     }
   ]
 }
