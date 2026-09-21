@@ -1,5 +1,5 @@
 {
-  "total_solved": 214,
+  "total_solved": 216,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -214,7 +214,9 @@
     "MAXDIFFMIN",
     "SONGS",
     "CGYM",
-    "ENSPACE"
+    "ENSPACE",
+    "FLIPCARDS",
+    "AIRHOCKEY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1719,6 +1721,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-21 19:04:10"
+    },
+    {
+      "code": "FLIPCARDS",
+      "name": "Flip the cards",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 21:16:03"
+    },
+    {
+      "code": "AIRHOCKEY",
+      "name": "Air Hockey",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 21:17:25"
     }
   ]
 }
