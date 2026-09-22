@@ -1,5 +1,5 @@
 {
-  "total_solved": 223,
+  "total_solved": 228,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -223,7 +223,12 @@
     "CHESSDIST",
     "BLACKJACK",
     "BUILDINGRACE",
-    "CIELRCPT"
+    "CIELRCPT",
+    "COMPRESSVD",
+    "IDESM",
+    "CS2023_GIFT",
+    "FLOORS",
+    "SELFDEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1791,6 +1796,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 14:07:01"
+    },
+    {
+      "code": "COMPRESSVD",
+      "name": "Compress the Video",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:47:38"
+    },
+    {
+      "code": "IDESM",
+      "name": "The Ides of March",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:49:04"
+    },
+    {
+      "code": "CS2023_GIFT",
+      "name": "The Gift",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:51:13"
+    },
+    {
+      "code": "FLOORS",
+      "name": "Too many Floors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:54:03"
+    },
+    {
+      "code": "SELFDEF",
+      "name": "Self Defence Training",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:56:03"
     }
   ]
 }
