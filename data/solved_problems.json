@@ -1,5 +1,5 @@
 {
-  "total_solved": 228,
+  "total_solved": 232,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -228,7 +228,11 @@
     "IDESM",
     "CS2023_GIFT",
     "FLOORS",
-    "SELFDEF"
+    "SELFDEF",
+    "EXPIRY",
+    "SEATNUMBER",
+    "VALENTINE",
+    "TRANSFORM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1831,6 +1835,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 17:56:03"
+    },
+    {
+      "code": "EXPIRY",
+      "name": "Expiring Bread",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:30:29"
+    },
+    {
+      "code": "SEATNUMBER",
+      "name": "Bus  Seat Numbering",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-22 20:36:07"
+    },
+    {
+      "code": "VALENTINE",
+      "name": "Valentine is Coming",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:37:53"
+    },
+    {
+      "code": "TRANSFORM",
+      "name": "Mario and Transformation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:39:03"
     }
   ]
 }
