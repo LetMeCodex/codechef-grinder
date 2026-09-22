@@ -1,5 +1,5 @@
 {
-  "total_solved": 216,
+  "total_solved": 219,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -216,7 +216,10 @@
     "CGYM",
     "ENSPACE",
     "FLIPCARDS",
-    "AIRHOCKEY"
+    "AIRHOCKEY",
+    "APPLORNG",
+    "ODDSUMPAIR",
+    "AIRLINES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1735,6 +1738,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-21 21:17:25"
+    },
+    {
+      "code": "APPLORNG",
+      "name": "Apples and Oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:29:03"
+    },
+    {
+      "code": "ODDSUMPAIR",
+      "name": "Odd Sum Pair",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-22 09:31:29"
+    },
+    {
+      "code": "AIRLINES",
+      "name": "Codechef Airlines",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:32:53"
     }
   ]
 }
