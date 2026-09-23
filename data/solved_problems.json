@@ -1,5 +1,5 @@
 {
-  "total_solved": 237,
+  "total_solved": 239,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -237,7 +237,9 @@
     "JOHNY",
     "EMAILREM",
     "CYCLICQD",
-    "AORB"
+    "AORB",
+    "BULLET",
+    "SPEEDTEST"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1903,6 +1905,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-23 14:10:44"
+    },
+    {
+      "code": "BULLET",
+      "name": "Mario and Bullet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 17:59:42"
+    },
+    {
+      "code": "SPEEDTEST",
+      "name": "Speed Limit Test",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 18:02:26"
     }
   ]
 }
