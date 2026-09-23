@@ -1,5 +1,5 @@
 {
-  "total_solved": 232,
+  "total_solved": 235,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -232,7 +232,10 @@
     "EXPIRY",
     "SEATNUMBER",
     "VALENTINE",
-    "TRANSFORM"
+    "TRANSFORM",
+    "CRICUP",
+    "JOHNY",
+    "EMAILREM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1863,6 +1866,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 20:39:03"
+    },
+    {
+      "code": "CRICUP",
+      "name": "Cup Finals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:32:44"
+    },
+    {
+      "code": "JOHNY",
+      "name": "Uncle Johny",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:34:44"
+    },
+    {
+      "code": "EMAILREM",
+      "name": "Email Reminders",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:39:29"
     }
   ]
 }
