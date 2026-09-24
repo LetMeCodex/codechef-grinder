@@ -1,5 +1,5 @@
 {
-  "total_solved": 241,
+  "total_solved": 246,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -241,7 +241,12 @@
     "BULLET",
     "SPEEDTEST",
     "ADVANCE",
-    "SEVENRINGS"
+    "SEVENRINGS",
+    "C_RATING",
+    "WATERCOOLER2",
+    "NEWSPAPER",
+    "DIFFCONSEC",
+    "FOOTCUP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1935,6 +1940,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-23 20:44:18"
+    },
+    {
+      "code": "C_RATING",
+      "name": "Chess Ratings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 09:32:21"
+    },
+    {
+      "code": "WATERCOOLER2",
+      "name": "The Cooler Dilemma 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 09:33:47"
+    },
+    {
+      "code": "NEWSPAPER",
+      "name": "Sports Section",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 09:35:35"
+    },
+    {
+      "code": "DIFFCONSEC",
+      "name": "Different Consecutive Characters ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 09:38:22"
+    },
+    {
+      "code": "FOOTCUP",
+      "name": "Football Cup",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 09:39:40"
     }
   ]
 }
