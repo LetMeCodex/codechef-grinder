@@ -1,5 +1,5 @@
 {
-  "total_solved": 249,
+  "total_solved": 251,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -249,7 +249,9 @@
     "FOOTCUP",
     "CNDY",
     "PPSUM",
-    "T20MCH"
+    "T20MCH",
+    "LAZYCHF",
+    "HEALSE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1999,6 +2001,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-24 14:10:28"
+    },
+    {
+      "code": "LAZYCHF",
+      "name": "Lazy Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 17:59:36"
+    },
+    {
+      "code": "HEALSE",
+      "name": "Healthy Sleep",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 18:01:06"
     }
   ]
 }
