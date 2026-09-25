@@ -1,5 +1,5 @@
 {
-  "total_solved": 266,
+  "total_solved": 270,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -266,7 +266,11 @@
     "THALA7",
     "CODECHEF",
     "CHEFAPPS",
-    "CIELAB"
+    "CIELAB",
+    "CANCHEF",
+    "DPOLY",
+    "RCBPLAY",
+    "CHEFEREN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2135,6 +2139,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 18:10:08"
+    },
+    {
+      "code": "CANCHEF",
+      "name": "Can Chef ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 20:46:26"
+    },
+    {
+      "code": "DPOLY",
+      "name": "Degree of Polynomial",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 20:48:02"
+    },
+    {
+      "code": "RCBPLAY",
+      "name": "RCB and Playoffs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 20:49:35"
+    },
+    {
+      "code": "CHEFEREN",
+      "name": "Chef Eren",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 20:50:59"
     }
   ]
 }
