@@ -1,5 +1,5 @@
 {
-  "total_solved": 253,
+  "total_solved": 258,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -253,7 +253,12 @@
     "LAZYCHF",
     "HEALSE",
     "AIRLINE",
-    "CHEFRACES"
+    "CHEFRACES",
+    "DNASTRAND",
+    "REMISS",
+    "ADVITIYA1",
+    "COCONUT",
+    "ACPLZ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2031,6 +2036,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-24 20:51:02"
+    },
+    {
+      "code": "DNASTRAND",
+      "name": "Complementary Strand in a DNA",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 09:47:53"
+    },
+    {
+      "code": "REMISS",
+      "name": "Chef and Remissness",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 09:53:08"
+    },
+    {
+      "code": "ADVITIYA1",
+      "name": "Advitiya",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 09:54:37"
+    },
+    {
+      "code": "COCONUT",
+      "name": "Summer Heat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 09:59:32"
+    },
+    {
+      "code": "ACPLZ",
+      "name": "AC Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 10:01:55"
     }
   ]
 }
