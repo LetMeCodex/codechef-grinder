@@ -1,5 +1,5 @@
 {
-  "total_solved": 263,
+  "total_solved": 266,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -263,7 +263,10 @@
     "FILLCANDIES",
     "PASSTHEEXAM",
     "WCC",
-    "THALA7"
+    "THALA7",
+    "CODECHEF",
+    "CHEFAPPS",
+    "CIELAB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2111,6 +2114,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 14:37:14"
+    },
+    {
+      "code": "CODECHEF",
+      "name": "Codechef Round",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 18:06:18"
+    },
+    {
+      "code": "CHEFAPPS",
+      "name": "Chef and his Apps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 18:08:48"
+    },
+    {
+      "code": "CIELAB",
+      "name": "Ciel and A-B Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 18:10:08"
     }
   ]
 }
