@@ -1,5 +1,5 @@
 {
-  "total_solved": 258,
+  "total_solved": 263,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -258,7 +258,12 @@
     "REMISS",
     "ADVITIYA1",
     "COCONUT",
-    "ACPLZ"
+    "ACPLZ",
+    "POLYBAGS",
+    "FILLCANDIES",
+    "PASSTHEEXAM",
+    "WCC",
+    "THALA7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2071,6 +2076,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 10:01:55"
+    },
+    {
+      "code": "POLYBAGS",
+      "name": "Too many items",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 14:30:26"
+    },
+    {
+      "code": "FILLCANDIES",
+      "name": "Fill Candies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 14:31:49"
+    },
+    {
+      "code": "PASSTHEEXAM",
+      "name": "Pass the Exam",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 14:33:34"
+    },
+    {
+      "code": "WCC",
+      "name": "World Chess Championship",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 14:35:32"
+    },
+    {
+      "code": "THALA7",
+      "name": "Thala For A Reason",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 14:37:14"
     }
   ]
 }
