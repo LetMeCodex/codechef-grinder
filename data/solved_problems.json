@@ -1,5 +1,5 @@
 {
-  "total_solved": 270,
+  "total_solved": 272,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -270,7 +270,9 @@
     "CANCHEF",
     "DPOLY",
     "RCBPLAY",
-    "CHEFEREN"
+    "CHEFEREN",
+    "SHOPCHANGE",
+    "SPCP2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2167,6 +2169,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 20:50:59"
+    },
+    {
+      "code": "SHOPCHANGE",
+      "name": "Shopping Change",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:32:01"
+    },
+    {
+      "code": "SPCP2",
+      "name": "Airlines",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:33:33"
     }
   ]
 }
