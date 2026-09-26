@@ -1,5 +1,5 @@
 {
-  "total_solved": 277,
+  "total_solved": 282,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -277,7 +277,12 @@
     "HIGHSCORE",
     "WATSCORE",
     "ZCOSCH",
-    "HDIVISR"
+    "HDIVISR",
+    "CHEFSTLT",
+    "FLOW011",
+    "GOLDCOINS",
+    "TRISQ",
+    "FIZZBUZZ2303"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2223,6 +2228,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 17:28:29"
+    },
+    {
+      "code": "CHEFSTLT",
+      "name": "Chef and Two Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:11:26"
+    },
+    {
+      "code": "FLOW011",
+      "name": "Gross Salary",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:13:34"
+    },
+    {
+      "code": "GOLDCOINS",
+      "name": "Gold Coins 101",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:14:40"
+    },
+    {
+      "code": "TRISQ",
+      "name": "Fit Squares in Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:17:07"
+    },
+    {
+      "code": "FIZZBUZZ2303",
+      "name": "Chef Fantasy 11",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:18:22"
     }
   ]
 }
