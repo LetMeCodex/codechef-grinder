@@ -1,5 +1,5 @@
 {
-  "total_solved": 272,
+  "total_solved": 274,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -272,7 +272,9 @@
     "RCBPLAY",
     "CHEFEREN",
     "SHOPCHANGE",
-    "SPCP2"
+    "SPCP2",
+    "CHEFPAROLE",
+    "HIGHSCORE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2183,6 +2185,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 09:33:33"
+    },
+    {
+      "code": "CHEFPAROLE",
+      "name": "Chef and Parole",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:40:32"
+    },
+    {
+      "code": "HIGHSCORE",
+      "name": "Score High",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:43:29"
     }
   ]
 }
