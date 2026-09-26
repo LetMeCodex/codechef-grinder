@@ -1,5 +1,5 @@
 {
-  "total_solved": 274,
+  "total_solved": 277,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -274,7 +274,10 @@
     "SHOPCHANGE",
     "SPCP2",
     "CHEFPAROLE",
-    "HIGHSCORE"
+    "HIGHSCORE",
+    "WATSCORE",
+    "ZCOSCH",
+    "HDIVISR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2199,6 +2202,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 13:43:29"
+    },
+    {
+      "code": "WATSCORE",
+      "name": "That Is My Score!",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-26 17:25:36"
+    },
+    {
+      "code": "ZCOSCH",
+      "name": "How much Scholarship",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:27:14"
+    },
+    {
+      "code": "HDIVISR",
+      "name": "Highest Divisor",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:28:29"
     }
   ]
 }
