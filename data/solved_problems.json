@@ -1,5 +1,5 @@
 {
-  "total_solved": 287,
+  "total_solved": 290,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -287,7 +287,10 @@
     "EXAMTIME",
     "GLPR",
     "MYSERVE",
-    "AIANALYSE"
+    "AIANALYSE",
+    "MINWAGE",
+    "EQUALELE",
+    "ALGOFINALS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2303,6 +2306,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 14:39:26"
+    },
+    {
+      "code": "MINWAGE",
+      "name": "Minimum Wage",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 17:57:20"
+    },
+    {
+      "code": "EQUALELE",
+      "name": "Equal Elements",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 17:59:11"
+    },
+    {
+      "code": "ALGOFINALS",
+      "name": "Algomaniac Finals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 18:02:31"
     }
   ]
 }
