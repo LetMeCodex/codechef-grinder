@@ -1,5 +1,5 @@
 {
-  "total_solved": 282,
+  "total_solved": 285,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -282,7 +282,10 @@
     "FLOW011",
     "GOLDCOINS",
     "TRISQ",
-    "FIZZBUZZ2303"
+    "FIZZBUZZ2303",
+    "WTRMIXING",
+    "EXAMTIME",
+    "GLPR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2263,6 +2266,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 20:18:22"
+    },
+    {
+      "code": "WTRMIXING",
+      "name": "Water Mixing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 10:12:47"
+    },
+    {
+      "code": "EXAMTIME",
+      "name": "TCS Examination",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 10:14:32"
+    },
+    {
+      "code": "GLPR",
+      "name": "Glass Prices",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 10:16:16"
     }
   ]
 }
