@@ -1,5 +1,5 @@
 {
-  "total_solved": 285,
+  "total_solved": 287,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -285,7 +285,9 @@
     "FIZZBUZZ2303",
     "WTRMIXING",
     "EXAMTIME",
-    "GLPR"
+    "GLPR",
+    "MYSERVE",
+    "AIANALYSE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2287,6 +2289,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 10:16:16"
+    },
+    {
+      "code": "MYSERVE",
+      "name": "It is My Serve",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:37:24"
+    },
+    {
+      "code": "AIANALYSE",
+      "name": "AI Analysing Code",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:39:26"
     }
   ]
 }
