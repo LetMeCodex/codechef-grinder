@@ -1,5 +1,5 @@
 {
-  "total_solved": 290,
+  "total_solved": 292,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -290,7 +290,9 @@
     "AIANALYSE",
     "MINWAGE",
     "EQUALELE",
-    "ALGOFINALS"
+    "ALGOFINALS",
+    "KTTABLE",
+    "VOWELTB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2327,6 +2329,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 18:02:31"
+    },
+    {
+      "code": "KTTABLE",
+      "name": "Kitchen Timetable",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 20:27:39"
+    },
+    {
+      "code": "VOWELTB",
+      "name": "Is it a VOWEL or CONSONANT",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 20:28:46"
     }
   ]
 }
