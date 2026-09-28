@@ -1,5 +1,5 @@
 {
-  "total_solved": 292,
+  "total_solved": 294,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -292,7 +292,9 @@
     "EQUALELE",
     "ALGOFINALS",
     "KTTABLE",
-    "VOWELTB"
+    "VOWELTB",
+    "FLOW009",
+    "TYRES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2343,6 +2345,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 20:28:46"
+    },
+    {
+      "code": "FLOW009",
+      "name": "Total Expenses",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:14:24"
+    },
+    {
+      "code": "TYRES",
+      "name": "Cars and Bikes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:16:04"
     }
   ]
 }
