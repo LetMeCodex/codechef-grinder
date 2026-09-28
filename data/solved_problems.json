@@ -1,5 +1,5 @@
 {
-  "total_solved": 294,
+  "total_solved": 299,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -294,7 +294,12 @@
     "KTTABLE",
     "VOWELTB",
     "FLOW009",
-    "TYRES"
+    "TYRES",
+    "WATERCOOLER1",
+    "CS2023_STK",
+    "PRESENTS",
+    "PERFECTTRIO",
+    "FLOW014"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2359,6 +2364,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 11:16:04"
+    },
+    {
+      "code": "WATERCOOLER1",
+      "name": "The Cooler Dilemma 1",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 17:29:12"
+    },
+    {
+      "code": "CS2023_STK",
+      "name": "CodeChef Streak",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 17:31:39"
+    },
+    {
+      "code": "PRESENTS",
+      "name": "Presents for Cheffina",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 17:33:22"
+    },
+    {
+      "code": "PERFECTTRIO",
+      "name": "Perfect Trio",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 17:35:24"
+    },
+    {
+      "code": "FLOW014",
+      "name": "Grade The Steel",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 17:37:40"
     }
   ]
 }
