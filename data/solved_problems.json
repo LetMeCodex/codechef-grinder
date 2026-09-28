@@ -1,5 +1,5 @@
 {
-  "total_solved": 299,
+  "total_solved": 304,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -299,7 +299,12 @@
     "CS2023_STK",
     "PRESENTS",
     "PERFECTTRIO",
-    "FLOW014"
+    "FLOW014",
+    "ONP",
+    "IOI2024",
+    "VARDIGS",
+    "SWEETSHOP",
+    "ELECTIONS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2399,6 +2404,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 17:37:40"
+    },
+    {
+      "code": "ONP",
+      "name": "Transform the Expression",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-28 20:20:19"
+    },
+    {
+      "code": "IOI2024",
+      "name": "IOI 2024",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:21:54"
+    },
+    {
+      "code": "VARDIGS",
+      "name": "Varied Digits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:23:06"
+    },
+    {
+      "code": "SWEETSHOP",
+      "name": "Sweets Shop",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:24:22"
+    },
+    {
+      "code": "ELECTIONS",
+      "name": "Elections in Chefland",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:25:54"
     }
   ]
 }
