@@ -1,5 +1,5 @@
 {
-  "total_solved": 306,
+  "total_solved": 310,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -306,7 +306,11 @@
     "SWEETSHOP",
     "ELECTIONS",
     "BIN_BAT",
-    "BETDEAL"
+    "BETDEAL",
+    "DIET",
+    "ZOOZ",
+    "CCOV",
+    "MIXTURE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -314,7 +318,8 @@
     "MINCOINSREQ",
     "MINCARS",
     "MONOPOLY2",
-    "XJUMP"
+    "XJUMP",
+    "ICECONE"
   ],
   "history": [
     {
@@ -2455,6 +2460,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 22:41:44"
+    },
+    {
+      "code": "DIET",
+      "name": "Chef Diet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:55:28"
+    },
+    {
+      "code": "ZOOZ",
+      "name": "Zero Ones Equal One Zeros",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:57:12"
+    },
+    {
+      "code": "CCOV",
+      "name": "Overspeeding",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:59:09"
+    },
+    {
+      "code": "MIXTURE",
+      "name": "Which Mixture",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 11:02:04"
     }
   ]
 }
