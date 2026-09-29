@@ -1,5 +1,5 @@
 {
-  "total_solved": 310,
+  "total_solved": 313,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -310,7 +310,10 @@
     "DIET",
     "ZOOZ",
     "CCOV",
-    "MIXTURE"
+    "MIXTURE",
+    "CANDY123",
+    "SALE",
+    "MOZZ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2488,6 +2491,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 11:02:04"
+    },
+    {
+      "code": "CANDY123",
+      "name": "Bear and Candies 123",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:31:39"
+    },
+    {
+      "code": "SALE",
+      "name": "Get Lowest Free",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:33:10"
+    },
+    {
+      "code": "MOZZ",
+      "name": "Endless Appetizers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:34:23"
     }
   ]
 }
