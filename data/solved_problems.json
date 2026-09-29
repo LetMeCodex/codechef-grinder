@@ -1,5 +1,5 @@
 {
-  "total_solved": 316,
+  "total_solved": 319,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -316,7 +316,10 @@
     "MOZZ",
     "DICEGAME2",
     "DIGARR",
-    "FOODBAL"
+    "FOODBAL",
+    "RECTANGL",
+    "SUMTRIAN",
+    "SUPCHEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -325,7 +328,8 @@
     "MINCARS",
     "MONOPOLY2",
     "XJUMP",
-    "ICECONE"
+    "ICECONE",
+    "ANSLEAK"
   ],
   "history": [
     {
@@ -2536,6 +2540,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 18:58:38"
+    },
+    {
+      "code": "RECTANGL",
+      "name": "Rectangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:33:03"
+    },
+    {
+      "code": "SUMTRIAN",
+      "name": "Sums in a Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:34:07"
+    },
+    {
+      "code": "SUPCHEF",
+      "name": "The Preparations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:37:45"
     }
   ]
 }
