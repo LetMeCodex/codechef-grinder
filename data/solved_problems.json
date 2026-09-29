@@ -1,5 +1,5 @@
 {
-  "total_solved": 313,
+  "total_solved": 316,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -313,7 +313,10 @@
     "MIXTURE",
     "CANDY123",
     "SALE",
-    "MOZZ"
+    "MOZZ",
+    "DICEGAME2",
+    "DIGARR",
+    "FOODBAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2512,6 +2515,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 15:34:23"
+    },
+    {
+      "code": "DICEGAME2",
+      "name": "Best of Two",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:54:28"
+    },
+    {
+      "code": "DIGARR",
+      "name": "Rearranging digits to get a multiple of 5",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:56:27"
+    },
+    {
+      "code": "FOODBAL",
+      "name": "Food Balance",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:58:38"
     }
   ]
 }
