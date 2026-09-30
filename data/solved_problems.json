@@ -1,5 +1,5 @@
 {
-  "total_solved": 321,
+  "total_solved": 326,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -321,7 +321,12 @@
     "SUMTRIAN",
     "SUPCHEF",
     "ADJSUMPAR",
-    "MINFLIPS"
+    "MINFLIPS",
+    "HEADBOB",
+    "CONFLIP",
+    "SINGLEUSE",
+    "XYSTR",
+    "TWOVSTEN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2577,6 +2582,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 10:47:17"
+    },
+    {
+      "code": "HEADBOB",
+      "name": "Tanu and Head-bob",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:45:31"
+    },
+    {
+      "code": "CONFLIP",
+      "name": "Coin Flip",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:49:42"
+    },
+    {
+      "code": "SINGLEUSE",
+      "name": "Single-use Attack",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:51:59"
+    },
+    {
+      "code": "XYSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:54:32"
+    },
+    {
+      "code": "TWOVSTEN",
+      "name": "Two vs Ten",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:56:23"
     }
   ]
 }
