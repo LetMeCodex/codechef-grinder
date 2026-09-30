@@ -1,5 +1,5 @@
 {
-  "total_solved": 329,
+  "total_solved": 331,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -329,7 +329,9 @@
     "TWOVSTEN",
     "RUSHTOEXAM",
     "REACHFAST",
-    "GDOG"
+    "GDOG",
+    "OLYRANK",
+    "BLOBBYVOLLEY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2641,6 +2643,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 18:40:26"
+    },
+    {
+      "code": "OLYRANK",
+      "name": "Olympics Ranking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:33:14"
+    },
+    {
+      "code": "BLOBBYVOLLEY",
+      "name": "Blobby Volley Scores",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:34:52"
     }
   ]
 }
