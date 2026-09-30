@@ -1,5 +1,5 @@
 {
-  "total_solved": 319,
+  "total_solved": 321,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -319,7 +319,9 @@
     "FOODBAL",
     "RECTANGL",
     "SUMTRIAN",
-    "SUPCHEF"
+    "SUPCHEF",
+    "ADJSUMPAR",
+    "MINFLIPS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2561,6 +2563,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 21:37:45"
+    },
+    {
+      "code": "ADJSUMPAR",
+      "name": "Adjacent Sum Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 10:45:30"
+    },
+    {
+      "code": "MINFLIPS",
+      "name": "Minimum number of Flips",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 10:47:17"
     }
   ]
 }
