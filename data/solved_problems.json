@@ -1,5 +1,5 @@
 {
-  "total_solved": 326,
+  "total_solved": 329,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -326,7 +326,10 @@
     "CONFLIP",
     "SINGLEUSE",
     "XYSTR",
-    "TWOVSTEN"
+    "TWOVSTEN",
+    "RUSHTOEXAM",
+    "REACHFAST",
+    "GDOG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2617,6 +2620,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 15:56:23"
+    },
+    {
+      "code": "RUSHTOEXAM",
+      "name": "Rush to Exam",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 18:36:29"
+    },
+    {
+      "code": "REACHFAST",
+      "name": "Reach fast",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 18:38:43"
+    },
+    {
+      "code": "GDOG",
+      "name": "Greedy puppy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 18:40:26"
     }
   ]
 }
