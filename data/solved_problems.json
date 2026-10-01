@@ -1,5 +1,5 @@
 {
-  "total_solved": 341,
+  "total_solved": 345,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -341,7 +341,11 @@
     "FIZZBUZZ2301",
     "LUCLO",
     "PRIMEREVERSE",
-    "CRICKETUDYAM"
+    "CRICKETUDYAM",
+    "PRIMEDICE",
+    "CUTPAPER",
+    "P1149",
+    "DEVDON"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2737,6 +2741,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 19:06:20"
+    },
+    {
+      "code": "PRIMEDICE",
+      "name": "Hackerman",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:01:30"
+    },
+    {
+      "code": "CUTPAPER",
+      "name": "Paper Cutting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:03:16"
+    },
+    {
+      "code": "P1149",
+      "name": "Approximate Answer",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:05:24"
+    },
+    {
+      "code": "DEVDON",
+      "name": "Devouring Donuts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:07:37"
     }
   ]
 }
