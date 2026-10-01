@@ -1,5 +1,5 @@
 {
-  "total_solved": 335,
+  "total_solved": 339,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -335,7 +335,11 @@
     "VAL114",
     "BREAKSTICK",
     "PRICECON",
-    "HARDBET"
+    "HARDBET",
+    "JCOINS",
+    "CHOLY",
+    "FIZZBUZZ2301",
+    "LUCLO"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2689,6 +2693,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 11:18:29"
+    },
+    {
+      "code": "JCOINS",
+      "name": "Janmansh and Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:09:34"
+    },
+    {
+      "code": "CHOLY",
+      "name": "Chess Olympiad",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:12:11"
+    },
+    {
+      "code": "FIZZBUZZ2301",
+      "name": "Fan Poll",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:14:07"
+    },
+    {
+      "code": "LUCLO",
+      "name": "Lucky Clover",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:15:57"
     }
   ]
 }
