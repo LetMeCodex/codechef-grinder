@@ -1,5 +1,5 @@
 {
-  "total_solved": 339,
+  "total_solved": 341,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -339,7 +339,9 @@
     "JCOINS",
     "CHOLY",
     "FIZZBUZZ2301",
-    "LUCLO"
+    "LUCLO",
+    "PRIMEREVERSE",
+    "CRICKETUDYAM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2721,6 +2723,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 16:15:57"
+    },
+    {
+      "code": "PRIMEREVERSE",
+      "name": "Prime Reversal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:04:41"
+    },
+    {
+      "code": "CRICKETUDYAM",
+      "name": "Cricket Tournament",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:06:20"
     }
   ]
 }
