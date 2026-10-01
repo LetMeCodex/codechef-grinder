@@ -1,5 +1,5 @@
 {
-  "total_solved": 331,
+  "total_solved": 335,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -331,7 +331,11 @@
     "REACHFAST",
     "GDOG",
     "OLYRANK",
-    "BLOBBYVOLLEY"
+    "BLOBBYVOLLEY",
+    "VAL114",
+    "BREAKSTICK",
+    "PRICECON",
+    "HARDBET"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2657,6 +2661,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 21:34:52"
+    },
+    {
+      "code": "VAL114",
+      "name": "Valentines Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:10:46"
+    },
+    {
+      "code": "BREAKSTICK",
+      "name": "Break the Stick",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:13:35"
+    },
+    {
+      "code": "PRICECON",
+      "name": "Chef and Price Control",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:16:23"
+    },
+    {
+      "code": "HARDBET",
+      "name": "Hardest Problem Bet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:18:29"
     }
   ]
 }
