@@ -1,5 +1,5 @@
 {
-  "total_solved": 345,
+  "total_solved": 347,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -345,7 +345,9 @@
     "PRIMEDICE",
     "CUTPAPER",
     "P1149",
-    "DEVDON"
+    "DEVDON",
+    "CHEAT",
+    "DISTINCTCOL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2769,6 +2771,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 22:07:37"
+    },
+    {
+      "code": "CHEAT",
+      "name": "Dracula Eats",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:44:42"
+    },
+    {
+      "code": "DISTINCTCOL",
+      "name": "Distinct Colors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:46:48"
     }
   ]
 }
