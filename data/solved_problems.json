@@ -1,5 +1,5 @@
 {
-  "total_solved": 352,
+  "total_solved": 355,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -352,7 +352,10 @@
     "ELHP",
     "WEIGHTLIFT",
     "ICECONE6",
-    "BALLBOX"
+    "BALLBOX",
+    "REMOVECARDS",
+    "EXPENSES",
+    "LONGSEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2825,6 +2828,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 15:40:34"
+    },
+    {
+      "code": "REMOVECARDS",
+      "name": "Card Removal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:44:15"
+    },
+    {
+      "code": "EXPENSES",
+      "name": "Expense List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:45:53"
+    },
+    {
+      "code": "LONGSEQ",
+      "name": "Chef and digits of a number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:47:47"
     }
   ]
 }
