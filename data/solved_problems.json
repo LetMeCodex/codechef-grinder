@@ -1,5 +1,5 @@
 {
-  "total_solved": 355,
+  "total_solved": 358,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -355,7 +355,10 @@
     "BALLBOX",
     "REMOVECARDS",
     "EXPENSES",
-    "LONGSEQ"
+    "LONGSEQ",
+    "NEWCC",
+    "SOCKS1",
+    "NGRS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2849,6 +2852,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 18:47:47"
+    },
+    {
+      "code": "NEWCC",
+      "name": "All New CodeChef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 21:27:36"
+    },
+    {
+      "code": "SOCKS1",
+      "name": "Valid Pair",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 21:29:45"
+    },
+    {
+      "code": "NGRS",
+      "name": "50-50 Rule",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 21:30:47"
     }
   ]
 }
