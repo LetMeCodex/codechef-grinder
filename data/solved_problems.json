@@ -1,5 +1,5 @@
 {
-  "total_solved": 347,
+  "total_solved": 352,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -347,7 +347,12 @@
     "P1149",
     "DEVDON",
     "CHEAT",
-    "DISTINCTCOL"
+    "DISTINCTCOL",
+    "PLAYSTR",
+    "ELHP",
+    "WEIGHTLIFT",
+    "ICECONE6",
+    "BALLBOX"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2785,6 +2790,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 10:46:48"
+    },
+    {
+      "code": "PLAYSTR",
+      "name": "Playing with Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:33:52"
+    },
+    {
+      "code": "ELHP",
+      "name": "Election Hopes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:35:10"
+    },
+    {
+      "code": "WEIGHTLIFT",
+      "name": "Weightlifting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:36:58"
+    },
+    {
+      "code": "ICECONE6",
+      "name": "IceCream Cones",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:38:28"
+    },
+    {
+      "code": "BALLBOX",
+      "name": "Balls and Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:40:34"
     }
   ]
 }
