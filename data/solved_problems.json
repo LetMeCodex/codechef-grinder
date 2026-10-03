@@ -1,5 +1,5 @@
 {
-  "total_solved": 358,
+  "total_solved": 362,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -358,7 +358,11 @@
     "LONGSEQ",
     "NEWCC",
     "SOCKS1",
-    "NGRS"
+    "NGRS",
+    "AREAPERI",
+    "LOCKDRAW",
+    "IED",
+    "COLDPLAYTICK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2873,6 +2877,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 21:30:47"
+    },
+    {
+      "code": "AREAPERI",
+      "name": "Area OR Perimeter",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:03:38"
+    },
+    {
+      "code": "LOCKDRAW",
+      "name": "Chef and Lockout Draws",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:05:47"
+    },
+    {
+      "code": "IED",
+      "name": "International Education Day!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:07:49"
+    },
+    {
+      "code": "COLDPLAYTICK",
+      "name": "Coldplay Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:09:52"
     }
   ]
 }
