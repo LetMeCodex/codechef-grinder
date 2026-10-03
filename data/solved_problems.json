@@ -1,5 +1,5 @@
 {
-  "total_solved": 367,
+  "total_solved": 372,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -367,7 +367,12 @@
     "CUTOFF",
     "BINPARITY",
     "EQUALISE",
-    "OLYMPICS24"
+    "OLYMPICS24",
+    "SLOWSOLN",
+    "RURT",
+    "ODDPAIRS",
+    "MOVEMENT",
+    "GOODWEAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2945,6 +2950,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 14:19:24"
+    },
+    {
+      "code": "SLOWSOLN",
+      "name": "Slow Solution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:39:59"
+    },
+    {
+      "code": "RURT",
+      "name": "Run for Fun",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:41:38"
+    },
+    {
+      "code": "ODDPAIRS",
+      "name": "Odd Pairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:43:56"
+    },
+    {
+      "code": "MOVEMENT",
+      "name": "Move Grid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:46:10"
+    },
+    {
+      "code": "GOODWEAT",
+      "name": "Good Weather",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:47:25"
     }
   ]
 }
