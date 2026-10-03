@@ -1,5 +1,5 @@
 {
-  "total_solved": 362,
+  "total_solved": 367,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -362,7 +362,12 @@
     "AREAPERI",
     "LOCKDRAW",
     "IED",
-    "COLDPLAYTICK"
+    "COLDPLAYTICK",
+    "MSNSADM1",
+    "CUTOFF",
+    "BINPARITY",
+    "EQUALISE",
+    "OLYMPICS24"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2905,6 +2910,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 10:09:52"
+    },
+    {
+      "code": "MSNSADM1",
+      "name": "Football",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:11:54"
+    },
+    {
+      "code": "CUTOFF",
+      "name": "Passing Marks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:14:14"
+    },
+    {
+      "code": "BINPARITY",
+      "name": "Binary Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:16:05"
+    },
+    {
+      "code": "EQUALISE",
+      "name": "Make A and B equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:17:41"
+    },
+    {
+      "code": "OLYMPICS24",
+      "name": "Olympics 2024",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:19:24"
     }
   ]
 }
