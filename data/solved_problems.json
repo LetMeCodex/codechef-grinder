@@ -1,5 +1,5 @@
 {
-  "total_solved": 372,
+  "total_solved": 375,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -372,7 +372,10 @@
     "RURT",
     "ODDPAIRS",
     "MOVEMENT",
-    "GOODWEAT"
+    "GOODWEAT",
+    "ENCMSG",
+    "ACCURACY",
+    "ACS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2985,6 +2988,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 17:47:25"
+    },
+    {
+      "code": "ENCMSG",
+      "name": "Encoding Message",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:14:16"
+    },
+    {
+      "code": "ACCURACY",
+      "name": "High Accuracy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:15:52"
+    },
+    {
+      "code": "ACS",
+      "name": "Count the ACs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:17:40"
     }
   ]
 }
