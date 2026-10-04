@@ -1,5 +1,5 @@
 {
-  "total_solved": 375,
+  "total_solved": 379,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -375,7 +375,11 @@
     "GOODWEAT",
     "ENCMSG",
     "ACCURACY",
-    "ACS"
+    "ACS",
+    "SQUIDRULE",
+    "CHANGEPOS",
+    "LEGSP",
+    "SNCKYEAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3009,6 +3013,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 20:17:40"
+    },
+    {
+      "code": "SQUIDRULE",
+      "name": "The Squid Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:45:57"
+    },
+    {
+      "code": "CHANGEPOS",
+      "name": "Change Row and Column Both",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:47:38"
+    },
+    {
+      "code": "LEGSP",
+      "name": "Leg Space",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:48:47"
+    },
+    {
+      "code": "SNCKYEAR",
+      "name": "Chef and SnackDown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:50:52"
     }
   ]
 }
