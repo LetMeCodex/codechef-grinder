@@ -1,5 +1,5 @@
 {
-  "total_solved": 389,
+  "total_solved": 393,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -389,7 +389,11 @@
     "NONNEGPROD",
     "INCAT",
     "PAYSC",
-    "WECNITK"
+    "WECNITK",
+    "RCBCSK",
+    "MNR",
+    "PETSTORE",
+    "YOGADAY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3121,6 +3125,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 17:59:35"
+    },
+    {
+      "code": "RCBCSK",
+      "name": "RCB vs CSK ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:29:19"
+    },
+    {
+      "code": "MNR",
+      "name": "Range Minimize",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:30:40"
+    },
+    {
+      "code": "PETSTORE",
+      "name": "Pet Store",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:32:52"
+    },
+    {
+      "code": "YOGADAY",
+      "name": "Yoga Day",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-04 20:36:29"
     }
   ]
 }
