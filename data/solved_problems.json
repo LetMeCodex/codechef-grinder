@@ -1,5 +1,5 @@
 {
-  "total_solved": 384,
+  "total_solved": 389,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -384,7 +384,12 @@
     "CHEFSTR1",
     "CCISLAND",
     "COVID19",
-    "PBREV"
+    "PBREV",
+    "CLEARANCE",
+    "NONNEGPROD",
+    "INCAT",
+    "PAYSC",
+    "WECNITK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3081,6 +3086,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 14:52:48"
+    },
+    {
+      "code": "CLEARANCE",
+      "name": "Clearance Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:52:15"
+    },
+    {
+      "code": "NONNEGPROD",
+      "name": "Non-Negative Product",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:54:30"
+    },
+    {
+      "code": "INCAT",
+      "name": "Make Cat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:56:17"
+    },
+    {
+      "code": "PAYSC",
+      "name": "Payment Scheme",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:57:38"
+    },
+    {
+      "code": "WECNITK",
+      "name": "Access Code Equality",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:59:35"
     }
   ]
 }
