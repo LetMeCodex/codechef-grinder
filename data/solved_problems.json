@@ -1,5 +1,5 @@
 {
-  "total_solved": 379,
+  "total_solved": 384,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -379,7 +379,12 @@
     "SQUIDRULE",
     "CHANGEPOS",
     "LEGSP",
-    "SNCKYEAR"
+    "SNCKYEAR",
+    "BLITZ3_2",
+    "CHEFSTR1",
+    "CCISLAND",
+    "COVID19",
+    "PBREV"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3041,6 +3046,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 10:50:52"
+    },
+    {
+      "code": "BLITZ3_2",
+      "name": "Chess Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:43:10"
+    },
+    {
+      "code": "CHEFSTR1",
+      "name": "Chef and Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:45:48"
+    },
+    {
+      "code": "CCISLAND",
+      "name": "Chef On Island",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:47:57"
+    },
+    {
+      "code": "COVID19",
+      "name": "Coronavirus Spread",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:50:25"
+    },
+    {
+      "code": "PBREV",
+      "name": "Problem Reviews",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:52:48"
     }
   ]
 }
