@@ -1,5 +1,5 @@
 {
-  "total_solved": 400,
+  "total_solved": 404,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -400,7 +400,11 @@
     "MOVPR",
     "FOODPLAN",
     "R5S",
-    "CRICMATCH"
+    "CRICMATCH",
+    "CHSFORMT",
+    "DOMINANT2",
+    "CASHBACK",
+    "SOLBLTY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3209,6 +3213,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-05 18:18:58"
+    },
+    {
+      "code": "CHSFORMT",
+      "name": "Chess Format",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 21:15:34"
+    },
+    {
+      "code": "DOMINANT2",
+      "name": "Dominant Element",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 21:17:42"
+    },
+    {
+      "code": "CASHBACK",
+      "name": "Cashback",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 21:19:09"
+    },
+    {
+      "code": "SOLBLTY",
+      "name": "Solubility",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 21:21:25"
     }
   ]
 }
