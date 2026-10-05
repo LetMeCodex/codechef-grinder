@@ -1,5 +1,5 @@
 {
-  "total_solved": 396,
+  "total_solved": 400,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -396,7 +396,11 @@
     "YOGADAY",
     "HEATWAVE",
     "SMLPAL",
-    "LECANDY"
+    "LECANDY",
+    "MOVPR",
+    "FOODPLAN",
+    "R5S",
+    "CRICMATCH"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3177,6 +3181,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-05 11:54:54"
+    },
+    {
+      "code": "MOVPR",
+      "name": "Movie Snacks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:11:03"
+    },
+    {
+      "code": "FOODPLAN",
+      "name": "Online or Offline",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:12:28"
+    },
+    {
+      "code": "R5S",
+      "name": "Reach 5 Star",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:17:18"
+    },
+    {
+      "code": "CRICMATCH",
+      "name": "Cricket Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:18:58"
     }
   ]
 }
