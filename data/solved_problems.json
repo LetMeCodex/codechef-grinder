@@ -1,5 +1,5 @@
 {
-  "total_solved": 393,
+  "total_solved": 396,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -393,7 +393,10 @@
     "RCBCSK",
     "MNR",
     "PETSTORE",
-    "YOGADAY"
+    "YOGADAY",
+    "HEATWAVE",
+    "SMLPAL",
+    "LECANDY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3153,6 +3156,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-04 20:36:29"
+    },
+    {
+      "code": "HEATWAVE",
+      "name": "Heat Wave",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:50:47"
+    },
+    {
+      "code": "SMLPAL",
+      "name": "Small Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:53:00"
+    },
+    {
+      "code": "LECANDY",
+      "name": "Little Elephant and Candies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:54:54"
     }
   ]
 }
