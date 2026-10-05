@@ -1,5 +1,5 @@
 {
-  "total_solved": 404,
+  "total_solved": 408,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -404,7 +404,11 @@
     "CHSFORMT",
     "DOMINANT2",
     "CASHBACK",
-    "SOLBLTY"
+    "SOLBLTY",
+    "LUCKYFR",
+    "CONN",
+    "P2149",
+    "ADVITIYA2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -414,7 +418,8 @@
     "MONOPOLY2",
     "XJUMP",
     "ICECONE",
-    "ANSLEAK"
+    "ANSLEAK",
+    "QNOT"
   ],
   "history": [
     {
@@ -3241,6 +3246,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-05 21:21:25"
+    },
+    {
+      "code": "LUCKYFR",
+      "name": "Lucky Four",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:23:06"
+    },
+    {
+      "code": "CONN",
+      "name": "Construct N",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:24:59"
+    },
+    {
+      "code": "P2149",
+      "name": "Magical World",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:27:16"
+    },
+    {
+      "code": "ADVITIYA2",
+      "name": "Judged",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:29:24"
     }
   ]
 }
