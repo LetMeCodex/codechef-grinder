@@ -1,5 +1,5 @@
 {
-  "total_solved": 418,
+  "total_solved": 423,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -418,7 +418,12 @@
     "WINNERR",
     "HOWMANY",
     "MODULO3",
-    "BOX2"
+    "BOX2",
+    "MINBOTTLES",
+    "LINCHESS",
+    "SPCP1",
+    "EQLZING",
+    "GENE01"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3354,6 +3359,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-06 19:11:07"
+    },
+    {
+      "code": "MINBOTTLES",
+      "name": "Minimum Bottles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:55:15"
+    },
+    {
+      "code": "LINCHESS",
+      "name": "Chef and Linear Chess",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:57:47"
+    },
+    {
+      "code": "SPCP1",
+      "name": "Water Park",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:59:13"
+    },
+    {
+      "code": "EQLZING",
+      "name": "Equalizing Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 22:01:19"
+    },
+    {
+      "code": "GENE01",
+      "name": "Genes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 22:03:20"
     }
   ]
 }
