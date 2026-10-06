@@ -1,5 +1,5 @@
 {
-  "total_solved": 416,
+  "total_solved": 418,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -416,7 +416,9 @@
     "NOTIME",
     "JUSTICE",
     "WINNERR",
-    "HOWMANY"
+    "HOWMANY",
+    "MODULO3",
+    "BOX2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3338,6 +3340,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-06 15:50:57"
+    },
+    {
+      "code": "MODULO3",
+      "name": "Divisible by 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 19:08:40"
+    },
+    {
+      "code": "BOX2",
+      "name": "2 Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 19:11:07"
     }
   ]
 }
