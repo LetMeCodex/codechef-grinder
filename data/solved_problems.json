@@ -1,5 +1,5 @@
 {
-  "total_solved": 423,
+  "total_solved": 425,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -423,7 +423,9 @@
     "LINCHESS",
     "SPCP1",
     "EQLZING",
-    "GENE01"
+    "GENE01",
+    "PRIME1",
+    "CHEFSOCKS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3394,6 +3396,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-06 22:03:20"
+    },
+    {
+      "code": "PRIME1",
+      "name": "Prime Generator",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 11:22:20"
+    },
+    {
+      "code": "CHEFSOCKS",
+      "name": "Chef and Socks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 11:24:45"
     }
   ]
 }
