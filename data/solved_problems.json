@@ -1,5 +1,5 @@
 {
-  "total_solved": 428,
+  "total_solved": 430,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -428,7 +428,9 @@
     "CHEFSOCKS",
     "CHEFPAGES",
     "CABLE",
-    "FACEDIR"
+    "FACEDIR",
+    "AP",
+    "BROKPHON"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3435,6 +3437,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 16:15:55"
+    },
+    {
+      "code": "AP",
+      "name": "Make Arithmetic Progression",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:34:34"
+    },
+    {
+      "code": "BROKPHON",
+      "name": "Broken Telephone",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:36:47"
     }
   ]
 }
