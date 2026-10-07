@@ -1,5 +1,5 @@
 {
-  "total_solved": 425,
+  "total_solved": 428,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -425,7 +425,10 @@
     "EQLZING",
     "GENE01",
     "PRIME1",
-    "CHEFSOCKS"
+    "CHEFSOCKS",
+    "CHEFPAGES",
+    "CABLE",
+    "FACEDIR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -436,7 +439,8 @@
     "XJUMP",
     "ICECONE",
     "ANSLEAK",
-    "QNOT"
+    "QNOT",
+    "INPL"
   ],
   "history": [
     {
@@ -3410,6 +3414,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 11:24:45"
+    },
+    {
+      "code": "CHEFPAGES",
+      "name": "Important Pages on CodeChef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:11:42"
+    },
+    {
+      "code": "CABLE",
+      "name": "Volume Comparison",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:14:30"
+    },
+    {
+      "code": "FACEDIR",
+      "name": "Find the Direction",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:15:55"
     }
   ]
 }
