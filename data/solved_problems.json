@@ -1,5 +1,5 @@
 {
-  "total_solved": 435,
+  "total_solved": 438,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -435,7 +435,10 @@
     "LONGQUEUE",
     "VIDEOWORTH",
     "BIRDFARM",
-    "KEPLERSLAW"
+    "KEPLERSLAW",
+    "GPUBUY",
+    "ALLEV",
+    "COINS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3491,6 +3494,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 22:25:02"
+    },
+    {
+      "code": "GPUBUY",
+      "name": "Buying GPU",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:37:32"
+    },
+    {
+      "code": "ALLEV",
+      "name": "All Even",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:40:25"
+    },
+    {
+      "code": "COINS",
+      "name": "Bytelandian gold coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:44:29"
     }
   ]
 }
