@@ -1,5 +1,5 @@
 {
-  "total_solved": 446,
+  "total_solved": 451,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -446,7 +446,12 @@
     "ZEROSTRING",
     "SLOOP",
     "EQUALIZEAB",
-    "ALJMP"
+    "ALJMP",
+    "MILEAGE",
+    "CREDITS",
+    "TABLET",
+    "CRCK",
+    "AVG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3579,6 +3584,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 19:39:44"
+    },
+    {
+      "code": "MILEAGE",
+      "name": "Mileage matters",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 22:31:04"
+    },
+    {
+      "code": "CREDITS",
+      "name": "Complete the credits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 22:32:23"
+    },
+    {
+      "code": "TABLET",
+      "name": "Buying New Tablet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 22:33:45"
+    },
+    {
+      "code": "CRCK",
+      "name": "Christmas Cake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 22:35:53"
+    },
+    {
+      "code": "AVG",
+      "name": "Average Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 22:37:37"
     }
   ]
 }
