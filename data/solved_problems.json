@@ -1,5 +1,5 @@
 {
-  "total_solved": 441,
+  "total_solved": 446,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -441,7 +441,12 @@
     "COINS",
     "UTKPLC",
     "COLORB",
-    "WRITINGSPEED"
+    "WRITINGSPEED",
+    "DEVSPORTS",
+    "ZEROSTRING",
+    "SLOOP",
+    "EQUALIZEAB",
+    "ALJMP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3539,6 +3544,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 16:21:33"
+    },
+    {
+      "code": "DEVSPORTS",
+      "name": "Devendra and Water Sports",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:30:35"
+    },
+    {
+      "code": "ZEROSTRING",
+      "name": "Zero String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:34:45"
+    },
+    {
+      "code": "SLOOP",
+      "name": "Coldplay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:36:42"
+    },
+    {
+      "code": "EQUALIZEAB",
+      "name": "Equalize AB",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:38:10"
+    },
+    {
+      "code": "ALJMP",
+      "name": "Alternate Jumps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:39:44"
     }
   ]
 }
