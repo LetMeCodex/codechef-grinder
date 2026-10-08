@@ -1,5 +1,5 @@
 {
-  "total_solved": 438,
+  "total_solved": 441,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -438,7 +438,10 @@
     "KEPLERSLAW",
     "GPUBUY",
     "ALLEV",
-    "COINS"
+    "COINS",
+    "UTKPLC",
+    "COLORB",
+    "WRITINGSPEED"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3515,6 +3518,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 11:44:29"
+    },
+    {
+      "code": "UTKPLC",
+      "name": "Utkarsh and Placement tests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:16:51"
+    },
+    {
+      "code": "COLORB",
+      "name": "Coloured Orbs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:19:40"
+    },
+    {
+      "code": "WRITINGSPEED",
+      "name": "Writing Speed",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:21:33"
     }
   ]
 }
