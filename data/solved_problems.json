@@ -1,5 +1,5 @@
 {
-  "total_solved": 460,
+  "total_solved": 465,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -460,7 +460,12 @@
     "VAL142",
     "ALTERADD",
     "BUYPLSE",
-    "BIG"
+    "BIG",
+    "JGAMES",
+    "COVID_19",
+    "NAME2",
+    "CAKEMAKE",
+    "CHN09"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3691,6 +3696,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 16:05:47"
+    },
+    {
+      "code": "JGAMES",
+      "name": "Janmansh and Games",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:02:54"
+    },
+    {
+      "code": "COVID_19",
+      "name": "Covid and Theatre Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:05:11"
+    },
+    {
+      "code": "NAME2",
+      "name": "Your Name is Mine",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:07:09"
+    },
+    {
+      "code": "CAKEMAKE",
+      "name": "Cake Making",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:08:20"
+    },
+    {
+      "code": "CHN09",
+      "name": "Malvika is peculiar about color of balloons",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:09:35"
     }
   ]
 }
