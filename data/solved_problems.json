@@ -1,5 +1,5 @@
 {
-  "total_solved": 465,
+  "total_solved": 470,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -465,7 +465,12 @@
     "COVID_19",
     "NAME2",
     "CAKEMAKE",
-    "CHN09"
+    "CHN09",
+    "P1BAR",
+    "CARCHOICE",
+    "BMI",
+    "VISA",
+    "CRDGAME"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3731,6 +3736,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 19:09:35"
+    },
+    {
+      "code": "P1BAR",
+      "name": "Basketball Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:53:35"
+    },
+    {
+      "code": "CARCHOICE",
+      "name": "Car Choice",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:55:20"
+    },
+    {
+      "code": "BMI",
+      "name": "Body Mass Index",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:56:31"
+    },
+    {
+      "code": "VISA",
+      "name": "Chefland Visa",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:58:31"
+    },
+    {
+      "code": "CRDGAME",
+      "name": "Chef and Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 22:00:17"
     }
   ]
 }
