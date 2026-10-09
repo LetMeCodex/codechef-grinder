@@ -1,5 +1,5 @@
 {
-  "total_solved": 455,
+  "total_solved": 460,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -455,7 +455,12 @@
     "MATCH_ALK",
     "GIANT",
     "ALLZR",
-    "CPRIVAL"
+    "CPRIVAL",
+    "SUNDAY",
+    "VAL142",
+    "ALTERADD",
+    "BUYPLSE",
+    "BIG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3651,6 +3656,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 11:37:48"
+    },
+    {
+      "code": "SUNDAY",
+      "name": "Count the Holidays",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 15:57:20"
+    },
+    {
+      "code": "VAL142",
+      "name": "Valentine Gifts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 15:59:14"
+    },
+    {
+      "code": "ALTERADD",
+      "name": "Alternate Additions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:01:12"
+    },
+    {
+      "code": "BUYPLSE",
+      "name": "Buy Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:03:38"
+    },
+    {
+      "code": "BIG",
+      "name": "Big Achiever",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:05:47"
     }
   ]
 }
