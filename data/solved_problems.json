@@ -1,5 +1,5 @@
 {
-  "total_solved": 475,
+  "total_solved": 480,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -475,7 +475,12 @@
     "DRUNKALK",
     "BOMBTHEBASE",
     "FINDK3",
-    "MESSI"
+    "MESSI",
+    "EPISODES",
+    "JMARKET",
+    "EITA",
+    "CAKEHALF",
+    "APPLEORANGE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3811,6 +3816,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 10:57:00"
+    },
+    {
+      "code": "EPISODES",
+      "name": "Episodes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:07:24"
+    },
+    {
+      "code": "JMARKET",
+      "name": "Janmansh at Fruit Market",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:09:08"
+    },
+    {
+      "code": "EITA",
+      "name": "Maximum Production",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:10:56"
+    },
+    {
+      "code": "CAKEHALF",
+      "name": "Let Me Eat Cake!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:13:22"
+    },
+    {
+      "code": "APPLEORANGE",
+      "name": "Apples and oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:15:20"
     }
   ]
 }
