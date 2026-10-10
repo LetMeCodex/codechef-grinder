@@ -1,5 +1,5 @@
 {
-  "total_solved": 480,
+  "total_solved": 482,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -480,7 +480,9 @@
     "JMARKET",
     "EITA",
     "CAKEHALF",
-    "APPLEORANGE"
+    "APPLEORANGE",
+    "CARRYGOLD",
+    "BFLY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3851,6 +3853,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 15:15:20"
+    },
+    {
+      "code": "CARRYGOLD",
+      "name": "Gold Mining",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:04:02"
+    },
+    {
+      "code": "BFLY",
+      "name": "Butterfly",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:06:15"
     }
   ]
 }
