@@ -1,5 +1,5 @@
 {
-  "total_solved": 470,
+  "total_solved": 475,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -470,7 +470,12 @@
     "CARCHOICE",
     "BMI",
     "VISA",
-    "CRDGAME"
+    "CRDGAME",
+    "TSTROBOT",
+    "DRUNKALK",
+    "BOMBTHEBASE",
+    "FINDK3",
+    "MESSI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3771,6 +3776,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 22:00:17"
+    },
+    {
+      "code": "TSTROBOT",
+      "name": "Testing Robot",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 10:48:42"
+    },
+    {
+      "code": "DRUNKALK",
+      "name": "Drunk Alcoholic",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 10:50:54"
+    },
+    {
+      "code": "BOMBTHEBASE",
+      "name": "Bomb the base",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 10:52:51"
+    },
+    {
+      "code": "FINDK3",
+      "name": "FIND A and B",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 10:55:00"
+    },
+    {
+      "code": "MESSI",
+      "name": "Football Training",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 10:57:00"
     }
   ]
 }
