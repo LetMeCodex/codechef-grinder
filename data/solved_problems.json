@@ -1,5 +1,5 @@
 {
-  "total_solved": 482,
+  "total_solved": 484,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -482,7 +482,9 @@
     "CAKEHALF",
     "APPLEORANGE",
     "CARRYGOLD",
-    "BFLY"
+    "BFLY",
+    "BANKGLITCH",
+    "SURPLUS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3867,6 +3869,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 18:06:15"
+    },
+    {
+      "code": "BANKGLITCH",
+      "name": "Bank Glitch",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 20:44:00"
+    },
+    {
+      "code": "SURPLUS",
+      "name": "Trade Surplus",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 20:46:14"
     }
   ]
 }
