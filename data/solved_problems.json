@@ -1,5 +1,5 @@
 {
-  "total_solved": 489,
+  "total_solved": 492,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -489,7 +489,10 @@
     "CUTESTR",
     "HOLES",
     "BRKSTICK",
-    "ADVITIYA"
+    "ADVITIYA",
+    "CALLIM",
+    "NEARESTCOURT",
+    "INDEPENDENCE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -502,7 +505,8 @@
     "ANSLEAK",
     "QNOT",
     "INPL",
-    "CHEFBAKES77"
+    "CHEFBAKES77",
+    "STREAK"
   ],
   "history": [
     {
@@ -3924,6 +3928,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 15:29:48"
+    },
+    {
+      "code": "CALLIM",
+      "name": "Calorie Limit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:31:43"
+    },
+    {
+      "code": "NEARESTCOURT",
+      "name": "Nearest Court",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:33:47"
+    },
+    {
+      "code": "INDEPENDENCE",
+      "name": "Independence Day 101",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:35:36"
     }
   ]
 }
