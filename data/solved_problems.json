@@ -1,5 +1,5 @@
 {
-  "total_solved": 492,
+  "total_solved": 496,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -492,7 +492,11 @@
     "ADVITIYA",
     "CALLIM",
     "NEARESTCOURT",
-    "INDEPENDENCE"
+    "INDEPENDENCE",
+    "TTENIS",
+    "QTOO_2523",
+    "EUREKA",
+    "SHOEFIT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3949,6 +3953,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 18:35:36"
+    },
+    {
+      "code": "TTENIS",
+      "name": "Chef and Table Tennis",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:05:25"
+    },
+    {
+      "code": "QTOO_2523",
+      "name": "Bi_lindrome!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:07:22"
+    },
+    {
+      "code": "EUREKA",
+      "name": "N Queens Puzzle Solved !",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:08:49"
+    },
+    {
+      "code": "SHOEFIT",
+      "name": "Shoe Fit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:10:56"
     }
   ]
 }
