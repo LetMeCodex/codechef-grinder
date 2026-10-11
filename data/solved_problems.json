@@ -1,5 +1,5 @@
 {
-  "total_solved": 487,
+  "total_solved": 489,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -487,7 +487,9 @@
     "SURPLUS",
     "CARDGAME1",
     "CUTESTR",
-    "HOLES"
+    "HOLES",
+    "BRKSTICK",
+    "ADVITIYA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -499,7 +501,8 @@
     "ICECONE",
     "ANSLEAK",
     "QNOT",
-    "INPL"
+    "INPL",
+    "CHEFBAKES77"
   ],
   "history": [
     {
@@ -3907,6 +3910,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-11 11:05:56"
+    },
+    {
+      "code": "BRKSTICK",
+      "name": "Breaking Sticks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 15:27:21"
+    },
+    {
+      "code": "ADVITIYA",
+      "name": "Advitiya",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 15:29:48"
     }
   ]
 }
