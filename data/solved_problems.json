@@ -1,5 +1,5 @@
 {
-  "total_solved": 484,
+  "total_solved": 487,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -484,7 +484,10 @@
     "CARRYGOLD",
     "BFLY",
     "BANKGLITCH",
-    "SURPLUS"
+    "SURPLUS",
+    "CARDGAME1",
+    "CUTESTR",
+    "HOLES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3883,6 +3886,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 20:46:14"
+    },
+    {
+      "code": "CARDGAME1",
+      "name": "Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 11:01:35"
+    },
+    {
+      "code": "CUTESTR",
+      "name": "Cute Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 11:03:37"
+    },
+    {
+      "code": "HOLES",
+      "name": "Holes in the text",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-11 11:05:56"
     }
   ]
 }
