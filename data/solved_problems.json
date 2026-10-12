@@ -1,5 +1,5 @@
 {
-  "total_solved": 500,
+  "total_solved": 503,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -500,7 +500,10 @@
     "MAXFUN",
     "TESTSERIES",
     "FIRSTANDLAST",
-    "REMOVEBAD"
+    "REMOVEBAD",
+    "VACCINE2",
+    "LITRATE",
+    "CNOTE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4013,6 +4016,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 12:33:00"
+    },
+    {
+      "code": "VACCINE2",
+      "name": "Vaccine Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 18:46:38"
+    },
+    {
+      "code": "LITRATE",
+      "name": "Literacy Rate",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 18:47:51"
+    },
+    {
+      "code": "CNOTE",
+      "name": "Chef and Notebooks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 18:50:01"
     }
   ]
 }
