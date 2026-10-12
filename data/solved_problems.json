@@ -1,5 +1,5 @@
 {
-  "total_solved": 496,
+  "total_solved": 500,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -496,7 +496,11 @@
     "TTENIS",
     "QTOO_2523",
     "EUREKA",
-    "SHOEFIT"
+    "SHOEFIT",
+    "MAXFUN",
+    "TESTSERIES",
+    "FIRSTANDLAST",
+    "REMOVEBAD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3981,6 +3985,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 21:10:56"
+    },
+    {
+      "code": "MAXFUN",
+      "name": "Maximise Function",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:27:21"
+    },
+    {
+      "code": "TESTSERIES",
+      "name": "Test Match Series",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:28:50"
+    },
+    {
+      "code": "FIRSTANDLAST",
+      "name": "First and Last",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:31:38"
+    },
+    {
+      "code": "REMOVEBAD",
+      "name": "Remove Bad elements",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:33:00"
     }
   ]
 }
