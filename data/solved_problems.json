@@ -1,5 +1,5 @@
 {
-  "total_solved": 503,
+  "total_solved": 507,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -503,7 +503,11 @@
     "REMOVEBAD",
     "VACCINE2",
     "LITRATE",
-    "CNOTE"
+    "CNOTE",
+    "TCG",
+    "MAX6",
+    "BOP2",
+    "ECHOECHO"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4037,6 +4041,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 18:50:01"
+    },
+    {
+      "code": "TCG",
+      "name": "Capital Gain Tax",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:53:22"
+    },
+    {
+      "code": "MAX6",
+      "name": "Max Sixers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:54:59"
+    },
+    {
+      "code": "BOP2",
+      "name": "Color Festival",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:57:04"
+    },
+    {
+      "code": "ECHOECHO",
+      "name": "Echo",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:59:00"
     }
   ]
 }
