@@ -1,5 +1,5 @@
 {
-  "total_solved": 513,
+  "total_solved": 517,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -513,7 +513,11 @@
     "LOOP",
     "PSGRADE",
     "RCTGLD",
-    "MODTEMP"
+    "MODTEMP",
+    "TV",
+    "PASSINGGR",
+    "RECTSQ",
+    "MATPAN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4117,6 +4121,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 12:12:45"
+    },
+    {
+      "code": "TV",
+      "name": "Television Channels",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:48:29"
+    },
+    {
+      "code": "PASSINGGR",
+      "name": "Passing Grade",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:50:22"
+    },
+    {
+      "code": "RECTSQ",
+      "name": "Farmer And His Plot",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:52:43"
+    },
+    {
+      "code": "MATPAN",
+      "name": "Mathison and pangrams",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:54:14"
     }
   ]
 }
