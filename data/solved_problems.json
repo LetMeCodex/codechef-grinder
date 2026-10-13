@@ -1,5 +1,5 @@
 {
-  "total_solved": 511,
+  "total_solved": 513,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -511,7 +511,9 @@
     "AVOIDCONTACT",
     "PROC18A",
     "LOOP",
-    "PSGRADE"
+    "PSGRADE",
+    "RCTGLD",
+    "MODTEMP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4101,6 +4103,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 23:54:10"
+    },
+    {
+      "code": "RCTGLD",
+      "name": "Rectangled",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:10:50"
+    },
+    {
+      "code": "MODTEMP",
+      "name": "Moderate Temperatures",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:12:45"
     }
   ]
 }
