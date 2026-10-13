@@ -1,5 +1,5 @@
 {
-  "total_solved": 517,
+  "total_solved": 521,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -517,7 +517,11 @@
     "TV",
     "PASSINGGR",
     "RECTSQ",
-    "MATPAN"
+    "MATPAN",
+    "SUPINC",
+    "NEIREM",
+    "ADVITIYA3",
+    "CHEFWARS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4149,6 +4153,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 16:54:14"
+    },
+    {
+      "code": "SUPINC",
+      "name": "Superincreasing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 19:59:18"
+    },
+    {
+      "code": "NEIREM",
+      "name": "Remaining Neighborhoods",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:01:00"
+    },
+    {
+      "code": "ADVITIYA3",
+      "name": "Cookie Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:02:41"
+    },
+    {
+      "code": "CHEFWARS",
+      "name": "Chef Wars - Return of the Jedi",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:04:11"
     }
   ]
 }
