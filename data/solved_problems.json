@@ -1,5 +1,5 @@
 {
-  "total_solved": 521,
+  "total_solved": 526,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -521,7 +521,12 @@
     "SUPINC",
     "NEIREM",
     "ADVITIYA3",
-    "CHEFWARS"
+    "CHEFWARS",
+    "PIZZA_BURGER",
+    "RETURNCHANGE",
+    "BESTOFTENNIS",
+    "TOYS",
+    "POTATOES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4181,6 +4186,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 20:04:11"
+    },
+    {
+      "code": "PIZZA_BURGER",
+      "name": "Hungry Ashish",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 21:59:11"
+    },
+    {
+      "code": "RETURNCHANGE",
+      "name": "Return the Change",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:01:21"
+    },
+    {
+      "code": "BESTOFTENNIS",
+      "name": "Best of N Sets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:03:43"
+    },
+    {
+      "code": "TOYS",
+      "name": "Playing with Toys",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:04:55"
+    },
+    {
+      "code": "POTATOES",
+      "name": "Farmer Feb",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:06:55"
     }
   ]
 }
