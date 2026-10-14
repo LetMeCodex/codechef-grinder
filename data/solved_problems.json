@@ -1,5 +1,5 @@
 {
-  "total_solved": 528,
+  "total_solved": 532,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -528,7 +528,11 @@
     "TOYS",
     "POTATOES",
     "DICEGAME3",
-    "SELLCOIN"
+    "SELLCOIN",
+    "MDGT",
+    "CHFPROFIT",
+    "ALTSTR",
+    "CHOCCUT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4237,6 +4241,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-14 09:46:49"
+    },
+    {
+      "code": "MDGT",
+      "name": "Lost in the Fest!!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:12:55"
+    },
+    {
+      "code": "CHFPROFIT",
+      "name": "Chef and Profits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:14:28"
+    },
+    {
+      "code": "ALTSTR",
+      "name": "Alternating String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:16:44"
+    },
+    {
+      "code": "CHOCCUT",
+      "name": "Chocolate Cutting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:18:23"
     }
   ]
 }
