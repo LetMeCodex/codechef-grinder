@@ -1,5 +1,5 @@
 {
-  "total_solved": 526,
+  "total_solved": 528,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -526,7 +526,9 @@
     "RETURNCHANGE",
     "BESTOFTENNIS",
     "TOYS",
-    "POTATOES"
+    "POTATOES",
+    "DICEGAME3",
+    "SELLCOIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4221,6 +4223,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 22:06:55"
+    },
+    {
+      "code": "DICEGAME3",
+      "name": "Dice Game 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:44:30"
+    },
+    {
+      "code": "SELLCOIN",
+      "name": "Selling Coins",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-14 09:46:49"
     }
   ]
 }
