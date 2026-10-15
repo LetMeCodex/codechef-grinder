@@ -1,5 +1,5 @@
 {
-  "total_solved": 539,
+  "total_solved": 542,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -539,7 +539,10 @@
     "MASKPOL",
     "MXSCWN",
     "NO25PLS",
-    "TEA"
+    "TEA",
+    "COUNTP",
+    "OJUMPS",
+    "SANDWICH7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4325,6 +4328,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 14:05:43"
+    },
+    {
+      "code": "COUNTP",
+      "name": "Counting Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:54:58"
+    },
+    {
+      "code": "OJUMPS",
+      "name": "Chef-jumping",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:56:53"
+    },
+    {
+      "code": "SANDWICH7",
+      "name": "Sandwiches",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:58:12"
     }
   ]
 }
