@@ -1,5 +1,5 @@
 {
-  "total_solved": 537,
+  "total_solved": 539,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -537,7 +537,9 @@
     "CARDSWIPE",
     "BBWIN",
     "MASKPOL",
-    "MXSCWN"
+    "MXSCWN",
+    "NO25PLS",
+    "TEA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4309,6 +4311,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 09:30:12"
+    },
+    {
+      "code": "NO25PLS",
+      "name": "Imperfect Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:03:30"
+    },
+    {
+      "code": "TEA",
+      "name": "Chef Drinks Tea",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:05:43"
     }
   ]
 }
