@@ -1,5 +1,5 @@
 {
-  "total_solved": 534,
+  "total_solved": 537,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -534,7 +534,10 @@
     "ALTSTR",
     "CHOCCUT",
     "FRUITCHAAT",
-    "CARDSWIPE"
+    "CARDSWIPE",
+    "BBWIN",
+    "MASKPOL",
+    "MXSCWN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4285,6 +4288,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 21:01:32"
+    },
+    {
+      "code": "BBWIN",
+      "name": "Extreme Basketball",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:26:00"
+    },
+    {
+      "code": "MASKPOL",
+      "name": "Mask Policy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:07"
+    },
+    {
+      "code": "MXSCWN",
+      "name": "Maximum Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:30:12"
     }
   ]
 }
