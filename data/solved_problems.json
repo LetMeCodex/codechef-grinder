@@ -1,5 +1,5 @@
 {
-  "total_solved": 542,
+  "total_solved": 547,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -542,7 +542,12 @@
     "TEA",
     "COUNTP",
     "OJUMPS",
-    "SANDWICH7"
+    "SANDWICH7",
+    "FKMC",
+    "BOWLBALL",
+    "GROUPS",
+    "MAXCOUNT",
+    "STRP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4349,6 +4354,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 17:58:12"
+    },
+    {
+      "code": "FKMC",
+      "name": "Fake Certificate",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:34:27"
+    },
+    {
+      "code": "BOWLBALL",
+      "name": "Bowling Balls",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:35:30"
+    },
+    {
+      "code": "GROUPS",
+      "name": "Chef and Groups",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:37:05"
+    },
+    {
+      "code": "MAXCOUNT",
+      "name": "Count of Maximum",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-15 20:40:10"
+    },
+    {
+      "code": "STRP",
+      "name": "String protocol",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:41:44"
     }
   ]
 }
