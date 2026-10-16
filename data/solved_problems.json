@@ -1,5 +1,5 @@
 {
-  "total_solved": 556,
+  "total_solved": 560,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -556,7 +556,11 @@
     "ICE_CREAM",
     "STICKCOMP",
     "CHRBUY",
-    "CHEFBARBER"
+    "CHEFBARBER",
+    "ABSTRING",
+    "EVENPSUM",
+    "GMGM",
+    "PLAYPIAN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -571,7 +575,8 @@
     "INPL",
     "CHEFBAKES77",
     "STREAK",
-    "SRTARR"
+    "SRTARR",
+    "ASM120"
   ],
   "history": [
     {
@@ -4462,6 +4467,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 13:58:12"
+    },
+    {
+      "code": "ABSTRING",
+      "name": "String Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 17:43:44"
+    },
+    {
+      "code": "EVENPSUM",
+      "name": "Even Pair Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 17:45:20"
+    },
+    {
+      "code": "GMGM",
+      "name": "Gun Master",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 17:47:06"
+    },
+    {
+      "code": "PLAYPIAN",
+      "name": "Play Piano",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 17:53:10"
     }
   ]
 }
