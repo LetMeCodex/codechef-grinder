@@ -1,5 +1,5 @@
 {
-  "total_solved": 551,
+  "total_solved": 556,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -551,7 +551,12 @@
     "CHEFARRP",
     "CANDYTYPE",
     "PERMUT2",
-    "FAIRSHARE"
+    "FAIRSHARE",
+    "INCREAR",
+    "ICE_CREAM",
+    "STICKCOMP",
+    "CHRBUY",
+    "CHEFBARBER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4422,6 +4427,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 09:27:18"
+    },
+    {
+      "code": "INCREAR",
+      "name": "Equal Integers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 13:50:26"
+    },
+    {
+      "code": "ICE_CREAM",
+      "name": "ICE CREAM",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 13:52:07"
+    },
+    {
+      "code": "STICKCOMP",
+      "name": "Brick Comparisions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 13:54:17"
+    },
+    {
+      "code": "CHRBUY",
+      "name": "Buying Chairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 13:56:12"
+    },
+    {
+      "code": "CHEFBARBER",
+      "name": "Chef and the Hair Salon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 13:58:12"
     }
   ]
 }
