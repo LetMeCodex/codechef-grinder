@@ -1,5 +1,5 @@
 {
-  "total_solved": 547,
+  "total_solved": 551,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -547,7 +547,11 @@
     "BOWLBALL",
     "GROUPS",
     "MAXCOUNT",
-    "STRP"
+    "STRP",
+    "CHEFARRP",
+    "CANDYTYPE",
+    "PERMUT2",
+    "FAIRSHARE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -561,7 +565,8 @@
     "QNOT",
     "INPL",
     "CHEFBAKES77",
-    "STREAK"
+    "STREAK",
+    "SRTARR"
   ],
   "history": [
     {
@@ -4389,6 +4394,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 20:41:44"
+    },
+    {
+      "code": "CHEFARRP",
+      "name": "Chef and Subarrays",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:18:08"
+    },
+    {
+      "code": "CANDYTYPE",
+      "name": "Candy Types",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:20:00"
+    },
+    {
+      "code": "PERMUT2",
+      "name": "Ambiguous Permutations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:22:13"
+    },
+    {
+      "code": "FAIRSHARE",
+      "name": "Fair Share Settlement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:27:18"
     }
   ]
 }
