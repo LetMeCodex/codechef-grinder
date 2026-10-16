@@ -1,5 +1,5 @@
 {
-  "total_solved": 560,
+  "total_solved": 564,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -560,7 +560,11 @@
     "ABSTRING",
     "EVENPSUM",
     "GMGM",
-    "PLAYPIAN"
+    "PLAYPIAN",
+    "MARARUN",
+    "FODCHAIN",
+    "MELTGOLD",
+    "SPCP4"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4495,6 +4499,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-16 17:53:10"
+    },
+    {
+      "code": "MARARUN",
+      "name": "Marathon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:07:27"
+    },
+    {
+      "code": "FODCHAIN",
+      "name": "Food Chain",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:08:38"
+    },
+    {
+      "code": "MELTGOLD",
+      "name": "Melt Gold",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:10:47"
+    },
+    {
+      "code": "SPCP4",
+      "name": " Am I Lucky!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:12:11"
     }
   ]
 }
