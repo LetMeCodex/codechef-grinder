@@ -1,5 +1,5 @@
 {
-  "total_solved": 564,
+  "total_solved": 566,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -564,7 +564,9 @@
     "MARARUN",
     "FODCHAIN",
     "MELTGOLD",
-    "SPCP4"
+    "SPCP4",
+    "SALE2",
+    "SUBCOST7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4527,6 +4529,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 20:12:11"
+    },
+    {
+      "code": "SALE2",
+      "name": "Buy 2 Get 1 Free",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:48:40"
+    },
+    {
+      "code": "SUBCOST7",
+      "name": "Subscription Cost",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:50:23"
     }
   ]
 }
