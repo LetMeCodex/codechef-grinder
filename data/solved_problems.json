@@ -1,5 +1,5 @@
 {
-  "total_solved": 566,
+  "total_solved": 568,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -566,7 +566,9 @@
     "MELTGOLD",
     "SPCP4",
     "SALE2",
-    "SUBCOST7"
+    "SUBCOST7",
+    "SSCRIPT",
+    "APPENDOR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4543,6 +4545,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 08:50:23"
+    },
+    {
+      "code": "SSCRIPT",
+      "name": "Strong Language",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:47:29"
+    },
+    {
+      "code": "APPENDOR",
+      "name": "Append for OR",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:49:30"
     }
   ]
 }
