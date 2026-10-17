@@ -1,5 +1,5 @@
 {
-  "total_solved": 568,
+  "total_solved": 573,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -568,7 +568,12 @@
     "SALE2",
     "SUBCOST7",
     "SSCRIPT",
-    "APPENDOR"
+    "APPENDOR",
+    "ADD1234",
+    "STONES",
+    "PGNATK",
+    "ORANGES",
+    "ECOCLASS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4559,6 +4564,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 12:49:30"
+    },
+    {
+      "code": "ADD1234",
+      "name": "Adding 123 to 4",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:40:48"
+    },
+    {
+      "code": "STONES",
+      "name": "Jewels and Stones",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-17 16:43:30"
+    },
+    {
+      "code": "PGNATK",
+      "name": "Pigeon Attack",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:46:20"
+    },
+    {
+      "code": "ORANGES",
+      "name": "Too Many Oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:48:05"
+    },
+    {
+      "code": "ECOCLASS",
+      "name": "Economics Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:50:10"
     }
   ]
 }
