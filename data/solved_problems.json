@@ -1,5 +1,5 @@
 {
-  "total_solved": 582,
+  "total_solved": 586,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -582,7 +582,11 @@
     "QUALPREL",
     "CCOOK",
     "CS2023_GYM",
-    "CHNGIT"
+    "CHNGIT",
+    "AIRM",
+    "CHKEV",
+    "CLEANUP",
+    "FIFTYPE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4671,6 +4675,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 09:11:41"
+    },
+    {
+      "code": "AIRM",
+      "name": "Airport Management",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:06:06"
+    },
+    {
+      "code": "CHKEV",
+      "name": "Check Even",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:07:25"
+    },
+    {
+      "code": "CLEANUP",
+      "name": "Cleaning Up",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:09:28"
+    },
+    {
+      "code": "FIFTYPE",
+      "name": "Chef and Battery ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:12:01"
     }
   ]
 }
