@@ -1,5 +1,5 @@
 {
-  "total_solved": 586,
+  "total_solved": 590,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -586,7 +586,11 @@
     "AIRM",
     "CHKEV",
     "CLEANUP",
-    "FIFTYPE"
+    "FIFTYPE",
+    "CALINTAKE",
+    "MOOCHEF",
+    "CHFICRM",
+    "FARAWAY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4703,6 +4707,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 13:12:01"
+    },
+    {
+      "code": "CALINTAKE",
+      "name": "Calorie Intake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:58:15"
+    },
+    {
+      "code": "MOOCHEF",
+      "name": "Moody Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 17:00:19"
+    },
+    {
+      "code": "CHFICRM",
+      "name": "Chef and Icecream",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 17:01:55"
+    },
+    {
+      "code": "FARAWAY",
+      "name": "Far Away",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 17:04:09"
     }
   ]
 }
