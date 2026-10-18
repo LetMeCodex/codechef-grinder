@@ -1,5 +1,5 @@
 {
-  "total_solved": 578,
+  "total_solved": 582,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -578,7 +578,11 @@
     "MOVIE7",
     "MAGICHF",
     "CHOCDISTRIB",
-    "TRAVELPS"
+    "TRAVELPS",
+    "QUALPREL",
+    "CCOOK",
+    "CS2023_GYM",
+    "CHNGIT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4639,6 +4643,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 19:49:41"
+    },
+    {
+      "code": "QUALPREL",
+      "name": "Qualifying to Pre-Elimination",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:05:21"
+    },
+    {
+      "code": "CCOOK",
+      "name": "Chef and Cook-Off",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:07:30"
+    },
+    {
+      "code": "CS2023_GYM",
+      "name": "Gymkhana Election IIIT-A",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:10:09"
+    },
+    {
+      "code": "CHNGIT",
+      "name": "Change It",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:11:41"
     }
   ]
 }
