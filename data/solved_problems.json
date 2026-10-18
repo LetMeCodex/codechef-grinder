@@ -1,5 +1,5 @@
 {
-  "total_solved": 590,
+  "total_solved": 594,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -590,7 +590,11 @@
     "CALINTAKE",
     "MOOCHEF",
     "CHFICRM",
-    "FARAWAY"
+    "FARAWAY",
+    "TWOROLL",
+    "PHONEYR",
+    "STICKS",
+    "TREE2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -606,7 +610,8 @@
     "CHEFBAKES77",
     "STREAK",
     "SRTARR",
-    "ASM120"
+    "ASM120",
+    "CHEFSTUD"
   ],
   "history": [
     {
@@ -4735,6 +4740,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 17:04:09"
+    },
+    {
+      "code": "TWOROLL",
+      "name": "Two Rolls",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:42:55"
+    },
+    {
+      "code": "PHONEYR",
+      "name": "Yearly Phone",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:44:36"
+    },
+    {
+      "code": "STICKS",
+      "name": "Sticks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:45:56"
+    },
+    {
+      "code": "TREE2",
+      "name": "A Problem on Sticks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:50:12"
     }
   ]
 }
