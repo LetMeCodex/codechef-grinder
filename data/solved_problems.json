@@ -1,5 +1,5 @@
 {
-  "total_solved": 599,
+  "total_solved": 602,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -599,7 +599,10 @@
     "DARLIG",
     "TOURIST",
     "INDIVISIBLE",
-    "PAINTCHRIS"
+    "PAINTCHRIS",
+    "CHEFVACATION",
+    "NEWPIECE",
+    "EQUALCOIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4808,6 +4811,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 16:22:46"
+    },
+    {
+      "code": "CHEFVACATION",
+      "name": "Chef on Vacation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:30:40"
+    },
+    {
+      "code": "NEWPIECE",
+      "name": "New Piece",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:33:00"
+    },
+    {
+      "code": "EQUALCOIN",
+      "name": "Equal Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:36:13"
     }
   ]
 }
