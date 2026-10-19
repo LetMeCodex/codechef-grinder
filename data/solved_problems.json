@@ -1,5 +1,5 @@
 {
-  "total_solved": 594,
+  "total_solved": 596,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -594,7 +594,9 @@
     "TWOROLL",
     "PHONEYR",
     "STICKS",
-    "TREE2"
+    "TREE2",
+    "EXISTENCE",
+    "DARLIG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4768,6 +4770,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 19:50:12"
+    },
+    {
+      "code": "EXISTENCE",
+      "name": "Existence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:18:12"
+    },
+    {
+      "code": "DARLIG",
+      "name": "Dark Light",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:20:51"
     }
   ]
 }
