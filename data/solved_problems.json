@@ -1,5 +1,5 @@
 {
-  "total_solved": 602,
+  "total_solved": 606,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -602,7 +602,11 @@
     "PAINTCHRIS",
     "CHEFVACATION",
     "NEWPIECE",
-    "EQUALCOIN"
+    "EQUALCOIN",
+    "SEQCLAMP",
+    "EVENODDDIV",
+    "BSCOST",
+    "PASSEXAMS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4832,6 +4836,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 19:36:13"
+    },
+    {
+      "code": "SEQCLAMP",
+      "name": "Sequential Clamp",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:46:24"
+    },
+    {
+      "code": "EVENODDDIV",
+      "name": "Even vs Odd Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:48:14"
+    },
+    {
+      "code": "BSCOST",
+      "name": "Binary String Cost",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:50:32"
+    },
+    {
+      "code": "PASSEXAMS",
+      "name": "Passing Exams",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:52:30"
     }
   ]
 }
