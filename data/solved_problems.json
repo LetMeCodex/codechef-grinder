@@ -1,5 +1,5 @@
 {
-  "total_solved": 606,
+  "total_solved": 608,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -606,7 +606,9 @@
     "SEQCLAMP",
     "EVENODDDIV",
     "BSCOST",
-    "PASSEXAMS"
+    "PASSEXAMS",
+    "TWORANGES",
+    "BOLT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4864,6 +4866,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 21:52:30"
+    },
+    {
+      "code": "TWORANGES",
+      "name": "Two Ranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:38:18"
+    },
+    {
+      "code": "BOLT",
+      "name": "World Record",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:40:28"
     }
   ]
 }
