@@ -1,5 +1,5 @@
 {
-  "total_solved": 612,
+  "total_solved": 614,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -612,7 +612,9 @@
     "POSSROLL",
     "PROBDIFF",
     "PROFIT",
-    "CHFCLASS"
+    "CHFCLASS",
+    "MORNINGRUN",
+    "ENDSORTED"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4912,6 +4914,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 14:17:28"
+    },
+    {
+      "code": "MORNINGRUN",
+      "name": "Morning Run",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:08:08"
+    },
+    {
+      "code": "ENDSORTED",
+      "name": "End Sorted",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:10:21"
     }
   ]
 }
