@@ -1,5 +1,5 @@
 {
-  "total_solved": 608,
+  "total_solved": 612,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -608,7 +608,11 @@
     "BSCOST",
     "PASSEXAMS",
     "TWORANGES",
-    "BOLT"
+    "BOLT",
+    "POSSROLL",
+    "PROBDIFF",
+    "PROFIT",
+    "CHFCLASS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4880,6 +4884,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 09:40:28"
+    },
+    {
+      "code": "POSSROLL",
+      "name": "Possible Roll",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:11:59"
+    },
+    {
+      "code": "PROBDIFF",
+      "name": "Problem Difficulties",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:13:38"
+    },
+    {
+      "code": "PROFIT",
+      "name": "Profits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:16:03"
+    },
+    {
+      "code": "CHFCLASS",
+      "name": "Akash and Missing Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:17:28"
     }
   ]
 }
