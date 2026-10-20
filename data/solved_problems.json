@@ -1,5 +1,5 @@
 {
-  "total_solved": 614,
+  "total_solved": 618,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -614,7 +614,11 @@
     "PROFIT",
     "CHFCLASS",
     "MORNINGRUN",
-    "ENDSORTED"
+    "ENDSORTED",
+    "PR0BLEM",
+    "MIXINGLIQ",
+    "DIVTHREE",
+    "PIZZAC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4928,6 +4932,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 18:10:21"
+    },
+    {
+      "code": "PR0BLEM",
+      "name": "Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:55:51"
+    },
+    {
+      "code": "MIXINGLIQ",
+      "name": "Mixing Liquids",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:57:32"
+    },
+    {
+      "code": "DIVTHREE",
+      "name": "Chef and Division 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:59:39"
+    },
+    {
+      "code": "PIZZAC",
+      "name": "Pizza Cutting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:01:36"
     }
   ]
 }
