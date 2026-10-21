@@ -1,5 +1,5 @@
 {
-  "total_solved": 622,
+  "total_solved": 625,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -622,7 +622,10 @@
     "BOOKPACK",
     "CRDGAME3",
     "PENALTY",
-    "INSTDUM"
+    "INSTDUM",
+    "XYZ343",
+    "NOWINNER",
+    "ADD12GAME"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4992,6 +4995,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-21 09:44:10"
+    },
+    {
+      "code": "XYZ343",
+      "name": "Savings Account",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 14:24:32"
+    },
+    {
+      "code": "NOWINNER",
+      "name": "No Winner",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 14:26:11"
+    },
+    {
+      "code": "ADD12GAME",
+      "name": "Add 1 or 2 Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 14:29:21"
     }
   ]
 }
