@@ -1,5 +1,5 @@
 {
-  "total_solved": 625,
+  "total_solved": 628,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -625,7 +625,10 @@
     "INSTDUM",
     "XYZ343",
     "NOWINNER",
-    "ADD12GAME"
+    "ADD12GAME",
+    "P2209",
+    "XLSL",
+    "WHOMAKESP1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -642,7 +645,8 @@
     "STREAK",
     "SRTARR",
     "ASM120",
-    "CHEFSTUD"
+    "CHEFSTUD",
+    "SHUFFLIN"
   ],
   "history": [
     {
@@ -5016,6 +5020,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-21 14:29:21"
+    },
+    {
+      "code": "P2209",
+      "name": "Divisible Duel",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 09:41:51"
+    },
+    {
+      "code": "XLSL",
+      "name": "Clothing Store",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 09:47:07"
+    },
+    {
+      "code": "WHOMAKESP1",
+      "name": "Who Makes P1",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 09:54:45"
     }
   ]
 }
