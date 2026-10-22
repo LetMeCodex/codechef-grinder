@@ -1,5 +1,5 @@
 {
-  "total_solved": 628,
+  "total_solved": 630,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -628,7 +628,9 @@
     "ADD12GAME",
     "P2209",
     "XLSL",
-    "WHOMAKESP1"
+    "WHOMAKESP1",
+    "LAYERCAKE",
+    "JOINING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5041,6 +5043,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-22 09:54:45"
+    },
+    {
+      "code": "LAYERCAKE",
+      "name": "Layered Cake",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:27:45"
+    },
+    {
+      "code": "JOINING",
+      "name": "Joining Date",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:32:10"
     }
   ]
 }
