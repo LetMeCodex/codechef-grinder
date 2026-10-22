@@ -1,5 +1,5 @@
 {
-  "total_solved": 630,
+  "total_solved": 634,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -630,7 +630,11 @@
     "XLSL",
     "WHOMAKESP1",
     "LAYERCAKE",
-    "JOINING"
+    "JOINING",
+    "TWTCLOSE",
+    "BID",
+    "BUYLAMP",
+    "DECDISC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -648,7 +652,8 @@
     "SRTARR",
     "ASM120",
     "CHEFSTUD",
-    "SHUFFLIN"
+    "SHUFFLIN",
+    "GRIDBL"
   ],
   "history": [
     {
@@ -5057,6 +5062,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-22 14:32:10"
+    },
+    {
+      "code": "TWTCLOSE",
+      "name": "Closing the Tweets",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 18:13:21"
+    },
+    {
+      "code": "BID",
+      "name": "Pep Bidding",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 18:16:58"
+    },
+    {
+      "code": "BUYLAMP",
+      "name": "Buy Lamps",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 18:22:51"
+    },
+    {
+      "code": "DECDISC",
+      "name": "Decoration Discount",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 18:33:13"
     }
   ]
 }
