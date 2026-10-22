@@ -653,7 +653,9 @@
     "ASM120",
     "CHEFSTUD",
     "SHUFFLIN",
-    "GRIDBL"
+    "GRIDBL",
+    "MIRJMP",
+    "URCALC"
   ],
   "history": [
     {
