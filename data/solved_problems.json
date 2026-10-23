@@ -1,5 +1,5 @@
 {
-  "total_solved": 636,
+  "total_solved": 638,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -636,7 +636,9 @@
     "BUYLAMP",
     "DECDISC",
     "WFWIN",
-    "CRICRANK"
+    "CRICRANK",
+    "CHEFTRANS",
+    "QUEENATTACK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -657,7 +659,8 @@
     "SHUFFLIN",
     "GRIDBL",
     "MIRJMP",
-    "URCALC"
+    "URCALC",
+    "MANCODE"
   ],
   "history": [
     {
@@ -5108,6 +5111,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-23 09:39:11"
+    },
+    {
+      "code": "CHEFTRANS",
+      "name": "Chef and Vacation Transportation ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-23 14:14:08"
+    },
+    {
+      "code": "QUEENATTACK",
+      "name": "The Attack of Queen",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-23 14:15:35"
     }
   ]
 }
