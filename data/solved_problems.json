@@ -1,5 +1,5 @@
 {
-  "total_solved": 634,
+  "total_solved": 636,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -634,7 +634,9 @@
     "TWTCLOSE",
     "BID",
     "BUYLAMP",
-    "DECDISC"
+    "DECDISC",
+    "WFWIN",
+    "CRICRANK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5092,6 +5094,20 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-22 18:33:13"
+    },
+    {
+      "code": "WFWIN",
+      "name": "Winning World Finals",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-23 09:36:33"
+    },
+    {
+      "code": "CRICRANK",
+      "name": "Cricket Ranking",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-23 09:39:11"
     }
   ]
 }
