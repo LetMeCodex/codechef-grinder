@@ -1,5 +1,5 @@
 {
-  "total_solved": 646,
+  "total_solved": 648,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -646,7 +646,9 @@
     "CHEGLOVE",
     "ABNOMAT",
     "BADMINTON",
-    "S10E"
+    "S10E",
+    "CHEFZOT",
+    "SBTG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -669,7 +671,8 @@
     "MIRJMP",
     "URCALC",
     "MANCODE",
-    "BUYTICK"
+    "BUYTICK",
+    "LARGODDSTRIN"
   ],
   "history": [
     {
@@ -5190,6 +5193,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-24 09:12:14"
+    },
+    {
+      "code": "CHEFZOT",
+      "name": "Chef and Subarray",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-24 13:12:56"
+    },
+    {
+      "code": "SBTG",
+      "name": "Sabotage",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-24 13:14:45"
     }
   ]
 }
