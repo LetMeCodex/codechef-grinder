@@ -1,5 +1,5 @@
 {
-  "total_solved": 649,
+  "total_solved": 651,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -649,7 +649,9 @@
     "S10E",
     "CHEFZOT",
     "SBTG",
-    "MAKEMONEY"
+    "MAKEMONEY",
+    "FRUITS",
+    "PSEUDOSORT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -674,7 +676,8 @@
     "MANCODE",
     "BUYTICK",
     "LARGODDSTRIN",
-    "ATTENDU"
+    "ATTENDU",
+    "AGENTCHEF"
   ],
   "history": [
     {
@@ -5216,6 +5219,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-24 17:07:13"
+    },
+    {
+      "code": "FRUITS",
+      "name": "Chef and Fruits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-24 19:51:39"
+    },
+    {
+      "code": "PSEUDOSORT",
+      "name": "Pseudo Sorted Array",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-24 19:54:56"
     }
   ]
 }
