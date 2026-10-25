@@ -1,5 +1,5 @@
 {
-  "total_solved": 657,
+  "total_solved": 662,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -657,7 +657,12 @@
     "QBGI",
     "BUSROW",
     "DICENUM",
-    "MAYOR_PARTY"
+    "MAYOR_PARTY",
+    "BOTTOM",
+    "MAXADJSUM",
+    "REACHWT",
+    "CHEAPFUEL",
+    "CHEFCONTEST"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5281,6 +5286,41 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-25 13:43:08"
+    },
+    {
+      "code": "BOTTOM",
+      "name": "Guess the bottom face",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 17:14:55"
+    },
+    {
+      "code": "MAXADJSUM",
+      "name": "Maximise Adjacent Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 17:18:12"
+    },
+    {
+      "code": "REACHWT",
+      "name": "Reach Weight",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 17:19:33"
+    },
+    {
+      "code": "CHEAPFUEL",
+      "name": "Which Fuel is Cheaper",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 17:21:19"
+    },
+    {
+      "code": "CHEFCONTEST",
+      "name": "Chef and Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 17:22:27"
     }
   ]
 }
