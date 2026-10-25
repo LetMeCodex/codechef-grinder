@@ -1,5 +1,5 @@
 {
-  "total_solved": 651,
+  "total_solved": 654,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -651,7 +651,10 @@
     "SBTG",
     "MAKEMONEY",
     "FRUITS",
-    "PSEUDOSORT"
+    "PSEUDOSORT",
+    "CHEFSTEP",
+    "BURGERS2",
+    "QBGI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5233,6 +5236,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-24 19:54:56"
+    },
+    {
+      "code": "CHEFSTEP",
+      "name": "Chef and Steps",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-25 09:25:20"
+    },
+    {
+      "code": "BURGERS2",
+      "name": "Hungry Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 09:27:15"
+    },
+    {
+      "code": "QBGI",
+      "name": "Bar Queue",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-25 09:30:50"
     }
   ]
 }
