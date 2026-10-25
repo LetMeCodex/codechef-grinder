@@ -1,5 +1,5 @@
 {
-  "total_solved": 662,
+  "total_solved": 665,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -662,7 +662,10 @@
     "MAXADJSUM",
     "REACHWT",
     "CHEAPFUEL",
-    "CHEFCONTEST"
+    "CHEFCONTEST",
+    "CARSELL",
+    "P2BAR",
+    "AABBCCDD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5321,6 +5324,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-25 17:22:27"
+    },
+    {
+      "code": "CARSELL",
+      "name": "Sell All the Cars",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-25 20:04:52"
+    },
+    {
+      "code": "P2BAR",
+      "name": "Signal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 20:05:59"
+    },
+    {
+      "code": "AABBCCDD",
+      "name": "AabBcCDd",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-25 20:10:19"
     }
   ]
 }
