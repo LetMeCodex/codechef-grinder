@@ -1,5 +1,5 @@
 {
-  "total_solved": 654,
+  "total_solved": 657,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -654,7 +654,10 @@
     "PSEUDOSORT",
     "CHEFSTEP",
     "BURGERS2",
-    "QBGI"
+    "QBGI",
+    "BUSROW",
+    "DICENUM",
+    "MAYOR_PARTY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5257,6 +5260,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-25 09:30:50"
+    },
+    {
+      "code": "BUSROW",
+      "name": "Bus Rows",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 13:38:18"
+    },
+    {
+      "code": "DICENUM",
+      "name": "Dice Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 13:39:39"
+    },
+    {
+      "code": "MAYOR_PARTY",
+      "name": "Peaceful Party",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-25 13:43:08"
     }
   ]
 }
