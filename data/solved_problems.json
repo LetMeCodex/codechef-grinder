@@ -1,5 +1,5 @@
 {
-  "total_solved": 665,
+  "total_solved": 669,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -665,7 +665,11 @@
     "CHEFCONTEST",
     "CARSELL",
     "P2BAR",
-    "AABBCCDD"
+    "AABBCCDD",
+    "STRONGTABLE",
+    "SHARING",
+    "ODDSEVENS",
+    "COVIDLQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5345,6 +5349,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-25 20:10:19"
+    },
+    {
+      "code": "STRONGTABLE",
+      "name": "Table Strength",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 10:31:50"
+    },
+    {
+      "code": "SHARING",
+      "name": "Sharing Cookies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 10:33:21"
+    },
+    {
+      "code": "ODDSEVENS",
+      "name": "Odds and Evens",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 10:35:07"
+    },
+    {
+      "code": "COVIDLQ",
+      "name": "COVID Pandemic and Long Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 10:36:42"
     }
   ]
 }
