@@ -1,5 +1,5 @@
 {
-  "total_solved": 671,
+  "total_solved": 673,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -671,7 +671,9 @@
     "ODDSEVENS",
     "COVIDLQ",
     "DIGSMPAR",
-    "KOL15A"
+    "KOL15A",
+    "CNTODDEVEN",
+    "AMMEAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5393,6 +5395,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-26 16:05:52"
+    },
+    {
+      "code": "CNTODDEVEN",
+      "name": "Count Odd Even Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 19:36:53"
+    },
+    {
+      "code": "AMMEAT",
+      "name": "Andrew and the Meatballs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 19:38:45"
     }
   ]
 }
