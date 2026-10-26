@@ -1,5 +1,5 @@
 {
-  "total_solved": 669,
+  "total_solved": 671,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -669,7 +669,9 @@
     "STRONGTABLE",
     "SHARING",
     "ODDSEVENS",
-    "COVIDLQ"
+    "COVIDLQ",
+    "DIGSMPAR",
+    "KOL15A"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5377,6 +5379,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-26 10:36:42"
+    },
+    {
+      "code": "DIGSMPAR",
+      "name": "Digit Sum Parities",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 15:59:27"
+    },
+    {
+      "code": "KOL15A",
+      "name": "Processing a string",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-26 16:05:52"
     }
   ]
 }
