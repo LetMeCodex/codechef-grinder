@@ -1,5 +1,5 @@
 {
-  "total_solved": 673,
+  "total_solved": 677,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -673,7 +673,11 @@
     "DIGSMPAR",
     "KOL15A",
     "CNTODDEVEN",
-    "AMMEAT"
+    "AMMEAT",
+    "THREEFR",
+    "THREEBOX",
+    "BOP3",
+    "TEKKEN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5409,6 +5413,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-26 19:38:45"
+    },
+    {
+      "code": "THREEFR",
+      "name": "Three Friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 21:56:31"
+    },
+    {
+      "code": "THREEBOX",
+      "name": "Three Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 21:58:30"
+    },
+    {
+      "code": "BOP3",
+      "name": "Min And Operations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 22:00:53"
+    },
+    {
+      "code": "TEKKEN",
+      "name": "Tekken",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-26 22:04:06"
     }
   ]
 }
