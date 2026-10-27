@@ -1,5 +1,5 @@
 {
-  "total_solved": 687,
+  "total_solved": 691,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -687,7 +687,11 @@
     "CHFINTRO",
     "CABRIDE",
     "FAIRELCT",
-    "SALARY"
+    "SALARY",
+    "WHICHDIV",
+    "CODETOWN",
+    "MAXSLAM",
+    "SUNNYDAY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5521,6 +5525,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-27 19:16:11"
+    },
+    {
+      "code": "WHICHDIV",
+      "name": "Which Division",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 21:30:27"
+    },
+    {
+      "code": "CODETOWN",
+      "name": "Reach Codetown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 21:32:33"
+    },
+    {
+      "code": "MAXSLAM",
+      "name": "Maximum Slams",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 21:34:28"
+    },
+    {
+      "code": "SUNNYDAY",
+      "name": "Sunny Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 21:36:02"
     }
   ]
 }
