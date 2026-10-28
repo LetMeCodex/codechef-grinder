@@ -1,5 +1,5 @@
 {
-  "total_solved": 691,
+  "total_solved": 694,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -691,7 +691,10 @@
     "WHICHDIV",
     "CODETOWN",
     "MAXSLAM",
-    "SUNNYDAY"
+    "SUNNYDAY",
+    "TENPACKETS",
+    "BUSSEAT",
+    "LKDNGOLF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5553,6 +5556,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-27 21:36:02"
+    },
+    {
+      "code": "TENPACKETS",
+      "name": "Buy Ten Packets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 10:49:55"
+    },
+    {
+      "code": "BUSSEAT",
+      "name": "Bus Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 10:52:05"
+    },
+    {
+      "code": "LKDNGOLF",
+      "name": "Golf",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 10:54:01"
     }
   ]
 }
