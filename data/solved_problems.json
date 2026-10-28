@@ -1,5 +1,5 @@
 {
-  "total_solved": 698,
+  "total_solved": 703,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -698,7 +698,12 @@
     "UNQSHF",
     "SPC2025",
     "ADASCOOL",
-    "BRLADDER"
+    "BRLADDER",
+    "MRSWAP",
+    "CHANGEONE7",
+    "DBDISC",
+    "EID",
+    "HCAGMAM1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5609,6 +5614,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-28 15:56:57"
+    },
+    {
+      "code": "MRSWAP",
+      "name": "Mirror Swap",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 19:09:22"
+    },
+    {
+      "code": "CHANGEONE7",
+      "name": "Change One",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 19:11:00"
+    },
+    {
+      "code": "DBDISC",
+      "name": "Double Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 19:13:36"
+    },
+    {
+      "code": "EID",
+      "name": "Chef and Eid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 19:15:28"
+    },
+    {
+      "code": "HCAGMAM1",
+      "name": "Chef And Salary Pay",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-28 19:18:42"
     }
   ]
 }
