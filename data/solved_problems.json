@@ -1,5 +1,5 @@
 {
-  "total_solved": 694,
+  "total_solved": 698,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -694,7 +694,11 @@
     "SUNNYDAY",
     "TENPACKETS",
     "BUSSEAT",
-    "LKDNGOLF"
+    "LKDNGOLF",
+    "UNQSHF",
+    "SPC2025",
+    "ADASCOOL",
+    "BRLADDER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5577,6 +5581,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-28 10:54:01"
+    },
+    {
+      "code": "UNQSHF",
+      "name": "Unequal Shuffle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 15:49:24"
+    },
+    {
+      "code": "SPC2025",
+      "name": "New-Pro Coder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 15:51:35"
+    },
+    {
+      "code": "ADASCOOL",
+      "name": "Ada School",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-28 15:53:26"
+    },
+    {
+      "code": "BRLADDER",
+      "name": "Bear and Ladder",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-28 15:56:57"
     }
   ]
 }
