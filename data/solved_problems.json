@@ -1,5 +1,5 @@
 {
-  "total_solved": 717,
+  "total_solved": 719,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -717,7 +717,9 @@
     "ARYAGRID",
     "ANUUND",
     "CCHEAVEN",
-    "CHOCEAT"
+    "CHOCEAT",
+    "FLOWERBUY",
+    "CHOCOCHEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -743,7 +745,8 @@
     "BUYTICK",
     "LARGODDSTRIN",
     "ATTENDU",
-    "AGENTCHEF"
+    "AGENTCHEF",
+    "EXPSTP"
   ],
   "history": [
     {
@@ -5761,6 +5764,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-29 19:25:45"
+    },
+    {
+      "code": "FLOWERBUY",
+      "name": "Buying Flowers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 22:02:31"
+    },
+    {
+      "code": "CHOCOCHEF",
+      "name": "Chocolate Distribution",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-29 22:09:30"
     }
   ]
 }
