@@ -1,5 +1,5 @@
 {
-  "total_solved": 709,
+  "total_solved": 713,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -709,7 +709,11 @@
     "GOODSUB7",
     "SEATING7",
     "EQSUM",
-    "DRAWCH"
+    "DRAWCH",
+    "GROUPASSGN",
+    "BLNDOR",
+    "SAMESAME",
+    "TYPWRL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5697,6 +5701,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-29 11:10:23"
+    },
+    {
+      "code": "GROUPASSGN",
+      "name": "Group Assignment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 15:57:10"
+    },
+    {
+      "code": "BLNDOR",
+      "name": "Ballon d Or",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 15:59:00"
+    },
+    {
+      "code": "SAMESAME",
+      "name": "Nearly Equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 16:00:56"
+    },
+    {
+      "code": "TYPWRL",
+      "name": "Typing World",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-29 16:04:31"
     }
   ]
 }
