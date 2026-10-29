@@ -1,5 +1,5 @@
 {
-  "total_solved": 713,
+  "total_solved": 717,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -713,7 +713,11 @@
     "GROUPASSGN",
     "BLNDOR",
     "SAMESAME",
-    "TYPWRL"
+    "TYPWRL",
+    "ARYAGRID",
+    "ANUUND",
+    "CCHEAVEN",
+    "CHOCEAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5729,6 +5733,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-29 16:04:31"
+    },
+    {
+      "code": "ARYAGRID",
+      "name": "Arya In Grid",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-29 19:18:48"
+    },
+    {
+      "code": "ANUUND",
+      "name": "Ups and Downs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 19:21:32"
+    },
+    {
+      "code": "CCHEAVEN",
+      "name": "Chef in Heaven ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 19:23:17"
+    },
+    {
+      "code": "CHOCEAT",
+      "name": "Chocolate Eating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-29 19:25:45"
     }
   ]
 }
