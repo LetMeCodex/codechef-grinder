@@ -1,5 +1,5 @@
 {
-  "total_solved": 724,
+  "total_solved": 727,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -724,7 +724,10 @@
     "GEMBUND",
     "SNAPE",
     "ADDPOS",
-    "MERRYXMAS"
+    "MERRYXMAS",
+    "FARFROMO",
+    "DONUTSELL",
+    "PERMUTATION"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5818,6 +5821,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-30 11:09:49"
+    },
+    {
+      "code": "FARFROMO",
+      "name": "Far from origin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 15:43:22"
+    },
+    {
+      "code": "DONUTSELL",
+      "name": "Selling Donuts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 15:45:12"
+    },
+    {
+      "code": "PERMUTATION",
+      "name": "Convert to permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 15:47:53"
     }
   ]
 }
