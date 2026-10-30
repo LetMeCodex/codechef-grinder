@@ -1,5 +1,5 @@
 {
-  "total_solved": 719,
+  "total_solved": 724,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -719,7 +719,12 @@
     "CCHEAVEN",
     "CHOCEAT",
     "FLOWERBUY",
-    "CHOCOCHEF"
+    "CHOCOCHEF",
+    "WRAPGIFTS",
+    "GEMBUND",
+    "SNAPE",
+    "ADDPOS",
+    "MERRYXMAS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5778,6 +5783,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-29 22:09:30"
+    },
+    {
+      "code": "WRAPGIFTS",
+      "name": "Christmas Gifts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 11:01:52"
+    },
+    {
+      "code": "GEMBUND",
+      "name": "Gem Bundles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 11:03:09"
+    },
+    {
+      "code": "SNAPE",
+      "name": "Snape and Ladder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 11:06:05"
+    },
+    {
+      "code": "ADDPOS",
+      "name": "Add to make Positive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 11:07:59"
+    },
+    {
+      "code": "MERRYXMAS",
+      "name": "Merry Christmas!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 11:09:49"
     }
   ]
 }
