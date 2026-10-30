@@ -1,5 +1,5 @@
 {
-  "total_solved": 727,
+  "total_solved": 731,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -727,7 +727,11 @@
     "MERRYXMAS",
     "FARFROMO",
     "DONUTSELL",
-    "PERMUTATION"
+    "PERMUTATION",
+    "SMARTER",
+    "SC31",
+    "VOTERS",
+    "MAXTRI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -754,7 +758,8 @@
     "LARGODDSTRIN",
     "ATTENDU",
     "AGENTCHEF",
-    "EXPSTP"
+    "EXPSTP",
+    "TRUTHLIE"
   ],
   "history": [
     {
@@ -5842,6 +5847,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-30 15:47:53"
+    },
+    {
+      "code": "SMARTER",
+      "name": "Work Smarter, Not Harder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 18:54:54"
+    },
+    {
+      "code": "SC31",
+      "name": "Weapon Value",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 18:56:56"
+    },
+    {
+      "code": "VOTERS",
+      "name": "Discrepancies in the Voters List",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-30 19:00:59"
+    },
+    {
+      "code": "MAXTRI",
+      "name": "Max Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-30 19:09:46"
     }
   ]
 }
