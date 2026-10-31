@@ -1,5 +1,5 @@
 {
-  "total_solved": 742,
+  "total_solved": 746,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -742,7 +742,11 @@
     "BALREV",
     "MAKESUB",
     "CHANGE_PLZ",
-    "ELEVSTRS"
+    "ELEVSTRS",
+    "COUPON2",
+    "EASYPERM",
+    "GYMDAY",
+    "MAXCAP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -771,7 +775,8 @@
     "AGENTCHEF",
     "EXPSTP",
     "TRUTHLIE",
-    "CHESSWIN"
+    "CHESSWIN",
+    "FOOTBALLTIES"
   ],
   "history": [
     {
@@ -5964,6 +5969,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-31 18:02:52"
+    },
+    {
+      "code": "COUPON2",
+      "name": "Chef and Coupon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 20:42:33"
+    },
+    {
+      "code": "EASYPERM",
+      "name": "Easy Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 20:48:03"
+    },
+    {
+      "code": "GYMDAY",
+      "name": "International Gym Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 20:49:41"
+    },
+    {
+      "code": "MAXCAP",
+      "name": "Maximum Capacity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 20:50:53"
     }
   ]
 }
