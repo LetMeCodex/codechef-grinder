@@ -1,5 +1,5 @@
 {
-  "total_solved": 732,
+  "total_solved": 737,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -732,7 +732,12 @@
     "SC31",
     "VOTERS",
     "MAXTRI",
-    "FIZZBUZZ23_2"
+    "FIZZBUZZ23_2",
+    "CFMM",
+    "PIZZAPARTY",
+    "CHESS_PAIR",
+    "ANADSW",
+    "TWODIFFPALIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5884,6 +5889,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-30 21:44:47"
+    },
+    {
+      "code": "CFMM",
+      "name": "Making a Meal",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-31 10:38:51"
+    },
+    {
+      "code": "PIZZAPARTY",
+      "name": "Pizza Party",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-31 10:41:11"
+    },
+    {
+      "code": "CHESS_PAIR",
+      "name": "Chess Pairing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 10:43:17"
+    },
+    {
+      "code": "ANADSW",
+      "name": "Anti Adjacent Swaps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 10:45:36"
+    },
+    {
+      "code": "TWODIFFPALIN",
+      "name": "Two Different Palindromes",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-31 10:51:17"
     }
   ]
 }
