@@ -1,5 +1,5 @@
 {
-  "total_solved": 737,
+  "total_solved": 740,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -737,7 +737,10 @@
     "PIZZAPARTY",
     "CHESS_PAIR",
     "ANADSW",
-    "TWODIFFPALIN"
+    "TWODIFFPALIN",
+    "GCEA",
+    "BALREV",
+    "MAKESUB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5924,6 +5927,27 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-31 10:51:17"
+    },
+    {
+      "code": "GCEA",
+      "name": "Gotta Catch Em All",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 15:12:06"
+    },
+    {
+      "code": "BALREV",
+      "name": "Balanced Reversals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 15:14:18"
+    },
+    {
+      "code": "MAKESUB",
+      "name": "Make Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-31 15:16:17"
     }
   ]
 }
