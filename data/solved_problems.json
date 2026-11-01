@@ -1,5 +1,5 @@
 {
-  "total_solved": 755,
+  "total_solved": 757,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -755,7 +755,9 @@
     "REPEAT",
     "EQCARDGAME",
     "YOGACLASS",
-    "NONADJFLIP"
+    "NONADJFLIP",
+    "CVDRUN",
+    "CHEFSLP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6069,6 +6071,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-01 18:45:43"
+    },
+    {
+      "code": "CVDRUN",
+      "name": "Covid Run",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 21:23:57"
+    },
+    {
+      "code": "CHEFSLP",
+      "name": "Chef and Pairing Slippers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 21:25:32"
     }
   ]
 }
