@@ -1,5 +1,5 @@
 {
-  "total_solved": 746,
+  "total_solved": 748,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -746,7 +746,9 @@
     "COUPON2",
     "EASYPERM",
     "GYMDAY",
-    "MAXCAP"
+    "MAXCAP",
+    "MAXSCORE7",
+    "AVGOF3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5997,6 +5999,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-31 20:50:53"
+    },
+    {
+      "code": "MAXSCORE7",
+      "name": "Maximum Score ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 11:31:15"
+    },
+    {
+      "code": "AVGOF3",
+      "name": "Average of Three",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 11:33:18"
     }
   ]
 }
