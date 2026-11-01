@@ -1,5 +1,5 @@
 {
-  "total_solved": 748,
+  "total_solved": 750,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -748,7 +748,9 @@
     "GYMDAY",
     "MAXCAP",
     "MAXSCORE7",
-    "AVGOF3"
+    "AVGOF3",
+    "VALIDMIN",
+    "BISHOPMV"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6013,6 +6015,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-01 11:33:18"
+    },
+    {
+      "code": "VALIDMIN",
+      "name": "Valid Minimum",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-01 15:56:27"
+    },
+    {
+      "code": "BISHOPMV",
+      "name": "Bishop Moves",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-01 16:00:00"
     }
   ]
 }
