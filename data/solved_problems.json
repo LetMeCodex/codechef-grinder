@@ -1,5 +1,5 @@
 {
-  "total_solved": 750,
+  "total_solved": 755,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -750,7 +750,12 @@
     "MAXSCORE7",
     "AVGOF3",
     "VALIDMIN",
-    "BISHOPMV"
+    "BISHOPMV",
+    "EVENHATE",
+    "REPEAT",
+    "EQCARDGAME",
+    "YOGACLASS",
+    "NONADJFLIP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6029,6 +6034,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-01 16:00:00"
+    },
+    {
+      "code": "EVENHATE",
+      "name": "Even Numbers Hate",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 18:37:41"
+    },
+    {
+      "code": "REPEAT",
+      "name": "Odd Repeat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 18:39:50"
+    },
+    {
+      "code": "EQCARDGAME",
+      "name": "Equal Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 18:42:02"
+    },
+    {
+      "code": "YOGACLASS",
+      "name": "Yoga Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 18:43:35"
+    },
+    {
+      "code": "NONADJFLIP",
+      "name": "Non Adjacent Flips",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-01 18:45:43"
     }
   ]
 }
