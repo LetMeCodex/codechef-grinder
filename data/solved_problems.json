@@ -1,5 +1,5 @@
 {
-  "total_solved": 757,
+  "total_solved": 761,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -757,7 +757,11 @@
     "YOGACLASS",
     "NONADJFLIP",
     "CVDRUN",
-    "CHEFSLP"
+    "CHEFSLP",
+    "ORDDIST",
+    "DECODEIT",
+    "MAKEPERM",
+    "SWMA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6085,6 +6089,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-01 21:25:32"
+    },
+    {
+      "code": "ORDDIST",
+      "name": "Ordered Distances",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 12:52:40"
+    },
+    {
+      "code": "DECODEIT",
+      "name": "Encoded String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 12:54:29"
+    },
+    {
+      "code": "MAKEPERM",
+      "name": "Make Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 12:56:34"
+    },
+    {
+      "code": "SWMA",
+      "name": "Swapping Marks Digits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 12:58:05"
     }
   ]
 }
