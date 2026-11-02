@@ -1,5 +1,5 @@
 {
-  "total_solved": 761,
+  "total_solved": 763,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -761,7 +761,9 @@
     "ORDDIST",
     "DECODEIT",
     "MAKEPERM",
-    "SWMA"
+    "SWMA",
+    "FRGAME",
+    "ADAKING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6117,6 +6119,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-02 12:58:05"
+    },
+    {
+      "code": "FRGAME",
+      "name": "Game between friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 19:18:51"
+    },
+    {
+      "code": "ADAKING",
+      "name": "Ada King",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 19:21:01"
     }
   ]
 }
