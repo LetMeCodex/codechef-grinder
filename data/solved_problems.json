@@ -1,5 +1,5 @@
 {
-  "total_solved": 763,
+  "total_solved": 766,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -763,7 +763,10 @@
     "MAKEPERM",
     "SWMA",
     "FRGAME",
-    "ADAKING"
+    "ADAKING",
+    "RRCOPY",
+    "DSTAPLS",
+    "RESELL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6133,6 +6136,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-02 19:21:01"
+    },
+    {
+      "code": "RRCOPY",
+      "name": "Copy-Paste",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 22:29:48"
+    },
+    {
+      "code": "DSTAPLS",
+      "name": "Distribute Apples",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 22:31:29"
+    },
+    {
+      "code": "RESELL",
+      "name": "Reselling Items",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-02 22:33:07"
     }
   ]
 }
