@@ -1,5 +1,5 @@
 {
-  "total_solved": 776,
+  "total_solved": 780,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -776,7 +776,11 @@
     "EVENM",
     "COOLER7",
     "WATERMOVE2",
-    "XMASTREE"
+    "XMASTREE",
+    "FAIL",
+    "JOINSTATE",
+    "SCORING",
+    "BUYING7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6238,6 +6242,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-03 17:02:36"
+    },
+    {
+      "code": "FAIL",
+      "name": "Failing Grades",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 20:18:51"
+    },
+    {
+      "code": "JOINSTATE",
+      "name": "Join States",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 20:20:55"
+    },
+    {
+      "code": "SCORING",
+      "name": "Scoring",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 20:22:18"
+    },
+    {
+      "code": "BUYING7",
+      "name": "Expensive Buying",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 20:23:20"
     }
   ]
 }
