@@ -1,5 +1,5 @@
 {
-  "total_solved": 766,
+  "total_solved": 770,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -766,7 +766,11 @@
     "ADAKING",
     "RRCOPY",
     "DSTAPLS",
-    "RESELL"
+    "RESELL",
+    "STFOOD",
+    "COOLSUB",
+    "BIGARRAY",
+    "PLACE0110"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -796,7 +800,8 @@
     "EXPSTP",
     "TRUTHLIE",
     "CHESSWIN",
-    "FOOTBALLTIES"
+    "FOOTBALLTIES",
+    "MUL123"
   ],
   "history": [
     {
@@ -6157,6 +6162,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-02 22:33:07"
+    },
+    {
+      "code": "STFOOD",
+      "name": "Chef and Street Food",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 00:03:56"
+    },
+    {
+      "code": "COOLSUB",
+      "name": "Cool Subsequences",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-03 00:07:19"
+    },
+    {
+      "code": "BIGARRAY",
+      "name": "Obtain the Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 00:10:54"
+    },
+    {
+      "code": "PLACE0110",
+      "name": "Placing 01 And 10",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 00:14:16"
     }
   ]
 }
