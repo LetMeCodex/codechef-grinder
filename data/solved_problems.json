@@ -1,5 +1,5 @@
 {
-  "total_solved": 780,
+  "total_solved": 783,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -780,7 +780,10 @@
     "FAIL",
     "JOINSTATE",
     "SCORING",
-    "BUYING7"
+    "BUYING7",
+    "BIT2A",
+    "LADDU",
+    "ODDEVEN7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6270,6 +6273,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-03 20:23:20"
+    },
+    {
+      "code": "BIT2A",
+      "name": "A - Books",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 22:35:37"
+    },
+    {
+      "code": "LADDU",
+      "name": "Laddu",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 22:37:32"
+    },
+    {
+      "code": "ODDEVEN7",
+      "name": "Odd Even",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 22:39:21"
     }
   ]
 }
