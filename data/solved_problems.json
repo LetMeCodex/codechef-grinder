@@ -1,5 +1,5 @@
 {
-  "total_solved": 770,
+  "total_solved": 772,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -770,7 +770,9 @@
     "STFOOD",
     "COOLSUB",
     "BIGARRAY",
-    "PLACE0110"
+    "PLACE0110",
+    "PERMOR",
+    "COMM3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6190,6 +6192,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-03 00:14:16"
+    },
+    {
+      "code": "PERMOR",
+      "name": "OR Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-03 12:22:07"
+    },
+    {
+      "code": "COMM3",
+      "name": "Three Way Communications",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-03 12:25:26"
     }
   ]
 }
