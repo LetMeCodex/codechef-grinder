@@ -1,5 +1,5 @@
 {
-  "total_solved": 792,
+  "total_solved": 797,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -792,7 +792,12 @@
     "FARMLEGS",
     "P2_175",
     "LONGDRIVE",
-    "MOVHYPE"
+    "MOVHYPE",
+    "LOSTWKND",
+    "CHSERVE",
+    "FINALSALE",
+    "STOCKMARKET",
+    "RECNDSTR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6366,6 +6371,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-04 20:37:32"
+    },
+    {
+      "code": "LOSTWKND",
+      "name": "Lost Weekends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 22:56:13"
+    },
+    {
+      "code": "CHSERVE",
+      "name": "Chef and Serves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 22:57:30"
+    },
+    {
+      "code": "FINALSALE",
+      "name": "Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 22:58:45"
+    },
+    {
+      "code": "STOCKMARKET",
+      "name": "Chef and Stocks",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-04 23:01:22"
+    },
+    {
+      "code": "RECNDSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-04 23:04:50"
     }
   ]
 }
