@@ -1,5 +1,5 @@
 {
-  "total_solved": 790,
+  "total_solved": 792,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -790,7 +790,9 @@
     "MAX_BIN",
     "VACCINE1",
     "FARMLEGS",
-    "P2_175"
+    "P2_175",
+    "LONGDRIVE",
+    "MOVHYPE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6350,6 +6352,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-04 17:06:50"
+    },
+    {
+      "code": "LONGDRIVE",
+      "name": "Long Drive",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-04 20:36:17"
+    },
+    {
+      "code": "MOVHYPE",
+      "name": "Movie Hype",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 20:37:32"
     }
   ]
 }
