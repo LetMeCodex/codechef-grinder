@@ -1,5 +1,5 @@
 {
-  "total_solved": 783,
+  "total_solved": 785,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -783,7 +783,9 @@
     "BUYING7",
     "BIT2A",
     "LADDU",
-    "ODDEVEN7"
+    "ODDEVEN7",
+    "MULT3",
+    "INTMTCH"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6294,6 +6296,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-03 22:39:21"
+    },
+    {
+      "code": "MULT3",
+      "name": "Multiple of 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 12:32:00"
+    },
+    {
+      "code": "INTMTCH",
+      "name": "Interesting Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-04 12:33:40"
     }
   ]
 }
