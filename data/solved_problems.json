@@ -1,5 +1,5 @@
 {
-  "total_solved": 808,
+  "total_solved": 811,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -808,7 +808,10 @@
     "BALLOONS",
     "ALTARR",
     "MINMXOR",
-    "NEARSQ"
+    "NEARSQ",
+    "MODEFREQ",
+    "CAN_REACH",
+    "OG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -839,7 +842,8 @@
     "TRUTHLIE",
     "CHESSWIN",
     "FOOTBALLTIES",
-    "MUL123"
+    "MUL123",
+    "WOLFDOWN"
   ],
   "history": [
     {
@@ -6494,6 +6498,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-05 20:53:46"
+    },
+    {
+      "code": "MODEFREQ",
+      "name": "Mode of Frequencies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 22:56:06"
+    },
+    {
+      "code": "CAN_REACH",
+      "name": "Can_Reach",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 22:57:53"
+    },
+    {
+      "code": "OG",
+      "name": "Origin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 22:59:07"
     }
   ]
 }
