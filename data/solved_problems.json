@@ -1,5 +1,5 @@
 {
-  "total_solved": 802,
+  "total_solved": 805,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -802,7 +802,10 @@
     "TEMPLELA",
     "DOUBLE",
     "AVDSQUARPLZ",
-    "FIXEDPTS"
+    "FIXEDPTS",
+    "MONEYDOUBLE",
+    "BAKERY7",
+    "BALLOONS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6446,6 +6449,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-05 12:56:25"
+    },
+    {
+      "code": "MONEYDOUBLE",
+      "name": "Money Double",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 17:13:24"
+    },
+    {
+      "code": "BAKERY7",
+      "name": "Bakery Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 17:15:32"
+    },
+    {
+      "code": "BALLOONS",
+      "name": "Coloured Balloons",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 17:17:49"
     }
   ]
 }
