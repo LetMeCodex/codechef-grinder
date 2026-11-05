@@ -1,5 +1,5 @@
 {
-  "total_solved": 805,
+  "total_solved": 808,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -805,7 +805,10 @@
     "FIXEDPTS",
     "MONEYDOUBLE",
     "BAKERY7",
-    "BALLOONS"
+    "BALLOONS",
+    "ALTARR",
+    "MINMXOR",
+    "NEARSQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6470,6 +6473,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-05 17:17:49"
+    },
+    {
+      "code": "ALTARR",
+      "name": "Alternating Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 20:50:55"
+    },
+    {
+      "code": "MINMXOR",
+      "name": "Minimum XOR",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 20:52:36"
+    },
+    {
+      "code": "NEARSQ",
+      "name": "Nearest Square",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-05 20:53:46"
     }
   ]
 }
