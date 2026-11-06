@@ -1,5 +1,5 @@
 {
-  "total_solved": 814,
+  "total_solved": 816,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -814,7 +814,9 @@
     "OG",
     "CHPINTU",
     "RATIO2",
-    "ALEXNUMB"
+    "ALEXNUMB",
+    "RNGEODD",
+    "IPCCERT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6543,6 +6545,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-06 12:33:43"
+    },
+    {
+      "code": "RNGEODD",
+      "name": "Range Odd",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-06 16:40:53"
+    },
+    {
+      "code": "IPCCERT",
+      "name": "Chef and IPC Certificates",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 16:42:10"
     }
   ]
 }
