@@ -1,5 +1,5 @@
 {
-  "total_solved": 811,
+  "total_solved": 814,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -811,7 +811,10 @@
     "NEARSQ",
     "MODEFREQ",
     "CAN_REACH",
-    "OG"
+    "OG",
+    "CHPINTU",
+    "RATIO2",
+    "ALEXNUMB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6519,6 +6522,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-05 22:59:07"
+    },
+    {
+      "code": "CHPINTU",
+      "name": "Pintu and Fruits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 12:28:40"
+    },
+    {
+      "code": "RATIO2",
+      "name": "Ratio By 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 12:31:18"
+    },
+    {
+      "code": "ALEXNUMB",
+      "name": "Magic Pairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 12:33:43"
     }
   ]
 }
