@@ -1,5 +1,5 @@
 {
-  "total_solved": 816,
+  "total_solved": 821,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -816,7 +816,12 @@
     "RATIO2",
     "ALEXNUMB",
     "RNGEODD",
-    "IPCCERT"
+    "IPCCERT",
+    "CMIX",
+    "PATHPAR",
+    "SECLAR",
+    "RATING",
+    "CHEFGRD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6559,6 +6564,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-06 16:42:10"
+    },
+    {
+      "code": "CMIX",
+      "name": "Spell Splice",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 20:07:27"
+    },
+    {
+      "code": "PATHPAR",
+      "name": "Path Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 20:09:10"
+    },
+    {
+      "code": "SECLAR",
+      "name": "Find Second Largest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 20:10:53"
+    },
+    {
+      "code": "RATING",
+      "name": "The Rating Dilemma",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-06 20:14:42"
+    },
+    {
+      "code": "CHEFGRD",
+      "name": "Akash and Grid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-06 20:16:41"
     }
   ]
 }
