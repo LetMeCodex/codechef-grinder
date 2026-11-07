@@ -1,5 +1,5 @@
 {
-  "total_solved": 830,
+  "total_solved": 834,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -830,7 +830,11 @@
     "DANCEMOVES",
     "MAX123",
     "HOWMANYMAX",
-    "DIVIDE3"
+    "DIVIDE3",
+    "SWISHGAME",
+    "KO_MON",
+    "VALTRI",
+    "PERFCONT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -863,7 +867,8 @@
     "FOOTBALLTIES",
     "MUL123",
     "WOLFDOWN",
-    "ONEFROMK"
+    "ONEFROMK",
+    "MORECOOK"
   ],
   "history": [
     {
@@ -6672,6 +6677,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-07 15:48:00"
+    },
+    {
+      "code": "SWISHGAME",
+      "name": "Swish Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 18:22:12"
+    },
+    {
+      "code": "KO_MON",
+      "name": "Monster Monster",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 18:25:15"
+    },
+    {
+      "code": "VALTRI",
+      "name": "Raju and His Trip",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 18:31:38"
+    },
+    {
+      "code": "PERFCONT",
+      "name": "A Balanced Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 18:33:47"
     }
   ]
 }
