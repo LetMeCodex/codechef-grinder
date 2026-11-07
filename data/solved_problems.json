@@ -1,5 +1,5 @@
 {
-  "total_solved": 834,
+  "total_solved": 839,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -834,7 +834,12 @@
     "SWISHGAME",
     "KO_MON",
     "VALTRI",
-    "PERFCONT"
+    "PERFCONT",
+    "USELEC",
+    "NAICHEF",
+    "HLEQN",
+    "PENALTYSHOOT",
+    "P2P"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6705,6 +6710,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-07 18:33:47"
+    },
+    {
+      "code": "USELEC",
+      "name": "Elections",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-07 21:08:18"
+    },
+    {
+      "code": "NAICHEF",
+      "name": "Naive Chef",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-07 21:11:27"
+    },
+    {
+      "code": "HLEQN",
+      "name": "Hello Equation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 21:14:19"
+    },
+    {
+      "code": "PENALTYSHOOT",
+      "name": "Penalty Shoot-out",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 21:16:09"
+    },
+    {
+      "code": "P2P",
+      "name": "Make Odd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 21:18:58"
     }
   ]
 }
