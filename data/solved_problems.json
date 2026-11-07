@@ -1,5 +1,5 @@
 {
-  "total_solved": 828,
+  "total_solved": 830,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -828,7 +828,9 @@
     "MNMX",
     "MAKEMULTIPLE",
     "DANCEMOVES",
-    "MAX123"
+    "MAX123",
+    "HOWMANYMAX",
+    "DIVIDE3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -860,7 +862,8 @@
     "CHESSWIN",
     "FOOTBALLTIES",
     "MUL123",
-    "WOLFDOWN"
+    "WOLFDOWN",
+    "ONEFROMK"
   ],
   "history": [
     {
@@ -6655,6 +6658,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-07 11:32:06"
+    },
+    {
+      "code": "HOWMANYMAX",
+      "name": "How Many Maximums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 15:45:51"
+    },
+    {
+      "code": "DIVIDE3",
+      "name": "Divide into 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 15:48:00"
     }
   ]
 }
