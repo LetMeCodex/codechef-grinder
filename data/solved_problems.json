@@ -1,5 +1,5 @@
 {
-  "total_solved": 824,
+  "total_solved": 828,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -824,7 +824,11 @@
     "CHEFGRD",
     "MINDAYSRET",
     "SAVWATER",
-    "DIVIDEMAKEEQ"
+    "DIVIDEMAKEEQ",
+    "MNMX",
+    "MAKEMULTIPLE",
+    "DANCEMOVES",
+    "MAX123"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6623,6 +6627,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-06 22:31:58"
+    },
+    {
+      "code": "MNMX",
+      "name": "Minimum Maximum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 11:23:56"
+    },
+    {
+      "code": "MAKEMULTIPLE",
+      "name": "Make Multiple",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 11:27:19"
+    },
+    {
+      "code": "DANCEMOVES",
+      "name": "Dance Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 11:29:50"
+    },
+    {
+      "code": "MAX123",
+      "name": "Triplet Maximization",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-07 11:32:06"
     }
   ]
 }
