@@ -1,5 +1,5 @@
 {
-  "total_solved": 845,
+  "total_solved": 848,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -845,7 +845,10 @@
     "LPC",
     "MARBCOLL",
     "DISCOOKIE",
-    "MINSM"
+    "MINSM",
+    "MEANMEDIAN",
+    "MOVIEWKN",
+    "LOGICIAN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6794,6 +6797,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-08 16:05:05"
+    },
+    {
+      "code": "MEANMEDIAN",
+      "name": "Mean and Median",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 18:33:03"
+    },
+    {
+      "code": "MOVIEWKN",
+      "name": "Movie Weekend",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 18:34:45"
+    },
+    {
+      "code": "LOGICIAN",
+      "name": "3 Logicians Walk into a Bar",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 18:36:22"
     }
   ]
 }
