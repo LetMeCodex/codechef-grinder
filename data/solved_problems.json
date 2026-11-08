@@ -1,5 +1,5 @@
 {
-  "total_solved": 848,
+  "total_solved": 853,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -848,7 +848,12 @@
     "MINSM",
     "MEANMEDIAN",
     "MOVIEWKN",
-    "LOGICIAN"
+    "LOGICIAN",
+    "EXMLF1",
+    "ODDPREFSUM",
+    "FFL",
+    "BETWEEN",
+    "MAKEABEQUAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6818,6 +6823,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-08 18:36:22"
+    },
+    {
+      "code": "EXMLF1",
+      "name": "EXML Race",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 21:24:12"
+    },
+    {
+      "code": "ODDPREFSUM",
+      "name": "All Odd Prefix Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 21:26:08"
+    },
+    {
+      "code": "FFL",
+      "name": "Chef in Fantasy League",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 21:28:34"
+    },
+    {
+      "code": "BETWEEN",
+      "name": "Exun Leaderboard",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 21:30:05"
+    },
+    {
+      "code": "MAKEABEQUAL",
+      "name": "Make A and B equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 21:32:05"
     }
   ]
 }
