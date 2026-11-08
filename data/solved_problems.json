@@ -1,5 +1,5 @@
 {
-  "total_solved": 843,
+  "total_solved": 845,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -843,7 +843,9 @@
     "TEMPPLANT",
     "SCHOOLTRIP",
     "LPC",
-    "MARBCOLL"
+    "MARBCOLL",
+    "DISCOOKIE",
+    "MINSM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -877,7 +879,8 @@
     "MUL123",
     "WOLFDOWN",
     "ONEFROMK",
-    "MORECOOK"
+    "MORECOOK",
+    "COVDSMPL"
   ],
   "history": [
     {
@@ -6777,6 +6780,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-08 11:37:34"
+    },
+    {
+      "code": "DISCOOKIE",
+      "name": "Distribute Cookies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 15:52:43"
+    },
+    {
+      "code": "MINSM",
+      "name": "Minimum Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 16:05:05"
     }
   ]
 }
