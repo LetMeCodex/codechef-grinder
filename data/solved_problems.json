@@ -1,5 +1,5 @@
 {
-  "total_solved": 839,
+  "total_solved": 843,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -839,7 +839,11 @@
     "NAICHEF",
     "HLEQN",
     "PENALTYSHOOT",
-    "P2P"
+    "P2P",
+    "TEMPPLANT",
+    "SCHOOLTRIP",
+    "LPC",
+    "MARBCOLL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6745,6 +6749,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-07 21:18:58"
+    },
+    {
+      "code": "TEMPPLANT",
+      "name": "Plant",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 11:31:46"
+    },
+    {
+      "code": "SCHOOLTRIP",
+      "name": "School Trip",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 11:33:45"
+    },
+    {
+      "code": "LPC",
+      "name": "Lockpicking Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 11:36:13"
+    },
+    {
+      "code": "MARBCOLL",
+      "name": "Marble Collector",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-08 11:37:34"
     }
   ]
 }
