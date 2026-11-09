@@ -1,5 +1,5 @@
 {
-  "total_solved": 860,
+  "total_solved": 864,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -860,7 +860,11 @@
     "EQPAIR",
     "NOPAL",
     "ARRAYSTATE",
-    "EVALMAS"
+    "EVALMAS",
+    "SPLITN",
+    "MAXSUM77",
+    "XLSQUARE",
+    "STICKBREAK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6914,6 +6918,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-09 19:41:28"
+    },
+    {
+      "code": "SPLITN",
+      "name": "Split N",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 23:11:19"
+    },
+    {
+      "code": "MAXSUM77",
+      "name": "Maximum Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 23:13:29"
+    },
+    {
+      "code": "XLSQUARE",
+      "name": "Large Square",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 23:15:22"
+    },
+    {
+      "code": "STICKBREAK",
+      "name": "Stick Break",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 23:17:12"
     }
   ]
 }
