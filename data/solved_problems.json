@@ -1,5 +1,5 @@
 {
-  "total_solved": 853,
+  "total_solved": 858,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -853,7 +853,12 @@
     "ODDPREFSUM",
     "FFL",
     "BETWEEN",
-    "MAKEABEQUAL"
+    "MAKEABEQUAL",
+    "ADVITIYA4",
+    "STRPALIN",
+    "CK87MEDI",
+    "EQPAIR",
+    "NOPAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6858,6 +6863,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-08 21:32:05"
+    },
+    {
+      "code": "ADVITIYA4",
+      "name": "Another Good String ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 13:23:19"
+    },
+    {
+      "code": "STRPALIN",
+      "name": "Palindromic substrings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 13:25:29"
+    },
+    {
+      "code": "CK87MEDI",
+      "name": "Chef and Employment Test",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-09 13:31:19"
+    },
+    {
+      "code": "EQPAIR",
+      "name": "Good Pairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 13:33:17"
+    },
+    {
+      "code": "NOPAL",
+      "name": "Palindromes Not Allowed",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 13:35:54"
     }
   ]
 }
