@@ -1,5 +1,5 @@
 {
-  "total_solved": 858,
+  "total_solved": 860,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -858,7 +858,9 @@
     "STRPALIN",
     "CK87MEDI",
     "EQPAIR",
-    "NOPAL"
+    "NOPAL",
+    "ARRAYSTATE",
+    "EVALMAS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6898,6 +6900,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-09 13:35:54"
+    },
+    {
+      "code": "ARRAYSTATE",
+      "name": "Find Multiset State",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 19:39:08"
+    },
+    {
+      "code": "EVALMAS",
+      "name": "Valid Expression",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-09 19:41:28"
     }
   ]
 }
