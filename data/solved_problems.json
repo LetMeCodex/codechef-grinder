@@ -1,5 +1,5 @@
 {
-  "total_solved": 867,
+  "total_solved": 872,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -867,7 +867,12 @@
     "STICKBREAK",
     "LEPERMUT",
     "ADDGCD",
-    "DIVAB"
+    "DIVAB",
+    "ARRSWAP",
+    "CORUS",
+    "GRPASSN",
+    "LAPTOPREC",
+    "BINSTRING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6972,6 +6977,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-10 01:06:07"
+    },
+    {
+      "code": "ARRSWAP",
+      "name": "Asymmetric Swaps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 13:00:06"
+    },
+    {
+      "code": "CORUS",
+      "name": "Isolation Centers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 13:02:37"
+    },
+    {
+      "code": "GRPASSN",
+      "name": "Group Assignment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 13:05:13"
+    },
+    {
+      "code": "LAPTOPREC",
+      "name": "Laptop Recommendation ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 13:07:03"
+    },
+    {
+      "code": "BINSTRING",
+      "name": "Distinct Binary Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 13:10:23"
     }
   ]
 }
