@@ -1,5 +1,5 @@
 {
-  "total_solved": 881,
+  "total_solved": 883,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -881,7 +881,9 @@
     "CHEFRUN",
     "DIDE",
     "P3209",
-    "POSHOP"
+    "POSHOP",
+    "FENCECOL",
+    "ACCESS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7084,6 +7086,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-10 20:51:06"
+    },
+    {
+      "code": "FENCECOL",
+      "name": "Fence Colouring",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 22:34:32"
+    },
+    {
+      "code": "ACCESS",
+      "name": "Access Control",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-10 22:37:28"
     }
   ]
 }
