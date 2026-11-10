@@ -1,5 +1,5 @@
 {
-  "total_solved": 872,
+  "total_solved": 876,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -872,7 +872,11 @@
     "CORUS",
     "GRPASSN",
     "LAPTOPREC",
-    "BINSTRING"
+    "BINSTRING",
+    "LEAGUE",
+    "CNDLOVE",
+    "ADD13",
+    "CATSDOGS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7012,6 +7016,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-10 13:10:23"
+    },
+    {
+      "code": "LEAGUE",
+      "name": "Farmers League",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 16:54:27"
+    },
+    {
+      "code": "CNDLOVE",
+      "name": "Candy Love",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 16:57:00"
+    },
+    {
+      "code": "ADD13",
+      "name": "Add 1 or 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 16:58:59"
+    },
+    {
+      "code": "CATSDOGS",
+      "name": "Cats and Dogs",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-10 17:04:29"
     }
   ]
 }
