@@ -1,5 +1,5 @@
 {
-  "total_solved": 876,
+  "total_solved": 881,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -876,7 +876,12 @@
     "LEAGUE",
     "CNDLOVE",
     "ADD13",
-    "CATSDOGS"
+    "CATSDOGS",
+    "RPD",
+    "CHEFRUN",
+    "DIDE",
+    "P3209",
+    "POSHOP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7044,6 +7049,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-10 17:04:29"
+    },
+    {
+      "code": "RPD",
+      "name": "Easy Math",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 20:38:25"
+    },
+    {
+      "code": "CHEFRUN",
+      "name": "Secret Recipe",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 20:40:53"
+    },
+    {
+      "code": "DIDE",
+      "name": "Dice Deception",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 20:43:12"
+    },
+    {
+      "code": "P3209",
+      "name": "Small GCD Sort",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 20:45:18"
+    },
+    {
+      "code": "POSHOP",
+      "name": "Posh Shopping",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-10 20:51:06"
     }
   ]
 }
