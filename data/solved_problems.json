@@ -1,5 +1,5 @@
 {
-  "total_solved": 883,
+  "total_solved": 885,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -883,7 +883,9 @@
     "P3209",
     "POSHOP",
     "FENCECOL",
-    "ACCESS"
+    "ACCESS",
+    "POSTPERI",
+    "COVSPRD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7100,6 +7102,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-10 22:37:28"
+    },
+    {
+      "code": "POSTPERI",
+      "name": "Poster Perimeter",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 12:10:10"
+    },
+    {
+      "code": "COVSPRD",
+      "name": "Covid Spread",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 12:11:58"
     }
   ]
 }
