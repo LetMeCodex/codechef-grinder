@@ -1,5 +1,5 @@
 {
-  "total_solved": 885,
+  "total_solved": 890,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -885,7 +885,12 @@
     "FENCECOL",
     "ACCESS",
     "POSTPERI",
-    "COVSPRD"
+    "COVSPRD",
+    "TALAZY",
+    "PRIMESUM7",
+    "P3149",
+    "COMPCAND",
+    "THREEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7116,6 +7121,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-11 12:11:58"
+    },
+    {
+      "code": "TALAZY",
+      "name": "Lazy Jem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 16:59:16"
+    },
+    {
+      "code": "PRIMESUM7",
+      "name": "Prime Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 17:01:16"
+    },
+    {
+      "code": "P3149",
+      "name": "Easy Subarray Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 17:03:55"
+    },
+    {
+      "code": "COMPCAND",
+      "name": "Can You Eat It",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 17:05:41"
+    },
+    {
+      "code": "THREEQ",
+      "name": "The Old Saint And Three Questions",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-11 17:09:46"
     }
   ]
 }
