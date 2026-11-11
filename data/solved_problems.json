@@ -1,5 +1,5 @@
 {
-  "total_solved": 890,
+  "total_solved": 895,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -890,7 +890,12 @@
     "PRIMESUM7",
     "P3149",
     "COMPCAND",
-    "THREEQ"
+    "THREEQ",
+    "ARRAYRET",
+    "GOODSET",
+    "ADDIS",
+    "TRAINEVOD",
+    "PERDIS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7156,6 +7161,41 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-11 17:09:46"
+    },
+    {
+      "code": "ARRAYRET",
+      "name": "Retrieve the Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 23:44:40"
+    },
+    {
+      "code": "GOODSET",
+      "name": "A Good Set",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 23:46:37"
+    },
+    {
+      "code": "ADDIS",
+      "name": "Additive Dissonance",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 23:49:13"
+    },
+    {
+      "code": "TRAINEVOD",
+      "name": "Train Even or Odd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-11 23:50:31"
+    },
+    {
+      "code": "PERDIS",
+      "name": "Permutation Disturbance",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-11 23:57:21"
     }
   ]
 }
