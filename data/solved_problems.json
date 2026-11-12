@@ -1,5 +1,5 @@
 {
-  "total_solved": 895,
+  "total_solved": 897,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -895,7 +895,9 @@
     "GOODSET",
     "ADDIS",
     "TRAINEVOD",
-    "PERDIS"
+    "PERDIS",
+    "RESPAL",
+    "SPCP3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7196,6 +7198,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-11 23:57:21"
+    },
+    {
+      "code": "RESPAL",
+      "name": "Restrict Palindromes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 13:19:14"
+    },
+    {
+      "code": "SPCP3",
+      "name": "Marbles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 13:22:07"
     }
   ]
 }
