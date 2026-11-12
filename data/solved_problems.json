@@ -1,5 +1,5 @@
 {
-  "total_solved": 900,
+  "total_solved": 903,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -900,7 +900,10 @@
     "SPCP3",
     "PILBELLS",
     "COOLCON",
-    "KMED"
+    "KMED",
+    "BESTSEATS",
+    "CONSTR",
+    "PERMCLEAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7237,6 +7240,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-12 17:30:40"
+    },
+    {
+      "code": "BESTSEATS",
+      "name": "Best Seats",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 21:08:51"
+    },
+    {
+      "code": "CONSTR",
+      "name": "Construct String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 21:12:08"
+    },
+    {
+      "code": "PERMCLEAR",
+      "name": "Permutation Clear",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 21:13:39"
     }
   ]
 }
