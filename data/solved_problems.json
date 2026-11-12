@@ -1,5 +1,5 @@
 {
-  "total_solved": 897,
+  "total_solved": 900,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -897,7 +897,10 @@
     "TRAINEVOD",
     "PERDIS",
     "RESPAL",
-    "SPCP3"
+    "SPCP3",
+    "PILBELLS",
+    "COOLCON",
+    "KMED"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -934,7 +937,8 @@
     "MORECOOK",
     "COVDSMPL",
     "MINANDMAX",
-    "CREATEPERM"
+    "CREATEPERM",
+    "REMOVEDUPLIC"
   ],
   "history": [
     {
@@ -7212,6 +7216,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-12 13:22:07"
+    },
+    {
+      "code": "PILBELLS",
+      "name": "Bells of Pilgrimage",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 17:27:15"
+    },
+    {
+      "code": "COOLCON",
+      "name": "Cooling Conundrum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 17:28:43"
+    },
+    {
+      "code": "KMED",
+      "name": "K Median",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-12 17:30:40"
     }
   ]
 }
