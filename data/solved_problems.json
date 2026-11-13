@@ -1,5 +1,5 @@
 {
-  "total_solved": 910,
+  "total_solved": 911,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -910,7 +910,8 @@
     "FANCY",
     "ARRAYBREAK",
     "EVMHACK",
-    "WRSTP"
+    "WRSTP",
+    "PERMGCD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -948,7 +949,8 @@
     "COVDSMPL",
     "MINANDMAX",
     "CREATEPERM",
-    "REMOVEDUPLIC"
+    "REMOVEDUPLIC",
+    "DSCPPAS266"
   ],
   "history": [
     {
@@ -7317,6 +7319,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-13 12:46:03"
+    },
+    {
+      "code": "PERMGCD",
+      "name": "Permutation GCD",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 17:03:53"
     }
   ]
 }
