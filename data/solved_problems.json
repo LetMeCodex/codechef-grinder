@@ -1,5 +1,5 @@
 {
-  "total_solved": 911,
+  "total_solved": 914,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -911,7 +911,10 @@
     "ARRAYBREAK",
     "EVMHACK",
     "WRSTP",
-    "PERMGCD"
+    "PERMGCD",
+    "FLIPPRE",
+    "PASSCHAIN",
+    "LITUP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7326,6 +7329,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-13 17:03:53"
+    },
+    {
+      "code": "FLIPPRE",
+      "name": "Flip Prefix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 20:41:31"
+    },
+    {
+      "code": "PASSCHAIN",
+      "name": "Passing Chain",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 20:42:45"
+    },
+    {
+      "code": "LITUP",
+      "name": "Lit Up",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 20:44:45"
     }
   ]
 }
