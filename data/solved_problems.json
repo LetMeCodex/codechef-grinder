@@ -1,5 +1,5 @@
 {
-  "total_solved": 906,
+  "total_solved": 910,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -906,7 +906,11 @@
     "PERMCLEAR",
     "SPC2025Q2",
     "PASCRO",
-    "RED23"
+    "RED23",
+    "FANCY",
+    "ARRAYBREAK",
+    "EVMHACK",
+    "WRSTP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7285,6 +7289,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-12 23:00:27"
+    },
+    {
+      "code": "FANCY",
+      "name": "Fancy Quotes",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-13 12:39:12"
+    },
+    {
+      "code": "ARRAYBREAK",
+      "name": "Break the elements",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 12:41:18"
+    },
+    {
+      "code": "EVMHACK",
+      "name": "EVM Hacking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 12:43:43"
+    },
+    {
+      "code": "WRSTP",
+      "name": "One Wrong Step",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 12:46:03"
     }
   ]
 }
