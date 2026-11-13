@@ -1,5 +1,5 @@
 {
-  "total_solved": 914,
+  "total_solved": 916,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -914,7 +914,9 @@
     "PERMGCD",
     "FLIPPRE",
     "PASSCHAIN",
-    "LITUP"
+    "LITUP",
+    "MINDIST1",
+    "ALBS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7350,6 +7352,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-13 20:44:45"
+    },
+    {
+      "code": "MINDIST1",
+      "name": "Minimum distance between 1s",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-13 22:56:06"
+    },
+    {
+      "code": "ALBS",
+      "name": "Alternating Binary String",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-13 23:01:17"
     }
   ]
 }
