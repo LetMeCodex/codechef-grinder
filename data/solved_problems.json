@@ -1,5 +1,5 @@
 {
-  "total_solved": 919,
+  "total_solved": 921,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -919,7 +919,9 @@
     "ALBS",
     "LMP2E",
     "PIZZACOMP",
-    "EVENSUM1"
+    "EVENSUM1",
+    "CAKEBAKE7",
+    "INVEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7390,6 +7392,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-14 11:49:06"
+    },
+    {
+      "code": "CAKEBAKE7",
+      "name": "Cake Baking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 15:40:05"
+    },
+    {
+      "code": "INVEQ",
+      "name": "Invert And Equalize",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-14 15:45:20"
     }
   ]
 }
