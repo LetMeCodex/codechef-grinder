@@ -1,5 +1,5 @@
 {
-  "total_solved": 921,
+  "total_solved": 926,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -921,7 +921,12 @@
     "PIZZACOMP",
     "EVENSUM1",
     "CAKEBAKE7",
-    "INVEQ"
+    "INVEQ",
+    "MKEQ",
+    "GCD_1",
+    "FLIPPAL",
+    "CHRISDECOR",
+    "CALPOWER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7406,6 +7411,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-14 15:45:20"
+    },
+    {
+      "code": "MKEQ",
+      "name": "Make Equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 18:53:28"
+    },
+    {
+      "code": "GCD_1",
+      "name": "GCD to 1 (Easy)",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 18:55:28"
+    },
+    {
+      "code": "FLIPPAL",
+      "name": "Palindrome Flipping",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 18:57:59"
+    },
+    {
+      "code": "CHRISDECOR",
+      "name": "Decorating Christmas Tree",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-14 19:01:51"
+    },
+    {
+      "code": "CALPOWER",
+      "name": "Cool Name",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 19:03:45"
     }
   ]
 }
