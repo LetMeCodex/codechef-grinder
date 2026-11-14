@@ -1,5 +1,5 @@
 {
-  "total_solved": 926,
+  "total_solved": 928,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -926,7 +926,9 @@
     "GCD_1",
     "FLIPPAL",
     "CHRISDECOR",
-    "CALPOWER"
+    "CALPOWER",
+    "NUTRITION",
+    "CHFM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7446,6 +7448,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-14 19:03:45"
+    },
+    {
+      "code": "NUTRITION",
+      "name": "Max Nutrition",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 21:42:28"
+    },
+    {
+      "code": "CHFM",
+      "name": "Chef and Mean  ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 21:44:15"
     }
   ]
 }
