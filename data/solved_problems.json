@@ -1,5 +1,5 @@
 {
-  "total_solved": 916,
+  "total_solved": 919,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -916,7 +916,10 @@
     "PASSCHAIN",
     "LITUP",
     "MINDIST1",
-    "ALBS"
+    "ALBS",
+    "LMP2E",
+    "PIZZACOMP",
+    "EVENSUM1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7366,6 +7369,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-13 23:01:17"
+    },
+    {
+      "code": "LMP2E",
+      "name": "Winter is Coming",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 11:46:03"
+    },
+    {
+      "code": "PIZZACOMP",
+      "name": "Pizza Comparision",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 11:47:18"
+    },
+    {
+      "code": "EVENSUM1",
+      "name": "Even Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-14 11:49:06"
     }
   ]
 }
