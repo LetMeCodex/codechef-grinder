@@ -1,5 +1,5 @@
 {
-  "total_solved": 930,
+  "total_solved": 934,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -930,7 +930,11 @@
     "NUTRITION",
     "CHFM",
     "BULBLIFE",
-    "DATATYPE"
+    "DATATYPE",
+    "BRKBKS",
+    "PERMCON",
+    "BIGNAME",
+    "SUBARRY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7478,6 +7482,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-15 12:18:50"
+    },
+    {
+      "code": "BRKBKS",
+      "name": "Breaking Bricks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 16:11:22"
+    },
+    {
+      "code": "PERMCON",
+      "name": "Permutation Construct",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-15 16:15:53"
+    },
+    {
+      "code": "BIGNAME",
+      "name": "Bigger is Better",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 16:17:38"
+    },
+    {
+      "code": "SUBARRY",
+      "name": "Interesting Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 16:19:47"
     }
   ]
 }
