@@ -1,5 +1,5 @@
 {
-  "total_solved": 939,
+  "total_solved": 941,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -939,7 +939,9 @@
     "MEXARR",
     "NONNEGSUM",
     "FRGTNLNG",
-    "COLOR"
+    "COLOR",
+    "GCDPERM",
+    "P4HOME"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7550,6 +7552,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-15 19:40:02"
+    },
+    {
+      "code": "GCDPERM",
+      "name": "Subset GCD",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 22:08:17"
+    },
+    {
+      "code": "P4HOME",
+      "name": "Chef and Close Friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 22:09:37"
     }
   ]
 }
