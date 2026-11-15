@@ -1,5 +1,5 @@
 {
-  "total_solved": 928,
+  "total_solved": 930,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -928,7 +928,9 @@
     "CHRISDECOR",
     "CALPOWER",
     "NUTRITION",
-    "CHFM"
+    "CHFM",
+    "BULBLIFE",
+    "DATATYPE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7462,6 +7464,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-14 21:44:15"
+    },
+    {
+      "code": "BULBLIFE",
+      "name": "Good Quality Bulbs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 12:16:38"
+    },
+    {
+      "code": "DATATYPE",
+      "name": "Fit in Data Type",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-15 12:18:50"
     }
   ]
 }
