@@ -1,5 +1,5 @@
 {
-  "total_solved": 947,
+  "total_solved": 950,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -947,7 +947,10 @@
     "STOPCOUNT",
     "FINDPEAK",
     "TWOROOKS",
-    "BRACKETS"
+    "BRACKETS",
+    "SHORTSPELL",
+    "ODDEVENBS",
+    "NOTINCOM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -986,7 +989,8 @@
     "MINANDMAX",
     "CREATEPERM",
     "REMOVEDUPLIC",
-    "DSCPPAS266"
+    "DSCPPAS266",
+    "CHEFEZQ"
   ],
   "history": [
     {
@@ -7614,6 +7618,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-16 19:34:44"
+    },
+    {
+      "code": "SHORTSPELL",
+      "name": "Spell Shortening",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-16 23:04:30"
+    },
+    {
+      "code": "ODDEVENBS",
+      "name": "Odd Even Binary String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-16 23:07:10"
+    },
+    {
+      "code": "NOTINCOM",
+      "name": "Nothing in Common",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-16 23:08:54"
     }
   ]
 }
