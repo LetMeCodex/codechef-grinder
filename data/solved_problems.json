@@ -1,5 +1,5 @@
 {
-  "total_solved": 944,
+  "total_solved": 947,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -944,7 +944,10 @@
     "P4HOME",
     "DIVIDING",
     "LCH15JAB",
-    "STOPCOUNT"
+    "STOPCOUNT",
+    "FINDPEAK",
+    "TWOROOKS",
+    "BRACKETS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7590,6 +7593,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-16 13:13:09"
+    },
+    {
+      "code": "FINDPEAK",
+      "name": "Find Peak Element",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-16 19:27:17"
+    },
+    {
+      "code": "TWOROOKS",
+      "name": "Two Rooks",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-16 19:30:34"
+    },
+    {
+      "code": "BRACKETS",
+      "name": "Brackets",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-16 19:34:44"
     }
   ]
 }
