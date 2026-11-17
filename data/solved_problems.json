@@ -1,5 +1,5 @@
 {
-  "total_solved": 962,
+  "total_solved": 966,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -962,7 +962,11 @@
     "GAME_XI",
     "MINLCS",
     "RHYDOOR",
-    "POPCORN"
+    "POPCORN",
+    "TRANCHAIN",
+    "TWOTRAINS",
+    "BESTMOVIE",
+    "HILLS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7736,6 +7740,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-17 18:29:38"
+    },
+    {
+      "code": "TRANCHAIN",
+      "name": "Transfusion Chain",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-17 21:58:02"
+    },
+    {
+      "code": "TWOTRAINS",
+      "name": "Two Trains",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 22:00:38"
+    },
+    {
+      "code": "BESTMOVIE",
+      "name": "Best Movie",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-17 22:03:43"
+    },
+    {
+      "code": "HILLS",
+      "name": "Jumping in the hills",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 22:06:01"
     }
   ]
 }
