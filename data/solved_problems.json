@@ -1,5 +1,5 @@
 {
-  "total_solved": 957,
+  "total_solved": 962,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -957,7 +957,12 @@
     "SSUBSTR",
     "MEBA",
     "ANOTSTR",
-    "MAXCOIN"
+    "MAXCOIN",
+    "SIMDISH",
+    "GAME_XI",
+    "MINLCS",
+    "RHYDOOR",
+    "POPCORN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7696,6 +7701,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-17 14:10:36"
+    },
+    {
+      "code": "SIMDISH",
+      "name": "Similar Dishes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 18:18:58"
+    },
+    {
+      "code": "GAME_XI",
+      "name": "GAME 11",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 18:21:20"
+    },
+    {
+      "code": "MINLCS",
+      "name": "Minimise LCS",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 18:24:30"
+    },
+    {
+      "code": "RHYDOOR",
+      "name": "Rhythmic Door",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 18:27:01"
+    },
+    {
+      "code": "POPCORN",
+      "name": "Vishesh and his Popcorn Combo",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-17 18:29:38"
     }
   ]
 }
