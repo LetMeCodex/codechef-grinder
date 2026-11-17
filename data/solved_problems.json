@@ -1,5 +1,5 @@
 {
-  "total_solved": 953,
+  "total_solved": 957,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -953,7 +953,11 @@
     "NOTINCOM",
     "CHEFNWRK",
     "DICEERMAX",
-    "ADADISH"
+    "ADADISH",
+    "SSUBSTR",
+    "MEBA",
+    "ANOTSTR",
+    "MAXCOIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7664,6 +7668,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-17 01:15:04"
+    },
+    {
+      "code": "SSUBSTR",
+      "name": "Sorted Substrings",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-17 13:54:37"
+    },
+    {
+      "code": "MEBA",
+      "name": "Make My Array Equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 13:57:41"
+    },
+    {
+      "code": "ANOTSTR",
+      "name": "Another String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 14:05:27"
+    },
+    {
+      "code": "MAXCOIN",
+      "name": "Maximum Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-17 14:10:36"
     }
   ]
 }
