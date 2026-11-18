@@ -1,5 +1,5 @@
 {
-  "total_solved": 966,
+  "total_solved": 969,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -966,7 +966,10 @@
     "TRANCHAIN",
     "TWOTRAINS",
     "BESTMOVIE",
-    "HILLS"
+    "HILLS",
+    "DSACPR49",
+    "MARKP",
+    "CHFDBT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7768,6 +7771,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-17 22:06:01"
+    },
+    {
+      "code": "DSACPR49",
+      "name": "Leader of an Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 00:00:32"
+    },
+    {
+      "code": "MARKP",
+      "name": "Mark Points",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-18 00:07:34"
+    },
+    {
+      "code": "CHFDBT",
+      "name": "Akash and Function",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 00:09:52"
     }
   ]
 }
