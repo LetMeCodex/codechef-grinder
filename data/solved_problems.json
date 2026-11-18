@@ -1,5 +1,5 @@
 {
-  "total_solved": 974,
+  "total_solved": 976,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -974,7 +974,9 @@
     "ICL1902",
     "BUY1GET1",
     "LCM_GCD",
-    "PER_MOD"
+    "PER_MOD",
+    "MINLCM1",
+    "KNOCKOUT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7832,6 +7834,20 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-18 18:06:48"
+    },
+    {
+      "code": "MINLCM1",
+      "name": "Min Max LCM",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 21:38:42"
+    },
+    {
+      "code": "KNOCKOUT",
+      "name": "Knockout tournament",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 21:41:10"
     }
   ]
 }
