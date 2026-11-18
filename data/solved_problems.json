@@ -1,5 +1,5 @@
 {
-  "total_solved": 969,
+  "total_solved": 971,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -969,7 +969,9 @@
     "HILLS",
     "DSACPR49",
     "MARKP",
-    "CHFDBT"
+    "CHFDBT",
+    "SPOON",
+    "ICL1902"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7792,6 +7794,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-18 00:09:52"
+    },
+    {
+      "code": "SPOON",
+      "name": "Spoon in Matrix",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-18 13:29:29"
+    },
+    {
+      "code": "ICL1902",
+      "name": "FlatLand",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 13:31:39"
     }
   ]
 }
