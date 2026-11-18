@@ -1,5 +1,5 @@
 {
-  "total_solved": 976,
+  "total_solved": 978,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -976,7 +976,9 @@
     "LCM_GCD",
     "PER_MOD",
     "MINLCM1",
-    "KNOCKOUT"
+    "KNOCKOUT",
+    "SUMOFPROD1",
+    "ANKTRAIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7848,6 +7850,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-18 21:41:10"
+    },
+    {
+      "code": "SUMOFPROD1",
+      "name": "Sum of Product 1",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 23:37:58"
+    },
+    {
+      "code": "ANKTRAIN",
+      "name": "Train Partner",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-18 23:40:22"
     }
   ]
 }
