@@ -1,5 +1,5 @@
 {
-  "total_solved": 971,
+  "total_solved": 974,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -971,7 +971,10 @@
     "MARKP",
     "CHFDBT",
     "SPOON",
-    "ICL1902"
+    "ICL1902",
+    "BUY1GET1",
+    "LCM_GCD",
+    "PER_MOD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7808,6 +7811,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-18 13:31:39"
+    },
+    {
+      "code": "BUY1GET1",
+      "name": "Buy1-Get1",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-18 17:54:06"
+    },
+    {
+      "code": "LCM_GCD",
+      "name": "Lcm hates Gcd",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-18 18:00:38"
+    },
+    {
+      "code": "PER_MOD",
+      "name": "Permutation and Modulus",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-18 18:06:48"
     }
   ]
 }
