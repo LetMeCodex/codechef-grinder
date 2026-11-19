@@ -1,5 +1,5 @@
 {
-  "total_solved": 983,
+  "total_solved": 985,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -983,7 +983,9 @@
     "MAXDISTPERM",
     "UWCOI21A",
     "P3BAR",
-    "CO92JUDG"
+    "CO92JUDG",
+    "SPMISS",
+    "ADACRA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7904,6 +7906,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 14:03:00"
+    },
+    {
+      "code": "SPMISS",
+      "name": "Special Missions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 18:05:02"
+    },
+    {
+      "code": "ADACRA",
+      "name": "Ada and crayons",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 18:07:05"
     }
   ]
 }
