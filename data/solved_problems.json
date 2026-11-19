@@ -1,5 +1,5 @@
 {
-  "total_solved": 985,
+  "total_solved": 988,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -985,7 +985,10 @@
     "P3BAR",
     "CO92JUDG",
     "SPMISS",
-    "ADACRA"
+    "ADACRA",
+    "SNUG_FIT",
+    "ASSIGNSCORE",
+    "INTSEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7920,6 +7923,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 18:07:05"
+    },
+    {
+      "code": "SNUG_FIT",
+      "name": "School of Geometry",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:52:51"
+    },
+    {
+      "code": "ASSIGNSCORE",
+      "name": "Assignment Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:58:08"
+    },
+    {
+      "code": "INTSEQ",
+      "name": "An Interesting Sequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 22:00:14"
     }
   ]
 }
