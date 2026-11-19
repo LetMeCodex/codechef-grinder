@@ -1,5 +1,5 @@
 {
-  "total_solved": 978,
+  "total_solved": 983,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -978,7 +978,12 @@
     "MINLCM1",
     "KNOCKOUT",
     "SUMOFPROD1",
-    "ANKTRAIN"
+    "ANKTRAIN",
+    "EARLYWIN",
+    "MAXDISTPERM",
+    "UWCOI21A",
+    "P3BAR",
+    "CO92JUDG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7864,6 +7869,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-18 23:40:22"
+    },
+    {
+      "code": "EARLYWIN",
+      "name": "Early Certificates",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 13:54:08"
+    },
+    {
+      "code": "MAXDISTPERM",
+      "name": "Maximum Distance Permutations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 13:56:57"
+    },
+    {
+      "code": "UWCOI21A",
+      "name": "Hidden Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 13:58:50"
+    },
+    {
+      "code": "P3BAR",
+      "name": "Exit Door",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 14:01:03"
+    },
+    {
+      "code": "CO92JUDG",
+      "name": "Chef Judges a Competition",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 14:03:00"
     }
   ]
 }
