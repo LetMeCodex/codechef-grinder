@@ -1,5 +1,5 @@
 {
-  "total_solved": 1001,
+  "total_solved": 1005,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1001,7 +1001,11 @@
     "FIGBOT",
     "SUMPOS",
     "CARRANGE",
-    "CHEFING"
+    "CHEFING",
+    "ELECTION1",
+    "RBLT",
+    "BORROWBOOK",
+    "DEPCHEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1043,7 +1047,8 @@
     "DSCPPAS266",
     "CHEFEZQ",
     "DSACPR66",
-    "REMOVEMUL"
+    "REMOVEMUL",
+    "ANDOR"
   ],
   "history": [
     {
@@ -8049,6 +8054,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 21:36:39"
+    },
+    {
+      "code": "ELECTION1",
+      "name": "Election",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:24:17"
+    },
+    {
+      "code": "RBLT",
+      "name": "Balanced Lighting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:26:46"
+    },
+    {
+      "code": "BORROWBOOK",
+      "name": "Chefland Library",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:30:38"
+    },
+    {
+      "code": "DEPCHEF",
+      "name": "Deputy Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:32:04"
     }
   ]
 }
