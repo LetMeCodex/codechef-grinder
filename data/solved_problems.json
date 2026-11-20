@@ -1,5 +1,5 @@
 {
-  "total_solved": 988,
+  "total_solved": 992,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -988,7 +988,11 @@
     "ADACRA",
     "SNUG_FIT",
     "ASSIGNSCORE",
-    "INTSEQ"
+    "INTSEQ",
+    "JDELAY",
+    "DELNQ",
+    "STAIRCASE7",
+    "HOSTELROOM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7944,6 +7948,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 22:00:14"
+    },
+    {
+      "code": "JDELAY",
+      "name": "Judging Delay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 23:54:53"
+    },
+    {
+      "code": "DELNQ",
+      "name": "Delete Not Equal",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 23:57:21"
+    },
+    {
+      "code": "STAIRCASE7",
+      "name": "Staircase Edits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 23:59:38"
+    },
+    {
+      "code": "HOSTELROOM",
+      "name": "Hostel Room",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 00:00:59"
     }
   ]
 }
