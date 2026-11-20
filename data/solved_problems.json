@@ -1,5 +1,5 @@
 {
-  "total_solved": 999,
+  "total_solved": 1001,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -999,7 +999,9 @@
     "FOODRES",
     "CONVEYOR",
     "FIGBOT",
-    "SUMPOS"
+    "SUMPOS",
+    "CARRANGE",
+    "CHEFING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8033,6 +8035,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 17:46:21"
+    },
+    {
+      "code": "CARRANGE",
+      "name": "Car Range",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 21:34:19"
+    },
+    {
+      "code": "CHEFING",
+      "name": "Chef and Secret Ingredients",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 21:36:39"
     }
   ]
 }
