@@ -1,5 +1,5 @@
 {
-  "total_solved": 992,
+  "total_solved": 995,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -992,7 +992,10 @@
     "JDELAY",
     "DELNQ",
     "STAIRCASE7",
-    "HOSTELROOM"
+    "HOSTELROOM",
+    "TRUEDARE",
+    "CHNUM",
+    "EVENSUMSUB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1033,7 +1036,8 @@
     "REMOVEDUPLIC",
     "DSCPPAS266",
     "CHEFEZQ",
-    "DSACPR66"
+    "DSACPR66",
+    "REMOVEMUL"
   ],
   "history": [
     {
@@ -7976,6 +7980,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 00:00:59"
+    },
+    {
+      "code": "TRUEDARE",
+      "name": "Truth and Dare",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 13:37:14"
+    },
+    {
+      "code": "CHNUM",
+      "name": "Chef and Number Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 13:54:49"
+    },
+    {
+      "code": "EVENSUMSUB",
+      "name": "Even Sum Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 13:57:22"
     }
   ]
 }
