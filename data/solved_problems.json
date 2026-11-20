@@ -1,5 +1,5 @@
 {
-  "total_solved": 995,
+  "total_solved": 999,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -995,7 +995,11 @@
     "HOSTELROOM",
     "TRUEDARE",
     "CHNUM",
-    "EVENSUMSUB"
+    "EVENSUMSUB",
+    "FOODRES",
+    "CONVEYOR",
+    "FIGBOT",
+    "SUMPOS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8001,6 +8005,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 13:57:22"
+    },
+    {
+      "code": "FOODRES",
+      "name": "Food Resources",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:40:05"
+    },
+    {
+      "code": "CONVEYOR",
+      "name": "Conveyor Belt",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:42:20"
+    },
+    {
+      "code": "FIGBOT",
+      "name": "FightBots",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:44:28"
+    },
+    {
+      "code": "SUMPOS",
+      "name": "Pair Me",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:46:21"
     }
   ]
 }
