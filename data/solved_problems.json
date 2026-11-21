@@ -1,5 +1,5 @@
 {
-  "total_solved": 1014,
+  "total_solved": 1016,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1014,7 +1014,9 @@
     "DISTOPPSUMS",
     "STRNO",
     "LOSELESS",
-    "CHRISCANDY"
+    "CHRISCANDY",
+    "PLMU",
+    "SULIM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8155,6 +8157,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 16:48:57"
+    },
+    {
+      "code": "PLMU",
+      "name": "Plus Multiply",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:16:56"
+    },
+    {
+      "code": "SULIM",
+      "name": "Sugar Limit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:19:17"
     }
   ]
 }
