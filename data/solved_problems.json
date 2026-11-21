@@ -1,5 +1,5 @@
 {
-  "total_solved": 1016,
+  "total_solved": 1018,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1016,7 +1016,9 @@
     "LOSELESS",
     "CHRISCANDY",
     "PLMU",
-    "SULIM"
+    "SULIM",
+    "MARBLES",
+    "FALSNUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8171,6 +8173,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 20:19:17"
+    },
+    {
+      "code": "MARBLES",
+      "name": "Marbles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:29:02"
+    },
+    {
+      "code": "FALSNUM",
+      "name": "False Number",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 22:34:23"
     }
   ]
 }
