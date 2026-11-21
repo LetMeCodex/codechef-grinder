@@ -1,5 +1,5 @@
 {
-  "total_solved": 1010,
+  "total_solved": 1014,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1010,7 +1010,11 @@
     "CRZBISHOP",
     "ACMDT",
     "FINALSUM",
-    "DISPAL"
+    "DISPAL",
+    "DISTOPPSUMS",
+    "STRNO",
+    "LOSELESS",
+    "CHRISCANDY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1053,7 +1057,8 @@
     "CHEFEZQ",
     "DSACPR66",
     "REMOVEMUL",
-    "ANDOR"
+    "ANDOR",
+    "MATDIF"
   ],
   "history": [
     {
@@ -8122,6 +8127,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 13:15:31"
+    },
+    {
+      "code": "DISTOPPSUMS",
+      "name": "Distinct Opposite Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:42:19"
+    },
+    {
+      "code": "STRNO",
+      "name": "Strange Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:44:57"
+    },
+    {
+      "code": "LOSELESS",
+      "name": "Lose Less",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:46:46"
+    },
+    {
+      "code": "CHRISCANDY",
+      "name": "Christmas Candy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:48:57"
     }
   ]
 }
