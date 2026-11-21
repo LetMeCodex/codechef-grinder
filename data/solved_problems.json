@@ -1,5 +1,5 @@
 {
-  "total_solved": 1005,
+  "total_solved": 1010,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1005,7 +1005,12 @@
     "ELECTION1",
     "RBLT",
     "BORROWBOOK",
-    "DEPCHEF"
+    "DEPCHEF",
+    "BUDGET25",
+    "CRZBISHOP",
+    "ACMDT",
+    "FINALSUM",
+    "DISPAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8082,6 +8087,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 23:32:04"
+    },
+    {
+      "code": "BUDGET25",
+      "name": "Budget Allotment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:01:09"
+    },
+    {
+      "code": "CRZBISHOP",
+      "name": "Crazy Bishops on Chessboard",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 13:07:37"
+    },
+    {
+      "code": "ACMDT",
+      "name": "Accommodation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:09:44"
+    },
+    {
+      "code": "FINALSUM",
+      "name": "Final Sum",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 13:13:34"
+    },
+    {
+      "code": "DISPAL",
+      "name": "Distinct Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:15:31"
     }
   ]
 }
