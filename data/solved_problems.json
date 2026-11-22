@@ -1,5 +1,5 @@
 {
-  "total_solved": 1027,
+  "total_solved": 1031,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1027,7 +1027,11 @@
     "BINARYSUM",
     "LARGSMALL",
     "PLUS2MINUS1",
-    "PRINTINGBIN"
+    "PRINTINGBIN",
+    "NODESDIST",
+    "SMILEY",
+    "CHEFIZZA",
+    "MAKEPAL2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1071,7 +1075,8 @@
     "DSACPR66",
     "REMOVEMUL",
     "ANDOR",
-    "MATDIF"
+    "MATDIF",
+    "INFERNO"
   ],
   "history": [
     {
@@ -8259,6 +8264,34 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-22 17:22:56"
+    },
+    {
+      "code": "NODESDIST",
+      "name": "Distance between two nodes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:30:15"
+    },
+    {
+      "code": "SMILEY",
+      "name": "Schrodinger Smiley",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:32:47"
+    },
+    {
+      "code": "CHEFIZZA",
+      "name": "Chef loves Pizza Chef loves halfs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:34:35"
+    },
+    {
+      "code": "MAKEPAL2",
+      "name": "Make Palindrome 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:36:43"
     }
   ]
 }
