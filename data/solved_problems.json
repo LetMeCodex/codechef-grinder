@@ -1,5 +1,5 @@
 {
-  "total_solved": 1018,
+  "total_solved": 1023,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1018,7 +1018,12 @@
     "PLMU",
     "SULIM",
     "MARBLES",
-    "FALSNUM"
+    "FALSNUM",
+    "NOTDIVISIBLE",
+    "FILLGRID",
+    "DIAGMOVE",
+    "EXSHAKE",
+    "MXALT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8187,6 +8192,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-21 22:34:23"
+    },
+    {
+      "code": "NOTDIVISIBLE",
+      "name": "Not Divisible",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 12:54:41"
+    },
+    {
+      "code": "FILLGRID",
+      "name": "The Grid Fill Problem",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 12:57:45"
+    },
+    {
+      "code": "DIAGMOVE",
+      "name": "Diagonal movement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 12:59:23"
+    },
+    {
+      "code": "EXSHAKE",
+      "name": "Exun Handshake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 13:01:04"
+    },
+    {
+      "code": "MXALT",
+      "name": "Maximum Alternating Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 13:02:39"
     }
   ]
 }
