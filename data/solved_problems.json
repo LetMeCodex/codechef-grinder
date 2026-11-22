@@ -1,5 +1,5 @@
 {
-  "total_solved": 1031,
+  "total_solved": 1035,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1031,7 +1031,11 @@
     "NODESDIST",
     "SMILEY",
     "CHEFIZZA",
-    "MAKEPAL2"
+    "MAKEPAL2",
+    "FRIMEET",
+    "POSPROD",
+    "CAPPLE",
+    "BUYING2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8292,6 +8296,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-22 20:36:43"
+    },
+    {
+      "code": "FRIMEET",
+      "name": "Friends Meetup",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 22:50:50"
+    },
+    {
+      "code": "POSPROD",
+      "name": "Positive Products",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 22:53:03"
+    },
+    {
+      "code": "CAPPLE",
+      "name": "Chef and Apple Trees",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 22:54:32"
+    },
+    {
+      "code": "BUYING2",
+      "name": "Buying Sweets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 22:56:18"
     }
   ]
 }
