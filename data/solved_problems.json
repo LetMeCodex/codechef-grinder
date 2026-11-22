@@ -1,5 +1,5 @@
 {
-  "total_solved": 1023,
+  "total_solved": 1027,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1023,7 +1023,11 @@
     "FILLGRID",
     "DIAGMOVE",
     "EXSHAKE",
-    "MXALT"
+    "MXALT",
+    "BINARYSUM",
+    "LARGSMALL",
+    "PLUS2MINUS1",
+    "PRINTINGBIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8227,6 +8231,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-22 13:02:39"
+    },
+    {
+      "code": "BINARYSUM",
+      "name": "Binary Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 16:58:46"
+    },
+    {
+      "code": "LARGSMALL",
+      "name": "Larger Smaller",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 17:01:09"
+    },
+    {
+      "code": "PLUS2MINUS1",
+      "name": "Plus 2 or Minus 1",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 17:07:16"
+    },
+    {
+      "code": "PRINTINGBIN",
+      "name": "Printing Binary Array",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-22 17:22:56"
     }
   ]
 }
