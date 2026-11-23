@@ -1,5 +1,5 @@
 {
-  "total_solved": 1040,
+  "total_solved": 1044,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1040,7 +1040,11 @@
     "STUDVOTE",
     "LIFTME",
     "NO4S",
-    "PRODUCT"
+    "PRODUCT",
+    "CHFTIRED",
+    "P4149",
+    "SIGNMOVE",
+    "BIGSALE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1085,7 +1089,8 @@
     "REMOVEMUL",
     "ANDOR",
     "MATDIF",
-    "INFERNO"
+    "INFERNO",
+    "RYCARDS"
   ],
   "history": [
     {
@@ -8364,6 +8369,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-23 15:32:22"
+    },
+    {
+      "code": "CHFTIRED",
+      "name": "Chef and Difficult Contests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 21:00:12"
+    },
+    {
+      "code": "P4149",
+      "name": "Maximise Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 21:03:04"
+    },
+    {
+      "code": "SIGNMOVE",
+      "name": "Sign Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 21:05:33"
+    },
+    {
+      "code": "BIGSALE",
+      "name": "A Big Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 21:07:28"
     }
   ]
 }
