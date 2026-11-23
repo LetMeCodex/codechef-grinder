@@ -1,5 +1,5 @@
 {
-  "total_solved": 1035,
+  "total_solved": 1040,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1035,7 +1035,12 @@
     "FRIMEET",
     "POSPROD",
     "CAPPLE",
-    "BUYING2"
+    "BUYING2",
+    "FIRSTGEO",
+    "STUDVOTE",
+    "LIFTME",
+    "NO4S",
+    "PRODUCT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8324,6 +8329,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-22 22:56:18"
+    },
+    {
+      "code": "FIRSTGEO",
+      "name": "My First Geometry Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 15:22:33"
+    },
+    {
+      "code": "STUDVOTE",
+      "name": "Drumpf for President!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 15:24:52"
+    },
+    {
+      "code": "LIFTME",
+      "name": "Lift Requests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 15:27:00"
+    },
+    {
+      "code": "NO4S",
+      "name": "No 4 Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 15:29:32"
+    },
+    {
+      "code": "PRODUCT",
+      "name": "The product mystery",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-23 15:32:22"
     }
   ]
 }
