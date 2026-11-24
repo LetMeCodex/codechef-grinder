@@ -1,5 +1,5 @@
 {
-  "total_solved": 1050,
+  "total_solved": 1054,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1050,7 +1050,11 @@
     "MAXREM",
     "BBXJG01",
     "SEDARR",
-    "SORTPREF"
+    "SORTPREF",
+    "ODDEVENDIV",
+    "DWNLD",
+    "SKIPONE",
+    "NOFIX"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8446,6 +8450,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 03:38:38"
+    },
+    {
+      "code": "ODDEVENDIV",
+      "name": "Check Odd Even Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 15:17:11"
+    },
+    {
+      "code": "DWNLD",
+      "name": "Download file",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 15:18:36"
+    },
+    {
+      "code": "SKIPONE",
+      "name": "Skip one",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-24 15:24:29"
+    },
+    {
+      "code": "NOFIX",
+      "name": "Avoid Fixed Points",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 15:27:22"
     }
   ]
 }
