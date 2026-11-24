@@ -1,5 +1,5 @@
 {
-  "total_solved": 1048,
+  "total_solved": 1050,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1048,7 +1048,9 @@
     "P2235",
     "PERMCREATE",
     "MAXREM",
-    "BBXJG01"
+    "BBXJG01",
+    "SEDARR",
+    "SORTPREF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1094,7 +1096,8 @@
     "ANDOR",
     "MATDIF",
     "INFERNO",
-    "RYCARDS"
+    "RYCARDS",
+    "SPLITIT"
   ],
   "history": [
     {
@@ -8429,6 +8432,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-24 01:28:41"
+    },
+    {
+      "code": "SEDARR",
+      "name": "Sed Sequences",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 03:30:19"
+    },
+    {
+      "code": "SORTPREF",
+      "name": "Sorting Prefixes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 03:38:38"
     }
   ]
 }
