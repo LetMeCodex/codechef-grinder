@@ -1,5 +1,5 @@
 {
-  "total_solved": 1044,
+  "total_solved": 1048,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1044,7 +1044,11 @@
     "CHFTIRED",
     "P4149",
     "SIGNMOVE",
-    "BIGSALE"
+    "BIGSALE",
+    "P2235",
+    "PERMCREATE",
+    "MAXREM",
+    "BBXJG01"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8397,6 +8401,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-23 21:07:28"
+    },
+    {
+      "code": "P2235",
+      "name": "Recover Palindrome",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 01:19:22"
+    },
+    {
+      "code": "PERMCREATE",
+      "name": "Permutation Creation",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 01:23:48"
+    },
+    {
+      "code": "MAXREM",
+      "name": "Maximum Remaining",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 01:26:01"
+    },
+    {
+      "code": "BBXJG01",
+      "name": "Chef Builds Stack",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 01:28:41"
     }
   ]
 }
