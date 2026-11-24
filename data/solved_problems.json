@@ -1,5 +1,5 @@
 {
-  "total_solved": 1057,
+  "total_solved": 1060,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1057,7 +1057,10 @@
     "NOFIX",
     "COUNTAB",
     "ROCPAPSCI",
-    "CARRCOL"
+    "CARRCOL",
+    "NUMGAME",
+    "BILLRD",
+    "EVENGAME"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8502,6 +8505,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 20:12:11"
+    },
+    {
+      "code": "NUMGAME",
+      "name": "Yet Another Number Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 23:17:52"
+    },
+    {
+      "code": "BILLRD",
+      "name": "Point Of Impact",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 23:23:40"
+    },
+    {
+      "code": "EVENGAME",
+      "name": "Even Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 23:25:58"
     }
   ]
 }
