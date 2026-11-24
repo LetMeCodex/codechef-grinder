@@ -1,5 +1,5 @@
 {
-  "total_solved": 1054,
+  "total_solved": 1057,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1054,7 +1054,10 @@
     "ODDEVENDIV",
     "DWNLD",
     "SKIPONE",
-    "NOFIX"
+    "NOFIX",
+    "COUNTAB",
+    "ROCPAPSCI",
+    "CARRCOL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8478,6 +8481,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 15:27:22"
+    },
+    {
+      "code": "COUNTAB",
+      "name": "Counting Characters ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 20:02:06"
+    },
+    {
+      "code": "ROCPAPSCI",
+      "name": "Rock Paper Scissors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 20:10:17"
+    },
+    {
+      "code": "CARRCOL",
+      "name": "Carrot Collection",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 20:12:11"
     }
   ]
 }
