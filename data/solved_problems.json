@@ -1,5 +1,5 @@
 {
-  "total_solved": 1067,
+  "total_solved": 1069,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1067,7 +1067,9 @@
     "DISCHAR",
     "SUBSUM3",
     "TWONMS",
-    "KNIGHT2"
+    "KNIGHT2",
+    "CHOCUT",
+    "LOSTSEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8582,6 +8584,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-25 15:02:25"
+    },
+    {
+      "code": "CHOCUT",
+      "name": "Chococut",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 19:02:55"
+    },
+    {
+      "code": "LOSTSEQ",
+      "name": "Careless Chef",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-25 19:08:53"
     }
   ]
 }
