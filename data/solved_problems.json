@@ -1,5 +1,5 @@
 {
-  "total_solved": 1060,
+  "total_solved": 1064,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1060,7 +1060,11 @@
     "CARRCOL",
     "NUMGAME",
     "BILLRD",
-    "EVENGAME"
+    "EVENGAME",
+    "BAKECAKE2",
+    "CHEFDETE",
+    "SPLITMAX",
+    "DISCHAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8526,6 +8530,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 23:25:58"
+    },
+    {
+      "code": "BAKECAKE2",
+      "name": "Chef Bakes Cake 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 01:38:50"
+    },
+    {
+      "code": "CHEFDETE",
+      "name": "Chef-Detective",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 01:40:25"
+    },
+    {
+      "code": "SPLITMAX",
+      "name": "Split and Maximize",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 01:43:18"
+    },
+    {
+      "code": "DISCHAR",
+      "name": "Distinct Characters Subsequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 01:44:25"
     }
   ]
 }
