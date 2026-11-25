@@ -1,5 +1,5 @@
 {
-  "total_solved": 1069,
+  "total_solved": 1073,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1069,7 +1069,11 @@
     "TWONMS",
     "KNIGHT2",
     "CHOCUT",
-    "LOSTSEQ"
+    "LOSTSEQ",
+    "MTE",
+    "CHEFPRMS",
+    "BAB_I",
+    "P3235"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8598,6 +8602,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-25 19:08:53"
+    },
+    {
+      "code": "MTE",
+      "name": "Make Them Equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:50:38"
+    },
+    {
+      "code": "CHEFPRMS",
+      "name": "Chef and Semi-Primes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:53:35"
+    },
+    {
+      "code": "BAB_I",
+      "name": "Chef And Babla",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:56:12"
+    },
+    {
+      "code": "P3235",
+      "name": "Balanced Positions in a Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:58:18"
     }
   ]
 }
