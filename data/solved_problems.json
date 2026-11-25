@@ -1,5 +1,5 @@
 {
-  "total_solved": 1064,
+  "total_solved": 1067,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1064,7 +1064,10 @@
     "BAKECAKE2",
     "CHEFDETE",
     "SPLITMAX",
-    "DISCHAR"
+    "DISCHAR",
+    "SUBSUM3",
+    "TWONMS",
+    "KNIGHT2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8558,6 +8561,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-25 01:44:25"
+    },
+    {
+      "code": "SUBSUM3",
+      "name": "Subset Sum 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 14:58:04"
+    },
+    {
+      "code": "TWONMS",
+      "name": "Two Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 15:00:29"
+    },
+    {
+      "code": "KNIGHT2",
+      "name": "Journey of the Knight",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 15:02:25"
     }
   ]
 }
