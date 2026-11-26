@@ -1,5 +1,5 @@
 {
-  "total_solved": 1079,
+  "total_solved": 1082,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1079,7 +1079,10 @@
     "EQUALSTRING",
     "MAKEPALAGAIN",
     "THREEPOW2",
-    "EZSPK"
+    "EZSPK",
+    "FAKEGCD",
+    "DELDIF",
+    "TOTR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8679,6 +8682,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 14:28:18"
+    },
+    {
+      "code": "FAKEGCD",
+      "name": "Fake GCD",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 18:54:23"
+    },
+    {
+      "code": "DELDIF",
+      "name": "Deletion and Difference",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 18:57:54"
+    },
+    {
+      "code": "TOTR",
+      "name": "Tourist Translations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 19:00:02"
     }
   ]
 }
