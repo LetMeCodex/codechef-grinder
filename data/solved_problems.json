@@ -1,5 +1,5 @@
 {
-  "total_solved": 1078,
+  "total_solved": 1079,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1078,7 +1078,8 @@
     "WALK",
     "EQUALSTRING",
     "MAKEPALAGAIN",
-    "THREEPOW2"
+    "THREEPOW2",
+    "EZSPK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1125,7 +1126,8 @@
     "MATDIF",
     "INFERNO",
     "RYCARDS",
-    "SPLITIT"
+    "SPLITIT",
+    "PARTSCORE"
   ],
   "history": [
     {
@@ -8670,6 +8672,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 01:24:16"
+    },
+    {
+      "code": "EZSPK",
+      "name": "Easy Speaking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 14:28:18"
     }
   ]
 }
