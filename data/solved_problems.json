@@ -1,5 +1,5 @@
 {
-  "total_solved": 1082,
+  "total_solved": 1087,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1082,7 +1082,12 @@
     "EZSPK",
     "FAKEGCD",
     "DELDIF",
-    "TOTR"
+    "TOTR",
+    "TWOPLG",
+    "STRSEAT",
+    "ADDDICE",
+    "CLOSEVOWEL",
+    "RRR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8703,6 +8708,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 19:00:02"
+    },
+    {
+      "code": "TWOPLG",
+      "name": "Two Pile Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:39:40"
+    },
+    {
+      "code": "STRSEAT",
+      "name": "Starved for Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:41:34"
+    },
+    {
+      "code": "ADDDICE",
+      "name": "Adding Dice",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 22:43:44"
+    },
+    {
+      "code": "CLOSEVOWEL",
+      "name": "Closest Vowels",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 22:47:54"
+    },
+    {
+      "code": "RRR",
+      "name": "Round Robin Ranks ",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-26 22:59:31"
     }
   ]
 }
