@@ -1,5 +1,5 @@
 {
-  "total_solved": 1073,
+  "total_solved": 1078,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1073,7 +1073,12 @@
     "MTE",
     "CHEFPRMS",
     "BAB_I",
-    "P3235"
+    "P3235",
+    "DISTSUB",
+    "WALK",
+    "EQUALSTRING",
+    "MAKEPALAGAIN",
+    "THREEPOW2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8630,6 +8635,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-25 22:58:18"
+    },
+    {
+      "code": "DISTSUB",
+      "name": "Distinct Substring",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 01:13:39"
+    },
+    {
+      "code": "WALK",
+      "name": "Walk",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:15:49"
+    },
+    {
+      "code": "EQUALSTRING",
+      "name": "Equal Strings",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 01:19:45"
+    },
+    {
+      "code": "MAKEPALAGAIN",
+      "name": "Yet Another Palindrome Making Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:21:32"
+    },
+    {
+      "code": "THREEPOW2",
+      "name": "Three Powers of Two",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:24:16"
     }
   ]
 }
