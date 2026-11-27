@@ -1,5 +1,5 @@
 {
-  "total_solved": 1093,
+  "total_solved": 1097,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1093,7 +1093,11 @@
     "SINS",
     "CHEFRECP",
     "RCT",
-    "TWOCLOSE"
+    "TWOCLOSE",
+    "CRNET",
+    "KARR",
+    "DIS2SUB",
+    "GRIDXOR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8792,6 +8796,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-27 18:52:33"
+    },
+    {
+      "code": "CRNET",
+      "name": "Cricket Nets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 22:22:53"
+    },
+    {
+      "code": "KARR",
+      "name": "Another Game",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-27 22:27:49"
+    },
+    {
+      "code": "DIS2SUB",
+      "name": "Distinct 2 Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 22:30:21"
+    },
+    {
+      "code": "GRIDXOR",
+      "name": "Sarthak and his Magic Grid",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-27 22:34:07"
     }
   ]
 }
