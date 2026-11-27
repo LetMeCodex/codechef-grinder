@@ -1,5 +1,5 @@
 {
-  "total_solved": 1088,
+  "total_solved": 1090,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1088,7 +1088,9 @@
     "ADDDICE",
     "CLOSEVOWEL",
     "RRR",
-    "DISCSHOP"
+    "DISCSHOP",
+    "CACHEHIT",
+    "SINS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8752,6 +8754,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-27 01:16:31"
+    },
+    {
+      "code": "CACHEHIT",
+      "name": "Cache Hits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 14:20:43"
+    },
+    {
+      "code": "SINS",
+      "name": "The Deadly Sin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 14:22:38"
     }
   ]
 }
