@@ -1,5 +1,5 @@
 {
-  "total_solved": 1090,
+  "total_solved": 1093,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1090,7 +1090,10 @@
     "RRR",
     "DISCSHOP",
     "CACHEHIT",
-    "SINS"
+    "SINS",
+    "CHEFRECP",
+    "RCT",
+    "TWOCLOSE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8768,6 +8771,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-27 14:22:38"
+    },
+    {
+      "code": "CHEFRECP",
+      "name": "Chef and Recipe",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-27 18:48:12"
+    },
+    {
+      "code": "RCT",
+      "name": "Rectangular Tiling",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 18:49:53"
+    },
+    {
+      "code": "TWOCLOSE",
+      "name": "Not-too-far Replacement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 18:52:33"
     }
   ]
 }
