@@ -1,5 +1,5 @@
 {
-  "total_solved": 1087,
+  "total_solved": 1088,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1087,7 +1087,8 @@
     "STRSEAT",
     "ADDDICE",
     "CLOSEVOWEL",
-    "RRR"
+    "RRR",
+    "DISCSHOP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1135,7 +1136,8 @@
     "INFERNO",
     "RYCARDS",
     "SPLITIT",
-    "PARTSCORE"
+    "PARTSCORE",
+    "DPF"
   ],
   "history": [
     {
@@ -8743,6 +8745,13 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-26 22:59:31"
+    },
+    {
+      "code": "DISCSHOP",
+      "name": "Discount in a Shop",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 01:16:31"
     }
   ]
 }
