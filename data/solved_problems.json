@@ -1,5 +1,5 @@
 {
-  "total_solved": 1101,
+  "total_solved": 1105,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1101,7 +1101,11 @@
     "EXQUIZ",
     "APPROVAL",
     "DOTIFYPLAY",
-    "S02E10"
+    "S02E10",
+    "DISABLEDKING",
+    "TRACE",
+    "SPELLBOB",
+    "POINTT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8856,6 +8860,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-28 00:51:24"
+    },
+    {
+      "code": "DISABLEDKING",
+      "name": "Disabled King",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-28 13:39:03"
+    },
+    {
+      "code": "TRACE",
+      "name": "Trace of Matrix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:41:27"
+    },
+    {
+      "code": "SPELLBOB",
+      "name": "Spell Bob",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:43:22"
+    },
+    {
+      "code": "POINTT",
+      "name": "Points Table",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:44:29"
     }
   ]
 }
