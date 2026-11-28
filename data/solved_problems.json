@@ -1,5 +1,5 @@
 {
-  "total_solved": 1097,
+  "total_solved": 1101,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1097,7 +1097,11 @@
     "CRNET",
     "KARR",
     "DIS2SUB",
-    "GRIDXOR"
+    "GRIDXOR",
+    "EXQUIZ",
+    "APPROVAL",
+    "DOTIFYPLAY",
+    "S02E10"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8824,6 +8828,34 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-27 22:34:07"
+    },
+    {
+      "code": "EXQUIZ",
+      "name": "Exun Quiz",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 00:43:32"
+    },
+    {
+      "code": "APPROVAL",
+      "name": "Approval Ratings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 00:45:53"
+    },
+    {
+      "code": "DOTIFYPLAY",
+      "name": "Dotify Playlist",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 00:48:09"
+    },
+    {
+      "code": "S02E10",
+      "name": "The One with Russ",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-28 00:51:24"
     }
   ]
 }
